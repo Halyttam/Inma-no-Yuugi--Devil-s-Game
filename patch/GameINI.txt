@@ -1,0 +1,7 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+淫魔の遊戯
+> CONTEXT: GameINI/Title
+> CONTEXT: System/game_title/
+Game of Imma
+> END STRING

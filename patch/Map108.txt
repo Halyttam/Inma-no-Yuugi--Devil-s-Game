@@ -1,0 +1,171 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「今の領主様になって魔物や淫魔の被害は減り、
+　生活は改善したんだが…一つ不思議なことがね」
+> CONTEXT: Map108/events/1/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「実は毎月一度この町に来て、
+　領主の館に男の働き手を連れて行くんだよ。
+　しかも行った男は誰一人として帰って来ない」
+> CONTEXT: Map108/events/1/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ギルドからも不審に思って、
+　何度も腕利きを募り探りを入れているんだが、
+　それすら一人もね」
+> CONTEXT: Map108/events/1/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そう言えば恋人が帰って来ないという女性が、
+　昨日飲みに来たっけか。
+　彼女の家は…町の中央辺りだったかな」
+> CONTEXT: Map108/events/1/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「領主様の正体が、実は雪女の淫魔だったとはね」
+> CONTEXT: Map108/events/1/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「しかし人間そっくりだと、
+　淫魔だとわからないものだね」
+> CONTEXT: Map108/events/1/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いや、殆ど町人の前に姿を現さない領主という時点で、
+　もっと警戒するべきだったよ」
+> CONTEXT: Map108/events/1/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いくら自分たちの生活が良くなったとしてもね。
+　ふむ…一つ肝に銘じておこう」
+> CONTEXT: Map108/events/1/pages/0/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何でもここの領主様は美しい容姿なうえ、
+　男好きらしいぜ？」
+> CONTEXT: Map108/events/11/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map108/events/11/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「俺も辛い船乗りなんて辞めて、
+　領主様の屋敷で働きながらの、
+　ただれきった生活を送りたいぜ！」
+> CONTEXT: Map108/events/11/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「たとえ正体が淫魔だったとしても、
+　腹上死で天国に逝けるとくれば…って、
+　やっぱり怖いよな！」
+> CONTEXT: Map108/events/11/pages/1/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うう…寒い！
+　こうも寒いと荷物の積み下ろしの手も、
+　止まるってもんだぜ」
+> CONTEXT: Map108/events/12/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「だから酒場で一休みしたところで、
+　誰にも責められねえのさ。
+　あぁ…酒がうまい！」
+> CONTEXT: Map108/events/12/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「この雪では、
+　積み下ろしも思うように捗らないからな」
+> CONTEXT: Map108/events/13/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「時には手を休めて、
+　活力を補充することも大切なのだ」
+> CONTEXT: Map108/events/13/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うむ…酒がカラダに染みこむな」
+> CONTEXT: Map108/events/13/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私は旅の吟遊詩人ですが、
+　最近は英雄や姫君の語りが減り、
+　妖艶な淫魔が男を籠絡する語りを良く聞きます」
+> CONTEXT: Map108/events/14/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ここ数年は魔物の数が減り、
+　逆に淫魔の数が増える一方なので、
+　その影響でしょうか？」
+> CONTEXT: Map108/events/14/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何と言いますか…世界全体が、
+　淫らに変わってきている…そう感じます」
+> CONTEXT: Map108/events/14/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アルコール度数の高そうな酒がしまわれている。
+> CONTEXT: Map108/events/15/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map108/events/16/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雪国での生活の知恵などの本が並べられている。
+> CONTEXT: Map108/events/17/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map108/events/18/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「旅をしていると淫魔に追われることもしばしばで、
+　そのたびにいつ背後をつかれないかと、
+　ヒヤヒヤしています」
+> CONTEXT: Map108/events/19/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「淫魔の背後をつけば、勝ち目はあるのですが。
+　二人パーティーだと後列を狙われやすく、
+　最初から逃げる前提ならば、一人のほうが気楽ですね」
+> CONTEXT: Map108/events/19/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING

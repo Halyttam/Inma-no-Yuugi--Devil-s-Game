@@ -1,0 +1,1357 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+白衣
+> CONTEXT: Weapons/1/name/
+White robe
+> END STRING
+
+> BEGIN STRING
+精+0 理+10 攻+0 防+5 道+15 抵+5 行+5 運+0
+イきそう イきそうを２０％で防止する
+> CONTEXT: Weapons/1/description/
+Energy +0 reasons + ten attacks +0 defends + five roads +15 [**] + five line + five fates +0
+Come and prevent the coming aspect so by 20%.
+> END STRING
+
+> BEGIN STRING
+清潔な寝間着
+> CONTEXT: Weapons/2/name/
+Clean pajamas
+> END STRING
+
+> BEGIN STRING
+精+40 理+10 攻+5 防+5 道+0 抵+0 行+5 運+5
+骨抜き 骨抜きを２０％で防止する
+> CONTEXT: Weapons/2/description/
+Energy +40 reasons + ten attacks + five defends + five roads +0 [**] +0 line + five fates +5
+Prevent the gutlessness gutlessness by 20%.
+> END STRING
+
+> BEGIN STRING
+地味な服
+> CONTEXT: Weapons/3/name/
+Plain dress
+> END STRING
+
+> BEGIN STRING
+精+60 理+10 攻+10 防+10 道+0 抵+10 行+10 運+10
+魅了 魅了を２０％で防止する
+> CONTEXT: Weapons/3/description/
+Energy +60 reasons + ten attacks + ten defends + ten roads +0 [**] + ten line + ten fates +10
+Prevent the enchanting enchanting by 20%.
+> END STRING
+
+> BEGIN STRING
+麻の服
+> CONTEXT: Weapons/4/name/
+Clothes of hemp
+> END STRING
+
+> BEGIN STRING
+精+0 理+40 攻+10 防+15 道+5 抵+10 行+10 運+0
+イきそう イきそうを２０％で防止する
+> CONTEXT: Weapons/4/description/
+Energy +0 reasons +40 attacks + ten defends +15 roads + five [**] + ten line + ten fates +0
+Come and prevent the coming aspect so by 20%.
+> END STRING
+
+> BEGIN STRING
+奴隷の服
+> CONTEXT: Weapons/5/name/
+Slave's clothes
+> END STRING
+
+> BEGIN STRING
+精+50 理+20 攻+0 防+30 道+15 抵+25 行+10 運+5
+骨抜き 骨抜きを２０％で防止する
+> CONTEXT: Weapons/5/description/
+Energy +50 reasons +20 attacks +0 defends +30 roads +15 [**] +25 line + ten fates +5
+Prevent the gutlessness gutlessness by 20%.
+> END STRING
+
+> BEGIN STRING
+山賊の服
+> CONTEXT: Weapons/6/name/
+Bandit's clothes
+> END STRING
+
+> BEGIN STRING
+精+100 理+20 攻+35 防+15 道+5 抵+5 行+15 運+0
+魅了 魅了を２０％で防止する
+> CONTEXT: Weapons/6/description/
+Energy +100 reasons +20 attacks +35 defends +15 roads + five [**] + five line +15 fates +0
+Prevent the enchanting enchanting by 20%.
+> END STRING
+
+> BEGIN STRING
+水夫の服
+> CONTEXT: Weapons/7/name/
+Sailor's clothes
+> END STRING
+
+> BEGIN STRING
+精+60 理+25 攻+10 防+30 道+10 抵+30 行+20 運+0
+イきそう イきそうを２０％で防止する
+> CONTEXT: Weapons/7/description/
+Energy +60 reasons +25 attacks + ten defends +30 roads + ten [**] +30 line +20 fates +0
+Come and prevent the coming aspect so by 20%.
+> END STRING
+
+> BEGIN STRING
+海賊の服
+> CONTEXT: Weapons/8/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+120 理+0 攻+40 防+10 道+10 抵+0 行+30 運+10
+骨抜き 骨抜きを２０％で防止する
+> CONTEXT: Weapons/8/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+執事の服
+> CONTEXT: Weapons/9/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+80 理+30 攻+15 防+35 道+50 抵+35 行+15 運+0
+魅了 魅了を２０％で防止する
+> CONTEXT: Weapons/9/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+警備員の服
+> CONTEXT: Weapons/10/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+60 理+40 攻+40 防+10 道+30 抵+20 行+20 運+20
+イきそう イきそうを４０％で防止する
+> CONTEXT: Weapons/10/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+弓兵の服
+> CONTEXT: Weapons/11/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+100 理+40 攻+30 防+20 道+60 抵+50 行+40 運+20
+骨抜き 骨抜きを４０％で防止する
+> CONTEXT: Weapons/11/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+熊の着ぐるみ
+> CONTEXT: Weapons/12/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+200 理+40 攻+60 防+60 道+20 抵+10 行+20 運+30
+魅了 魅了を４０％で防止する
+> CONTEXT: Weapons/12/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+司祭の衣
+> CONTEXT: Weapons/13/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+215 理+50 攻+20 防+50 道+50 抵+25 行+50 運+30
+イきそう イきそうを４０％で防止する
+> CONTEXT: Weapons/13/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖者の衣
+> CONTEXT: Weapons/14/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+180 理+110 攻+50 防+50 道+50 抵+50 行+25 運+20
+骨抜き 骨抜きを４０％で防止する
+> CONTEXT: Weapons/14/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+忍の黒装束
+> CONTEXT: Weapons/15/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+270 理+100 攻+65 防+25 道+60 抵+55 行+65 運+35
+魅了 魅了を４０％で防止する
+> CONTEXT: Weapons/15/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+執事長の服
+> CONTEXT: Weapons/16/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+130 理+135 攻+55 防+60 道+60 抵+60 行+60 運+35
+イきそう イきそうを４０％で防止する
+> CONTEXT: Weapons/16/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナース服
+> CONTEXT: Weapons/17/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+20 理+10 攻+0 防+5 道+15 抵+5 行+0 運+0
+イきそう イきそうを２０％で防止する
+> CONTEXT: Weapons/17/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ネグリジェ
+> CONTEXT: Weapons/18/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+20 理+10 攻+5 防+0 道+0 抵+0 行+5 運+15
+骨抜き 骨抜きを２０％で防止する
+> CONTEXT: Weapons/18/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+葉っぱの水着
+> CONTEXT: Weapons/19/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+40 理+0 攻+20 防+0 道+10 抵+0 行+20 運+10
+魅了 魅了を２０％で防止する
+> CONTEXT: Weapons/19/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+蔦の服
+> CONTEXT: Weapons/20/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+40 理+40 攻+0 防+10 道+10 抵+0 行+5 運+15
+イきそう イきそうを２０％で防止する
+> CONTEXT: Weapons/20/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+囚人の服
+> CONTEXT: Weapons/21/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+40 理+15 攻+10 防+10 道+35 抵+10 行+15 運+10
+骨抜き 骨抜きを２０％で防止する
+> CONTEXT: Weapons/21/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+破れた布きれ
+> CONTEXT: Weapons/22/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+90 理+20 攻+15 防+5 道+25 抵+5 行+15 運+10
+魅了 魅了を２０％で防止する
+> CONTEXT: Weapons/22/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スライムの粘液
+> CONTEXT: Weapons/23/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+60 理+25 攻+40 防+10 道+20 抵+10 行+20 運+0
+イきそう イきそうを２０％で防止する
+> CONTEXT: Weapons/23/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+セーラー服
+> CONTEXT: Weapons/24/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+20 理+40 攻+0 防+30 道+10 抵+30 行+10 運+15
+骨抜き 骨抜きを２０％で防止する
+> CONTEXT: Weapons/24/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+令嬢の服
+> CONTEXT: Weapons/25/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+100 理+20 攻+15 防+35 道+35 抵+35 行+30 運+0
+魅了 魅了を２０％で防止する
+> CONTEXT: Weapons/25/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+メイドの服
+> CONTEXT: Weapons/26/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+160 理+0 攻+0 防+30 道+30 抵+0 行+50 運+20
+イきそう イきそうを４０％で防止する
+> CONTEXT: Weapons/26/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Ｄエルフの服
+> CONTEXT: Weapons/27/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+200 理+40 攻+60 防+10 道+50 抵+10 行+60 運+30
+骨抜き 骨抜きを４０％で防止する
+> CONTEXT: Weapons/27/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハイエルフの服
+> CONTEXT: Weapons/28/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+50 理+100 攻+10 防+60 道+60 抵+30 行+30 運+15
+魅了 魅了を４０％で防止する
+> CONTEXT: Weapons/28/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+修道士の衣
+> CONTEXT: Weapons/29/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+100 理+100 攻+20 防+60 道+35 抵+55 行+35 運+30
+イきそう イきそうを４０％で防止する
+> CONTEXT: Weapons/29/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+天使の衣
+> CONTEXT: Weapons/30/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+115 理+110 攻+0 防+45 道+60 抵+55 行+60 運+30
+骨抜き 骨抜きを４０％で防止する
+> CONTEXT: Weapons/30/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+くノ一の装束
+> CONTEXT: Weapons/31/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+270 理+100 攻+65 防+60 道+60 抵+60 行+65 運+0
+魅了 魅了を４０％で防止する
+> CONTEXT: Weapons/31/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+メイド長の服
+> CONTEXT: Weapons/32/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+100 理+95 攻+60 防+60 道+60 抵+60 行+60 運+35
+イきそう イきそうを４０％で防止する
+> CONTEXT: Weapons/32/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+修行着
+> CONTEXT: Weapons/41/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+20 理+10 攻+5 防+5 道+5 抵+5 行+5 運+5
+幸運+10% 戦闘終了後の拾得魔貨が１０％上昇する
+> CONTEXT: Weapons/41/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+修行着+1
+> CONTEXT: Weapons/42/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+40 理+20 攻+10 防+10 道+10 抵+10 行+10 運+10
+幸運+10% 戦闘終了後のＳＰが１０％上昇する
+> CONTEXT: Weapons/42/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+修行着+2
+> CONTEXT: Weapons/43/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+80 理+30 攻+15 防+15 道+15 抵+15 行+15 運+15
+幸運+10% 戦闘終了後のＳＰが１０％上昇する
+> CONTEXT: Weapons/43/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+修行着+3
+> CONTEXT: Weapons/44/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+120 理+45 攻+20 防+20 道+20 抵+20 行+20 運+15
+幸運+20% 戦闘終了後のＳＰが２０％上昇する
+> CONTEXT: Weapons/44/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+修行着+4
+> CONTEXT: Weapons/45/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+160 理+60 攻+30 防+30 道+30 抵+30 行+30 運+20
+幸運+20% 戦闘終了後のＳＰが２０％上昇する
+> CONTEXT: Weapons/45/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+修行着+5
+> CONTEXT: Weapons/46/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+200 理+80 攻+40 防+40 道+40 抵+40 行+40 運+25
+幸運+20% 戦闘終了後のＳＰが２０％上昇する
+> CONTEXT: Weapons/46/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+修行着+6
+> CONTEXT: Weapons/47/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+240 理+100 攻+50 防+50 道+50 抵+50 行+50 運+30
+幸運+30% 戦闘終了後のＳＰが３０％上昇する
+> CONTEXT: Weapons/47/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+修行着+7
+> CONTEXT: Weapons/48/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+280 理+120 攻+60 防+60 道+60 抵+60 行+60 運+35
+幸運+30% 戦闘終了後のＳＰが３０％上昇する
+> CONTEXT: Weapons/48/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+修行着+8
+> CONTEXT: Weapons/49/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+320 理+140 攻+70 防+70 道+70 抵+70 行+70 運+40
+幸運+30% 戦闘終了後のＳＰが３０％上昇する
+> CONTEXT: Weapons/49/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+旅人の服
+> CONTEXT: Weapons/51/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+56 理+28 攻+8 防+8 道+8 抵+8 行+8 運+8
+休息+10% 戦闘終了後に精力と理性が１０％回復する
+> CONTEXT: Weapons/51/description/ < UNTRANSLATED
+> CONTEXT: Weapons/131/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+旅人の服+1
+> CONTEXT: Weapons/52/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+140 理+60 攻+10 防+10 道+10 抵+10 行+10 運+10
+休息+10% 戦闘終了後に精力と理性が１０％回復する
+> CONTEXT: Weapons/52/description/ < UNTRANSLATED
+> CONTEXT: Weapons/132/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+旅人の服+2
+> CONTEXT: Weapons/53/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+180 理+75 攻+15 防+15 道+15 抵+15 行+15 運+10
+休息+10% 戦闘終了後に精力と理性が１０％回復する
+> CONTEXT: Weapons/53/description/ < UNTRANSLATED
+> CONTEXT: Weapons/133/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+旅人の服+3
+> CONTEXT: Weapons/54/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+220 理+90 攻+25 防+25 道+25 抵+25 行+25 運+15
+休息+20% 戦闘終了後に精力と理性が２０％回復する
+> CONTEXT: Weapons/54/description/ < UNTRANSLATED
+> CONTEXT: Weapons/134/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+旅人の服+4
+> CONTEXT: Weapons/55/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+300 理+130 攻+30 防+30 道+30 抵+30 行+30 運+25
+休息+20% 戦闘終了後に精力と理性が２０％回復する
+> CONTEXT: Weapons/55/description/ < UNTRANSLATED
+> CONTEXT: Weapons/135/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+旅人の服+5
+> CONTEXT: Weapons/56/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+340 理+150 攻+40 防+40 道+40 抵+40 行+40 運+30
+休息+20% 戦闘終了後に精力と理性が２０％回復する
+> CONTEXT: Weapons/56/description/ < UNTRANSLATED
+> CONTEXT: Weapons/136/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+旅人の服+6
+> CONTEXT: Weapons/57/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+440 理+200 攻+45 防+45 道+45 抵+45 行+45 運+30
+休息+30% 戦闘終了後に精力と理性が３０％回復する
+> CONTEXT: Weapons/57/description/ < UNTRANSLATED
+> CONTEXT: Weapons/137/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+旅人の服+7
+> CONTEXT: Weapons/58/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+480 理+220 攻+55 防+55 道+55 抵+55 行+55 運+35
+休息+30% 戦闘終了後に精力と理性が３０％回復する
+> CONTEXT: Weapons/58/description/ < UNTRANSLATED
+> CONTEXT: Weapons/138/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+冒険者の服
+> CONTEXT: Weapons/61/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+60 理+20 攻+10 防+10 道+10 抵+10 行+35 運+35
+警戒+10% 戦闘開始時に１０％で先手を取る
+> CONTEXT: Weapons/61/description/ < UNTRANSLATED
+> CONTEXT: Weapons/141/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+冒険者の服+1
+> CONTEXT: Weapons/62/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+80 理+25 攻+15 防+15 道+15 抵+15 行+40 運+35
+警戒+10% 戦闘開始時に１０％で先手を取る
+> CONTEXT: Weapons/62/description/ < UNTRANSLATED
+> CONTEXT: Weapons/142/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+冒険者の服+2
+> CONTEXT: Weapons/63/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+120 理+40 攻+20 防+20 道+20 抵+20 行+60 運+50
+警戒+10% 戦闘開始時に１０％で先手を取る
+> CONTEXT: Weapons/63/description/ < UNTRANSLATED
+> CONTEXT: Weapons/143/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+冒険者の服+3
+> CONTEXT: Weapons/64/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+140 理+60 攻+30 防+30 道+30 抵+30 行+70 運+60
+警戒+20% 戦闘開始時に２０％で先手を取る
+> CONTEXT: Weapons/64/description/ < UNTRANSLATED
+> CONTEXT: Weapons/144/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+冒険者の服+4
+> CONTEXT: Weapons/65/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+180 理+60 攻+35 防+35 道+35 抵+35 行+100 運+85
+警戒+20% 戦闘開始時に２０％で先手を取る
+> CONTEXT: Weapons/65/description/ < UNTRANSLATED
+> CONTEXT: Weapons/145/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+冒険者の服+5
+> CONTEXT: Weapons/66/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+200 理+80 攻+45 防+45 道+45 抵+45 行+110 運+85
+警戒+30% 戦闘開始時に３０％で先手を取る
+> CONTEXT: Weapons/66/description/ < UNTRANSLATED
+> CONTEXT: Weapons/146/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+冒険者の服+6
+> CONTEXT: Weapons/67/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+240 理+100 攻+50 防+50 道+50 抵+50 行+120 運+110
+警戒+30% 戦闘開始時に３０％で先手を取る
+> CONTEXT: Weapons/67/description/ < UNTRANSLATED
+> CONTEXT: Weapons/147/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+戦士の服
+> CONTEXT: Weapons/71/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+100 理+35 攻+35 防+35 道+15 抵+15 行+15 運+10
+忍耐+10% 精力が０以下になったとき１０％で耐える
+> CONTEXT: Weapons/71/description/ < UNTRANSLATED
+> CONTEXT: Weapons/151/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+戦士の服+1
+> CONTEXT: Weapons/72/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+120 理+50 攻+49 防+49 道+24 抵+24 行+24 運+15
+忍耐+10% 精力が０以下になったとき１０％で耐える
+> CONTEXT: Weapons/72/description/ < UNTRANSLATED
+> CONTEXT: Weapons/152/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+戦士の服+2
+> CONTEXT: Weapons/73/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+160 理+60 攻+68 防+68 道+30 抵+30 行+30 運+19
+忍耐+20% 精力が０以下になったとき２０％で耐える
+> CONTEXT: Weapons/73/description/ < UNTRANSLATED
+> CONTEXT: Weapons/153/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+戦士の服+3
+> CONTEXT: Weapons/74/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+180 理+70 攻+85 防+85 道+40 抵+40 行+40 運+20
+忍耐+20% 精力が０以下になったとき２０％で耐える
+> CONTEXT: Weapons/74/description/ < UNTRANSLATED
+> CONTEXT: Weapons/154/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+戦士の服+4
+> CONTEXT: Weapons/75/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+220 理+90 攻+103 防+103 道+45 抵+45 行+45 運+24
+忍耐+30% 精力が０以下になったとき３０％で耐える
+> CONTEXT: Weapons/75/description/ < UNTRANSLATED
+> CONTEXT: Weapons/155/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+戦士の服+5
+> CONTEXT: Weapons/76/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+240 理+100 攻+125 防+125 道+50 抵+50 行+50 運+30
+忍耐+30% 精力が０以下になったとき３０％で耐える
+> CONTEXT: Weapons/76/description/ < UNTRANSLATED
+> CONTEXT: Weapons/156/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+貴族の服
+> CONTEXT: Weapons/81/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+120 理+40 攻+25 防+25 道+50 抵+50 行+25 運+15
+探索+10% ダンジョンでの拾得品が１０％の確立で１増加する
+> CONTEXT: Weapons/81/description/ < UNTRANSLATED
+> CONTEXT: Weapons/161/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+貴族の服+1
+> CONTEXT: Weapons/82/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+160 理+60 攻+30 防+30 道+63 抵+63 行+30 運+19
+探索+10% ダンジョンでの拾得品が１０％の確立で１増加する
+> CONTEXT: Weapons/82/description/ < UNTRANSLATED
+> CONTEXT: Weapons/162/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+貴族の服+2
+> CONTEXT: Weapons/83/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+180 理+80 攻+40 防+40 道+70 抵+70 行+40 運+25
+探索+20% ダンジョンでの拾得品が２０％の確立で１増加する
+> CONTEXT: Weapons/83/description/ < UNTRANSLATED
+> CONTEXT: Weapons/163/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+貴族の服+3
+> CONTEXT: Weapons/84/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+220 理+80 攻+45 防+45 道+100 抵+100 行+45 運+25
+探索+20% ダンジョンでの拾得品が２０％の確立で１増加する
+> CONTEXT: Weapons/84/description/ < UNTRANSLATED
+> CONTEXT: Weapons/164/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+貴族の服+4
+> CONTEXT: Weapons/85/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+240 理+100 攻+54 防+54 道+119 抵+119 行+54 運+30
+探索+30% ダンジョンでの拾得品が３０％の確立で１増加する
+> CONTEXT: Weapons/85/description/ < UNTRANSLATED
+> CONTEXT: Weapons/165/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+勇者の服
+> CONTEXT: Weapons/91/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+320 理+60 攻+30 防+30 道+30 抵+30 行+30 運+55
+追撃+10% １０％で攻撃時にＨｉｔ数が+1される
+> CONTEXT: Weapons/91/description/ < UNTRANSLATED
+> CONTEXT: Weapons/171/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+勇者の服+1
+> CONTEXT: Weapons/92/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+400 理+70 攻+37 防+37 道+37 抵+37 行+37 運+70
+追撃+10% １０％で攻撃時にＨｉｔ数が+1される
+> CONTEXT: Weapons/92/description/ < UNTRANSLATED
+> CONTEXT: Weapons/172/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+勇者の服+2
+> CONTEXT: Weapons/93/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+460 理+80 攻+45 防+45 道+45 抵+45 行+50 運+80
+追撃+20% ２０％で攻撃時にＨｉｔ数が+1される
+> CONTEXT: Weapons/93/description/ < UNTRANSLATED
+> CONTEXT: Weapons/173/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+勇者の服+3
+> CONTEXT: Weapons/94/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+560 理+100 攻+50 防+50 道+50 抵+50 行+50 運+100
+追撃+30% ３０％で攻撃時にＨｉｔ数が+1される
+> CONTEXT: Weapons/94/description/ < UNTRANSLATED
+> CONTEXT: Weapons/174/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+光の衣
+> CONTEXT: Weapons/101/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+180 理+160 攻+40 防+40 道+40 抵+80 行+40 運+25
+平常心+10% １０％でキャンセルを無効化する
+> CONTEXT: Weapons/101/description/ < UNTRANSLATED
+> CONTEXT: Weapons/181/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+光の衣+1
+> CONTEXT: Weapons/102/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+200 理+200 攻+45 防+45 道+45 抵+100 行+45 運+25
+平常心+20% ２０％でキャンセルを無効化する
+> CONTEXT: Weapons/102/description/ < UNTRANSLATED
+> CONTEXT: Weapons/182/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+光の衣+2
+> CONTEXT: Weapons/103/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+240 理+220 攻+55 防+55 道+55 抵+110 行+55 運+30
+平常心+30% ３０％でキャンセルを無効化する
+> CONTEXT: Weapons/103/description/ < UNTRANSLATED
+> CONTEXT: Weapons/183/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+狩人の服
+> CONTEXT: Weapons/111/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+200 理+80 攻+110 防+45 道+45 抵+45 行+110 運+20
+性感+10% １０％でクリティカルヒットになる
+> CONTEXT: Weapons/111/description/ < UNTRANSLATED
+> CONTEXT: Weapons/191/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+狩人の服+1
+> CONTEXT: Weapons/112/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+240 理+100 攻+120 防+55 道+55 抵+55 行+120 運+25
+性感+30% ３０％でクリティカルヒットになる
+> CONTEXT: Weapons/112/description/ < UNTRANSLATED
+> CONTEXT: Weapons/192/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+古びたローブ
+> CONTEXT: Weapons/121/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+20 理+10 攻+5 防+5 道+5 抵+5 行+5 運+5
+幸運+10% 戦闘終了後の収得ＳＰが１０％上昇する
+> CONTEXT: Weapons/121/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+古びたローブ+1
+> CONTEXT: Weapons/122/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+40 理+20 攻+10 防+10 道+10 抵+10 行+10 運+10
+幸運+10% 戦闘終了後の収得ＳＰが１０％上昇する
+> CONTEXT: Weapons/122/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+古びたローブ+2
+> CONTEXT: Weapons/123/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+80 理+30 攻+15 防+15 道+15 抵+15 行+15 運+15
+幸運+10% 戦闘終了後の収得ＳＰが１０％上昇する
+> CONTEXT: Weapons/123/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+古びたローブ+3
+> CONTEXT: Weapons/124/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+120 理+45 攻+20 防+20 道+20 抵+20 行+20 運+15
+幸運+20% 戦闘終了後の収得ＳＰが２０％上昇する
+> CONTEXT: Weapons/124/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+古びたローブ+4
+> CONTEXT: Weapons/125/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+160 理+60 攻+30 防+30 道+30 抵+30 行+30 運+20
+幸運+20% 戦闘終了後の収得ＳＰが２０％上昇する
+> CONTEXT: Weapons/125/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+古びたローブ+5
+> CONTEXT: Weapons/126/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+200 理+80 攻+40 防+40 道+40 抵+40 行+40 運+25
+幸運+20% 戦闘終了後の収得ＳＰが２０％上昇する
+> CONTEXT: Weapons/126/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+古びたローブ+6
+> CONTEXT: Weapons/127/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+240 理+100 攻+50 防+50 道+50 抵+50 行+50 運+30
+幸運+30% 戦闘終了後の収得ＳＰが３０％上昇する
+> CONTEXT: Weapons/127/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+古びたローブ+7
+> CONTEXT: Weapons/128/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+280 理+120 攻+60 防+60 道+60 抵+60 行+60 運+35
+幸運+30% 戦闘終了後の収得ＳＰが３０％上昇する
+> CONTEXT: Weapons/128/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+古びたローブ+8
+> CONTEXT: Weapons/129/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精+320 理+140 攻+70 防+70 道+70 抵+70 行+70 運+40
+幸運+30% 戦闘終了後の収得ＳＰが３０％上昇する
+> CONTEXT: Weapons/129/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+旅行者のローブ
+> CONTEXT: Weapons/131/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+旅行者のローブ+1
+> CONTEXT: Weapons/132/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+旅行者のローブ+2
+> CONTEXT: Weapons/133/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+旅行者のローブ+3
+> CONTEXT: Weapons/134/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+旅行者のローブ+4
+> CONTEXT: Weapons/135/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+旅行者のローブ+5
+> CONTEXT: Weapons/136/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+旅行者のローブ+6
+> CONTEXT: Weapons/137/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+旅行者のローブ+7
+> CONTEXT: Weapons/138/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+暗殺者のローブ
+> CONTEXT: Weapons/141/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+暗殺者のローブ+1
+> CONTEXT: Weapons/142/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+暗殺者のローブ+2
+> CONTEXT: Weapons/143/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+暗殺者のローブ+3
+> CONTEXT: Weapons/144/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+暗殺者のローブ+4
+> CONTEXT: Weapons/145/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+暗殺者のローブ+5
+> CONTEXT: Weapons/146/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+暗殺者のローブ+6
+> CONTEXT: Weapons/147/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔術師のローブ
+> CONTEXT: Weapons/151/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔術師のローブ+1
+> CONTEXT: Weapons/152/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔術師のローブ+2
+> CONTEXT: Weapons/153/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔術師のローブ+3
+> CONTEXT: Weapons/154/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔術師のローブ+4
+> CONTEXT: Weapons/155/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔術師のローブ+5
+> CONTEXT: Weapons/156/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+舞踏会のドレス
+> CONTEXT: Weapons/161/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+舞踏会のドレス+1
+> CONTEXT: Weapons/162/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+舞踏会のドレス+2
+> CONTEXT: Weapons/163/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+舞踏会のドレス+3
+> CONTEXT: Weapons/164/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+舞踏会のドレス+4
+> CONTEXT: Weapons/165/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔女のローブ
+> CONTEXT: Weapons/171/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔女のローブ+1
+> CONTEXT: Weapons/172/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔女のローブ+2
+> CONTEXT: Weapons/173/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔女のローブ+3
+> CONTEXT: Weapons/174/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賢者のローブ
+> CONTEXT: Weapons/181/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賢者のローブ+1
+> CONTEXT: Weapons/182/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賢者のローブ+2
+> CONTEXT: Weapons/183/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+淫女王のローブ
+> CONTEXT: Weapons/191/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+淫女王のローブ+1
+> CONTEXT: Weapons/192/name/ < UNTRANSLATED
+
+> END STRING

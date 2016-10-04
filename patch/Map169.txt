@@ -1,0 +1,29 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+封印の塔　７Ｆ
+> CONTEXT: Map169/display_name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]これなら大丈夫そうかな。
+　えーと…ここをこうして、…あぁすればっと\\C[29]」
+> CONTEXT: Map169/events/15/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]これで、何とかなったと思うよ。
+　エレベーターさえ動けば、
+　ここよりも上の階に行けるだろうしね\\C[29]」
+> CONTEXT: Map169/events/15/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]これで、何とかなったと思うよ。
+　エレベーターが動けば、
+　ここよりも上の階に行けるだろうしね\\C[29]」
+> CONTEXT: Map169/events/15/pages/1/9/Dialogue < UNTRANSLATED
+
+> END STRING

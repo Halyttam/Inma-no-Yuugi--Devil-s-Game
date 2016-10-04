@@ -1,0 +1,2113 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+白紙のカード
+> CONTEXT: Armors/1/name/
+Card of white paper
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+0 行+0 運+0
+唇+1 唇責めのＨｉｔ数が＋１される
+> CONTEXT: Armors/1/description/
+> CONTEXT: Armors/111/description/
+Energy +0 reasons +0 attacks +0 defends +0 roads +0 [**] +0 line +0 fates +0
+The number of Hit of lip + twitting by one lip is done and +1 is done.
+> END STRING
+
+> BEGIN STRING
+白紙のカード+1
+> CONTEXT: Armors/2/name/
+Card +1 of white papers
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+2 防+2 道+2 抵+2 行+2 運+2
+唇+1 唇責めのＨｉｔ数が＋１される
+> CONTEXT: Armors/2/description/
+> CONTEXT: Armors/112/description/
+Energy +0 reasons +0 attacks + two defends + two roads + two [**] + two line + two fates +2
+The number of Hit of lip + twitting by one lip is done and +1 is done.
+> END STRING
+
+> BEGIN STRING
+白紙のカード+2
+> CONTEXT: Armors/3/name/
+Card +2 of white papers
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+4 防+4 道+4 抵+4 行+4 運+4
+唇+2 唇責めのＨｉｔ数が＋２される
+> CONTEXT: Armors/3/description/
+> CONTEXT: Armors/113/description/
+Energy +0 reasons +0 attacks + four defends + four roads + four [**] + four line + four fates +4
+The number of Hit of lip + twitting by two lips is done and +2 is done.
+> END STRING
+
+> BEGIN STRING
+白紙のカード+3
+> CONTEXT: Armors/4/name/
+Card +3 of white papers
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+6 防+6 道+6 抵+6 行+6 運+6
+唇+2 唇責めのＨｉｔ数が＋２される
+> CONTEXT: Armors/4/description/
+> CONTEXT: Armors/114/description/
+Energy +0 reasons +0 attacks + six defends + six roads + six [**] + six line + six fates +6
+The number of Hit of lip + twitting by two lips is done and +2 is done.
+> END STRING
+
+> BEGIN STRING
+白紙のカード+4
+> CONTEXT: Armors/5/name/
+Card +4 of white papers
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+8 防+8 道+8 抵+8 行+8 運+8
+唇+3 唇責めのＨｉｔ数が＋３される
+> CONTEXT: Armors/5/description/
+> CONTEXT: Armors/115/description/
+Energy +0 reasons +0 attacks + eight defends + eight roads + eight [**] + eight line + eight fates +8
+The number of Hit of lip + twitting by three lips is done and +3 is done.
+> END STRING
+
+> BEGIN STRING
+白紙のカード+5
+> CONTEXT: Armors/6/name/
+Card +5 of white papers
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+10 防+10 道+10 抵+10 行+10 運+10
+唇+3 唇責めのＨｉｔ数が＋３される
+> CONTEXT: Armors/6/description/
+> CONTEXT: Armors/116/description/
+Energy +0 reasons +0 attacks + ten defends + ten roads + ten [**] + ten line + ten fates +10
+The number of Hit of lip + twitting by three lips is done and +3 is done.
+> END STRING
+
+> BEGIN STRING
+装備スキル重複する
+> CONTEXT: Armors/8/name/
+The equipment skill overlaps.
+> END STRING
+
+> BEGIN STRING
+上昇ステは低いが、スキル効果はＬｖ２
+装備スキルは重複する
+> CONTEXT: Armors/8/description/
+> CONTEXT: Armors/209/description/
+Rising [sute] is low but the effect of the skill is Lv2. 
+The equipment skill overlaps.
+> END STRING
+
+> BEGIN STRING
+希望のカード
+> CONTEXT: Armors/11/name/
+Card of hope
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+10 行+0 運+0
+胸+1 胸責めのＨｉｔ数が＋１される
+> CONTEXT: Armors/11/description/
+> CONTEXT: Armors/121/description/
+Energy +0 reasons +0 attacks +0 defends +0 roads +0 [**] + ten line +0 fates +0
+The number of Hit of chest + twitting by one chest is done and +1 is done.
+> END STRING
+
+> BEGIN STRING
+希望のカード+1
+> CONTEXT: Armors/12/name/
+Card +1 of hope
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+20 行+0 運+0
+胸+1 胸責めのＨｉｔ数が＋１される
+> CONTEXT: Armors/12/description/
+> CONTEXT: Armors/122/description/
+Energy +0 reasons +0 attacks +0 defends +0 roads +0 [**] +20 line +0 fates +0
+The number of Hit of chest + twitting by one chest is done and +1 is done.
+> END STRING
+
+> BEGIN STRING
+希望のカード+2
+> CONTEXT: Armors/13/name/
+Card +2 of hope
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+30 行+0 運+0
+胸+2 胸責めのＨｉｔ数が＋２される
+> CONTEXT: Armors/13/description/
+> CONTEXT: Armors/123/description/
+Energy +0 reasons +0 attacks +0 defends +0 roads +0 [**] +30 line +0 fates +0
+The number of Hit of chest + twitting by two chests is done and +2 is done.
+> END STRING
+
+> BEGIN STRING
+希望のカード+3
+> CONTEXT: Armors/14/name/
+Card +3 of hope
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+40 行+0 運+0
+胸+2 胸責めのＨｉｔ数が＋２される
+> CONTEXT: Armors/14/description/
+> CONTEXT: Armors/124/description/
+Energy +0 reasons +0 attacks +0 defends +0 roads +0 [**] +40 line +0 fates +0
+The number of Hit of chest + twitting by two chests is done and +2 is done.
+> END STRING
+
+> BEGIN STRING
+希望のカード+4
+> CONTEXT: Armors/15/name/
+Card +4 of hope
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+50 行+0 運+0
+胸+3 胸責めのＨｉｔ数が＋３される
+> CONTEXT: Armors/15/description/
+> CONTEXT: Armors/125/description/
+Energy +0 reasons +0 attacks +0 defends +0 roads +0 [**] +50 line +0 fates +0
+The number of Hit of chest + twitting by three chests is done and +3 is done.
+> END STRING
+
+> BEGIN STRING
+希望のカード+5
+> CONTEXT: Armors/16/name/
+Card +5 of hope
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+60 行+0 運+0
+胸+3 胸責めのＨｉｔ数が＋３される
+> CONTEXT: Armors/16/description/
+> CONTEXT: Armors/126/description/
+Energy +0 reasons +0 attacks +0 defends +0 roads +0 [**] +60 line +0 fates +0
+The number of Hit of chest + twitting by three chests is done and +3 is done.
+> END STRING
+
+> BEGIN STRING
+気迫のカード
+> CONTEXT: Armors/21/name/
+Card of spirit
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+10 道+0 抵+0 行+0 運+0
+膣+1 膣責めのＨｉｔ数が＋１される
+> CONTEXT: Armors/21/description/
+> CONTEXT: Armors/131/description/
+Energy +0 reasons +0 attacks +0 defends + ten roads +0 [**] +0 line +0 fates +0
+The number of Hit of vagina + twitting by one vagina is done and +1 is done.
+> END STRING
+
+> BEGIN STRING
+気迫のカード+1
+> CONTEXT: Armors/22/name/
+Card +1 of spirits
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+20 道+0 抵+0 行+0 運+0
+膣+1 膣責めのＨｉｔ数が＋１される
+> CONTEXT: Armors/22/description/
+> CONTEXT: Armors/132/description/
+Energy +0 reasons +0 attacks +0 defends +20 roads +0 [**] +0 line +0 fates +0
+The number of Hit of vagina + twitting by one vagina is done and +1 is done.
+> END STRING
+
+> BEGIN STRING
+気迫のカード+2
+> CONTEXT: Armors/23/name/
+Card +2 of spirits
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+10 道+0 抵+0 行+0 運+0
+膣+2 膣責めのＨｉｔ数が＋２される
+> CONTEXT: Armors/23/description/
+> CONTEXT: Armors/133/description/
+Energy +0 reasons +0 attacks +0 defends + ten roads +0 [**] +0 line +0 fates +0
+The number of Hit of vagina + twitting by two vaginas is done and +2 is done.
+> END STRING
+
+> BEGIN STRING
+気迫のカード+3
+> CONTEXT: Armors/24/name/
+Card +3 of spirits
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+40 道+0 抵+0 行+0 運+0
+膣+2 膣責めのＨｉｔ数が＋２される
+> CONTEXT: Armors/24/description/
+> CONTEXT: Armors/134/description/
+Energy +0 reasons +0 attacks +0 defends +40 roads +0 [**] +0 line +0 fates +0
+The number of Hit of vagina + twitting by two vaginas is done and +2 is done.
+> END STRING
+
+> BEGIN STRING
+気迫のカード+4
+> CONTEXT: Armors/25/name/
+Card +4 of spirits
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+50 道+0 抵+0 行+0 運+0
+膣+3 膣責めのＨｉｔ数が＋３される
+> CONTEXT: Armors/25/description/
+> CONTEXT: Armors/135/description/
+Energy +0 reasons +0 attacks +0 defends +50 roads +0 [**] +0 line +0 fates +0
+The number of Hit of vagina + twitting by three vaginas is done and +3 is done.
+> END STRING
+
+> BEGIN STRING
+気迫のカード+5
+> CONTEXT: Armors/26/name/
+Card +5 of spirits
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+60 道+0 抵+0 行+0 運+0
+膣+3 膣責めのＨｉｔ数が＋３される
+> CONTEXT: Armors/26/description/
+> CONTEXT: Armors/136/description/
+Energy +0 reasons +0 attacks +0 defends +60 roads +0 [**] +0 line +0 fates +0
+The number of Hit of vagina + twitting by three vaginas is done and +3 is done.
+> END STRING
+
+> BEGIN STRING
+奇跡のカード
+> CONTEXT: Armors/31/name/
+Card of miracle
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+0 行+0 運+10
+尻+1 尻責めのＨｉｔ数が＋１される
+> CONTEXT: Armors/31/description/
+> CONTEXT: Armors/141/description/
+Energy +0 reasons +0 attacks +0 defends +0 roads +0 [**] +0 line +0 fates +10
+The number of Hit of hips + twitting by one hips is done and +1 is done.
+> END STRING
+
+> BEGIN STRING
+奇跡のカード+1
+> CONTEXT: Armors/32/name/
+Card +1 of miracles
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+0 行+0 運+20
+尻+1 尻責めのＨｉｔ数が＋１される
+> CONTEXT: Armors/32/description/
+> CONTEXT: Armors/142/description/
+Energy +0 reasons +0 attacks +0 defends +0 roads +0 [**] +0 line +0 fates +20
+The number of Hit of hips + twitting by one hips is done and +1 is done.
+> END STRING
+
+> BEGIN STRING
+奇跡のカード+2
+> CONTEXT: Armors/33/name/
+Card +2 of miracles
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+0 行+0 運+30
+尻+2 尻責めのＨｉｔ数が＋２される
+> CONTEXT: Armors/33/description/
+> CONTEXT: Armors/143/description/
+Energy +0 reasons +0 attacks +0 defends +0 roads +0 [**] +0 line +0 fates +30
+The number of Hit of hips + twitting by two hips is done and +2 is done.
+> END STRING
+
+> BEGIN STRING
+奇跡のカード+3
+> CONTEXT: Armors/34/name/
+Card +3 of miracles
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+0 行+0 運+40
+尻+2 尻責めのＨｉｔ数が＋２される
+> CONTEXT: Armors/34/description/
+> CONTEXT: Armors/144/description/
+Energy +0 reasons +0 attacks +0 defends +0 roads +0 [**] +0 line +0 fates +40
+The number of Hit of hips + twitting by two hips is done and +2 is done.
+> END STRING
+
+> BEGIN STRING
+奇跡のカード+4
+> CONTEXT: Armors/35/name/
+Card +4 of miracles
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+0 行+0 運+50
+尻+3 尻責めのＨｉｔ数が＋３される
+> CONTEXT: Armors/35/description/
+> CONTEXT: Armors/145/description/
+Energy +0 reasons +0 attacks +0 defends +0 roads +0 [**] +0 line +0 fates +50
+The number of Hit of hips + twitting by three hips is done and +3 is done.
+> END STRING
+
+> BEGIN STRING
+奇跡のカード+5
+> CONTEXT: Armors/36/name/
+Card +5 of miracles
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+0 行+0 運+60
+尻+3 尻責めのＨｉｔ数が＋３される
+> CONTEXT: Armors/36/description/
+> CONTEXT: Armors/146/description/
+Energy +0 reasons +0 attacks +0 defends +0 roads +0 [**] +0 line +0 fates +60
+The number of Hit of hips + twitting by three hips is done and +3 is done.
+> END STRING
+
+> BEGIN STRING
+直感のカード
+> CONTEXT: Armors/41/name/
+Card of intuition
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+0 行+10 運+0
+Hit+10% 与える快感がＨｉｔ数の１０％上昇する
+> CONTEXT: Armors/41/description/
+> CONTEXT: Armors/151/description/
+Energy +0 reasons +0 attacks +0 defends +0 roads +0 [**] +0 line + ten fates +0
+The given Hit+10% pleasure rises by 10% about the number of Hit.
+> END STRING
+
+> BEGIN STRING
+直感のカード+1
+> CONTEXT: Armors/42/name/
+Card +1 of intuitions
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+0 行+20 運+0
+Hit+10% 与える快感がＨｉｔ数の１０％上昇する
+> CONTEXT: Armors/42/description/
+> CONTEXT: Armors/152/description/
+Energy +0 reasons +0 attacks +0 defends +0 roads +0 [**] +0 line +20 fates +0
+The given Hit+10% pleasure rises by 10% about the number of Hit.
+> END STRING
+
+> BEGIN STRING
+直感のカード+2
+> CONTEXT: Armors/43/name/
+Card +2 of intuitions
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+0 行+30 運+0
+Hit+20% 与える快感がＨｉｔ数の２０％上昇する
+> CONTEXT: Armors/43/description/
+> CONTEXT: Armors/153/description/
+Energy +0 reasons +0 attacks +0 defends +0 roads +0 [**] +0 line +30 fates +0
+The given Hit+20% pleasure rises by 20% about the number of Hit.
+> END STRING
+
+> BEGIN STRING
+直感のカード+3
+> CONTEXT: Armors/44/name/
+Card +3 of intuitions
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+0 行+40 運+0
+Hit+20% 与える快感がＨｉｔ数の２０％上昇する
+> CONTEXT: Armors/44/description/
+> CONTEXT: Armors/154/description/
+Energy +0 reasons +0 attacks +0 defends +0 roads +0 [**] +0 line +40 fates +0
+The given Hit+20% pleasure rises by 20% about the number of Hit.
+> END STRING
+
+> BEGIN STRING
+直感のカード+4
+> CONTEXT: Armors/45/name/
+Card +4 of intuitions
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+0 行+50 運+0
+Hit+30% 与える快感がＨｉｔ数の３０％上昇する
+> CONTEXT: Armors/45/description/
+> CONTEXT: Armors/155/description/
+Energy +0 reasons +0 attacks +0 defends +0 roads +0 [**] +0 line +50 fates +0
+The given Hit+30% pleasure rises by 30% about the number of Hit.
+> END STRING
+
+> BEGIN STRING
+直感のカード+5
+> CONTEXT: Armors/46/name/
+Card +5 of intuitions
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+0 行+60 運+0
+Hit+30% 与える快感がＨｉｔ数の３０％上昇する
+> CONTEXT: Armors/46/description/
+> CONTEXT: Armors/156/description/
+Energy +0 reasons +0 attacks +0 defends +0 roads +0 [**] +0 line +60 fates +0
+The given Hit+30% pleasure rises by 30% about the number of Hit.
+> END STRING
+
+> BEGIN STRING
+慈愛のカード
+> CONTEXT: Armors/51/name/
+Card of affection
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+10 抵+0 行+0 運+0
+引き継ぎ+20% Ｈｉｔ数を次の戦闘に２０％引き継ぐ
+> CONTEXT: Armors/51/description/
+> CONTEXT: Armors/161/description/
+Energy +0 reasons +0 attacks +0 defends +0 roads + ten [**] +0 line +0 fates +0
+Succeed succession + number of 20% Hit to the following combat by 20%.
+> END STRING
+
+> BEGIN STRING
+慈愛のカード+1
+> CONTEXT: Armors/52/name/
+Card +1 of affections
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+20 抵+0 行+0 運+0
+引き継ぎ+20% Ｈｉｔ数を次の戦闘に２０％引き継ぐ
+> CONTEXT: Armors/52/description/
+> CONTEXT: Armors/162/description/
+Energy +0 reasons +0 attacks +0 defends +0 roads +20 [**] +0 line +0 fates +0
+Succeed succession + number of 20% Hit to the following combat by 20%.
+> END STRING
+
+> BEGIN STRING
+慈愛のカード+2
+> CONTEXT: Armors/53/name/
+Card +2 of affections
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+30 抵+0 行+0 運+0
+引き継ぎ+40% Ｈｉｔ数を次の戦闘に４０％引き継ぐ
+> CONTEXT: Armors/53/description/
+> CONTEXT: Armors/163/description/
+Energy +0 reasons +0 attacks +0 defends +0 roads +30 [**] +0 line +0 fates +0
+Succeed succession + number of 40% Hit to the following combat by 40%.
+> END STRING
+
+> BEGIN STRING
+慈愛のカード+3
+> CONTEXT: Armors/54/name/
+Card +3 of affections
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+40 抵+0 行+0 運+0
+引き継ぎ+40% Ｈｉｔ数を次の戦闘に４０％引き継ぐ
+> CONTEXT: Armors/54/description/
+> CONTEXT: Armors/164/description/
+Energy +0 reasons +0 attacks +0 defends +0 roads +40 [**] +0 line +0 fates +0
+Succeed succession + number of 40% Hit to the following combat by 40%.
+> END STRING
+
+> BEGIN STRING
+慈愛のカード+4
+> CONTEXT: Armors/55/name/
+Card +4 of affections
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+50 抵+0 行+0 運+0
+引き継ぎ+60% Ｈｉｔ数を次の戦闘に６０％引き継ぐ
+> CONTEXT: Armors/55/description/
+> CONTEXT: Armors/165/description/
+Energy +0 reasons +0 attacks +0 defends +0 roads +50 [**] +0 line +0 fates +0
+Succeed succession + number of 60% Hit to the following combat by 60%.
+> END STRING
+
+> BEGIN STRING
+慈愛のカード+5
+> CONTEXT: Armors/56/name/
+Card +5 of affections
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+60 抵+0 行+0 運+0
+引き継ぎ+60% Ｈｉｔ数を次の戦闘に６０％引き継ぐ
+> CONTEXT: Armors/56/description/
+> CONTEXT: Armors/166/description/
+Energy +0 reasons +0 attacks +0 defends +0 roads +60 [**] +0 line +0 fates +0
+Succeed succession + number of 60% Hit to the following combat by 60%.
+> END STRING
+
+> BEGIN STRING
+闘志のカード
+> CONTEXT: Armors/61/name/
+Card of fighting spirit
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+10 防+0 道+0 抵+0 行+0 運+0
+牽制+10% １０％でキャンセル時に大幅に戻す
+> CONTEXT: Armors/61/description/
+> CONTEXT: Armors/171/description/
+Energy +0 reasons +0 attacks + ten defends +0 roads +0 [**] +0 line +0 fates +0
+Return it greatly when you cancel with 10 restraint + % 10%.
+> END STRING
+
+> BEGIN STRING
+闘志のカード+1
+> CONTEXT: Armors/62/name/
+Card +1 of fighting spirits
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+20 防+0 道+0 抵+0 行+0 運+0
+牽制+10% １０％でキャンセル時に大幅に戻す
+> CONTEXT: Armors/62/description/
+> CONTEXT: Armors/172/description/
+Energy +0 reasons +0 attacks +20 defends +0 roads +0 [**] +0 line +0 fates +0
+Return it greatly when you cancel with 10 restraint + % 10%.
+> END STRING
+
+> BEGIN STRING
+闘志のカード+2
+> CONTEXT: Armors/63/name/
+Card +2 of fighting spirits
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+30 防+0 道+0 抵+0 行+0 運+0
+牽制+20% ２０％でキャンセル時に大幅に戻す
+> CONTEXT: Armors/63/description/
+> CONTEXT: Armors/173/description/
+Energy +0 reasons +0 attacks +30 defends +0 roads +0 [**] +0 line +0 fates +0
+Return it greatly when you cancel with 20 restraint + % 20%.
+> END STRING
+
+> BEGIN STRING
+闘志のカード+3
+> CONTEXT: Armors/64/name/
+Card +3 of fighting spirits
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+20 防+0 道+0 抵+0 行+0 運+0
+牽制+20% ２０％でキャンセル時に大幅に戻す
+> CONTEXT: Armors/64/description/ < UNTRANSLATED
+> CONTEXT: Armors/174/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+闘志のカード+4
+> CONTEXT: Armors/65/name/
+Card +4 of fighting spirits
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+50 防+0 道+0 抵+0 行+0 運+0
+牽制+30% ３０％でキャンセル時に大幅に戻す
+> CONTEXT: Armors/65/description/
+> CONTEXT: Armors/175/description/
+Energy +0 reasons +0 attacks +50 defends +0 roads +0 [**] +0 line +0 fates +0
+Return it greatly when you cancel with 30 restraint + % 30%.
+> END STRING
+
+> BEGIN STRING
+闘志のカード+5
+> CONTEXT: Armors/66/name/
+Card +5 of fighting spirits
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+60 防+0 道+0 抵+0 行+0 運+0
+牽制+30% ３０％でキャンセル時に大幅に戻す
+> CONTEXT: Armors/66/description/
+> CONTEXT: Armors/176/description/
+Energy +0 reasons +0 attacks +60 defends +0 roads +0 [**] +0 line +0 fates +0
+Return it greatly when you cancel with 30 restraint + % 30%.
+> END STRING
+
+> BEGIN STRING
+勇気のカード
+> CONTEXT: Armors/71/name/
+Card of courage
+> END STRING
+
+> BEGIN STRING
+精+0 理+25 攻+0 防+0 道+0 抵+0 行+0 運+0
+理性-10% 性技使用時の消費理性が－１０％される
+> CONTEXT: Armors/71/description/
+> CONTEXT: Armors/181/description/
+Energy +0 reasons +25 attacks +0 defends +0 roads +0 [**] +0 line +0 fates +0
+The consumption reason when the sexcraft is used the reason -10% is done by -10%.
+> END STRING
+
+> BEGIN STRING
+勇気のカード+1
+> CONTEXT: Armors/72/name/
+Card +1 of courages
+> END STRING
+
+> BEGIN STRING
+精+0 理+40 攻+0 防+0 道+0 抵+0 行+0 運+0
+理性-10% 性技使用時の消費理性が－１０％される
+> CONTEXT: Armors/72/description/
+> CONTEXT: Armors/182/description/
+Energy +0 reasons +40 attacks +0 defends +0 roads +0 [**] +0 line +0 fates +0
+The consumption reason when the sexcraft is used the reason -10% is done by -10%.
+> END STRING
+
+> BEGIN STRING
+勇気のカード+2
+> CONTEXT: Armors/73/name/
+Card +2 of courages
+> END STRING
+
+> BEGIN STRING
+精+0 理+55 攻+0 防+0 道+0 抵+0 行+0 運+0
+理性-20% 性技使用時の消費理性が－２０％される
+> CONTEXT: Armors/73/description/
+> CONTEXT: Armors/183/description/
+Energy +0 reasons +55 attacks +0 defends +0 roads +0 [**] +0 line +0 fates +0
+The consumption reason when the sexcraft is used the reason -20% is done by -20%.
+> END STRING
+
+> BEGIN STRING
+勇気のカード+3
+> CONTEXT: Armors/74/name/
+Card +3 of courages
+> END STRING
+
+> BEGIN STRING
+精+0 理+70 攻+0 防+0 道+0 抵+0 行+0 運+0
+理性-20% 性技使用時の消費理性が－２０％される
+> CONTEXT: Armors/74/description/
+> CONTEXT: Armors/184/description/
+Energy +0 reasons +70 attacks +0 defends +0 roads +0 [**] +0 line +0 fates +0
+The consumption reason when the sexcraft is used the reason -20% is done by -20%.
+> END STRING
+
+> BEGIN STRING
+勇気のカード+4
+> CONTEXT: Armors/75/name/
+Card +4 of courages
+> END STRING
+
+> BEGIN STRING
+精+0 理+85 攻+0 防+0 道+0 抵+0 行+0 運+0
+理性-30% 性技使用時の消費理性が－３０％される
+> CONTEXT: Armors/75/description/
+> CONTEXT: Armors/185/description/
+Energy +0 reasons +85 attacks +0 defends +0 roads +0 [**] +0 line +0 fates +0
+The consumption reason when the sexcraft is used the reason -30% is done by -30%.
+> END STRING
+
+> BEGIN STRING
+勇気のカード+5
+> CONTEXT: Armors/76/name/
+Card +5 of courages
+> END STRING
+
+> BEGIN STRING
+精+0 理+100 攻+0 防+0 道+0 抵+0 行+0 運+0
+理性-30% 性技使用時の消費理性が－３０％される
+> CONTEXT: Armors/76/description/
+> CONTEXT: Armors/186/description/
+Energy +0 reasons +100 attacks +0 defends +0 roads +0 [**] +0 line +0 fates +0
+The consumption reason when the sexcraft is used the reason -30% is done by -30%.
+> END STRING
+
+> BEGIN STRING
+不屈のカード
+> CONTEXT: Armors/81/name/
+Indomitable card
+> END STRING
+
+> BEGIN STRING
+精+50 理+0 攻+0 防+0 道+0 抵+0 行+0 運+0
+吸収-20% エナジードレインを２０％軽減する
+> CONTEXT: Armors/81/description/
+> CONTEXT: Armors/191/description/
+Energy +50 reasons +0 attacks +0 defends +0 roads +0 [**] +0 line +0 fates +0
+Reduce absorption -20% [enaji-dorein] by 20%.
+> END STRING
+
+> BEGIN STRING
+不屈のカード+1
+> CONTEXT: Armors/82/name/
+Indomitable card +1
+> END STRING
+
+> BEGIN STRING
+精+80 理+0 攻+0 防+0 道+0 抵+0 行+0 運+0
+吸収-20% エナジードレインを２０％軽減する
+> CONTEXT: Armors/82/description/
+> CONTEXT: Armors/192/description/
+Energy +80 reasons +0 attacks +0 defends +0 roads +0 [**] +0 line +0 fates +0
+Reduce absorption -20% [enaji-dorein] by 20%.
+> END STRING
+
+> BEGIN STRING
+不屈のカード+2
+> CONTEXT: Armors/83/name/
+Indomitable card +2
+> END STRING
+
+> BEGIN STRING
+精+110 理+0 攻+0 防+0 道+0 抵+0 行+0 運+0
+吸収-40% エナジードレインを４０％軽減する
+> CONTEXT: Armors/83/description/
+> CONTEXT: Armors/193/description/
+Energy +110 reasons +0 attacks +0 defends +0 roads +0 [**] +0 line +0 fates +0
+Reduce absorption -40% [enaji-dorein] by 40%.
+> END STRING
+
+> BEGIN STRING
+不屈のカード+3
+> CONTEXT: Armors/84/name/
+Indomitable card +3
+> END STRING
+
+> BEGIN STRING
+精+140 理+0 攻+0 防+0 道+0 抵+0 行+0 運+0
+吸収-40% エナジードレインを４０％軽減する
+> CONTEXT: Armors/84/description/
+> CONTEXT: Armors/194/description/
+Energy +140 reasons +0 attacks +0 defends +0 roads +0 [**] +0 line +0 fates +0
+Reduce absorption -40% [enaji-dorein] by 40%.
+> END STRING
+
+> BEGIN STRING
+不屈のカード+4
+> CONTEXT: Armors/85/name/
+Indomitable card +4
+> END STRING
+
+> BEGIN STRING
+精+170 理+0 攻+0 防+0 道+0 抵+0 行+0 運+0
+吸収-60% エナジードレインを６０％軽減する
+> CONTEXT: Armors/85/description/
+> CONTEXT: Armors/195/description/
+Energy +170 reasons +0 attacks +0 defends +0 roads +0 [**] +0 line +0 fates +0
+Reduce absorption -60% [enaji-dorein] by 60%.
+> END STRING
+
+> BEGIN STRING
+不屈のカード+5
+> CONTEXT: Armors/86/name/
+Indomitable card +5
+> END STRING
+
+> BEGIN STRING
+精+200 理+0 攻+0 防+0 道+0 抵+0 行+0 運+0
+吸収-60% エナジードレインを６０％軽減する
+> CONTEXT: Armors/86/description/
+> CONTEXT: Armors/196/description/
+Seminal +200 management +0 attack +0 proof +0 road +0 resistance +0 line +0 luck +0
+To reduce the absorption -60% Energy drain 60%
+> END STRING
+
+> BEGIN STRING
+覚醒のカード
+> CONTEXT: Armors/96/name/
+Card of awaking
+> END STRING
+
+> BEGIN STRING
+精+150 理+75 攻+15 防+15 道+15 抵+15 行+15 運+15
+全部位、牽制、威圧、連携、理性、吸収下位スキル修得
+> CONTEXT: Armors/96/description/
+> CONTEXT: Armors/206/description/
+Energy +150 reasons +75 attacks +15 defends +15 roads +15 [**] +15 line +15 fates +15
+Restraint, overpowering, cooperation, reason, and absorption subordinate position skill master of all
+> END STRING
+
+> BEGIN STRING
+白の書
+> CONTEXT: Armors/111/name/
+White book
+> END STRING
+
+> BEGIN STRING
+白の書+1
+> CONTEXT: Armors/112/name/
+White book +1
+> END STRING
+
+> BEGIN STRING
+白の書+2
+> CONTEXT: Armors/113/name/
+White book +2
+> END STRING
+
+> BEGIN STRING
+白の書+3
+> CONTEXT: Armors/114/name/
+White book +3
+> END STRING
+
+> BEGIN STRING
+白の書+4
+> CONTEXT: Armors/115/name/
+White book +4
+> END STRING
+
+> BEGIN STRING
+白の書+5
+> CONTEXT: Armors/116/name/
+White book +5
+> END STRING
+
+> BEGIN STRING
+抵抗の書
+> CONTEXT: Armors/121/name/
+Book of resistance
+> END STRING
+
+> BEGIN STRING
+抵抗の書+1
+> CONTEXT: Armors/122/name/
+Book +1 of resistance
+> END STRING
+
+> BEGIN STRING
+抵抗の書+2
+> CONTEXT: Armors/123/name/
+Book +2 of resistance
+> END STRING
+
+> BEGIN STRING
+抵抗の書+3
+> CONTEXT: Armors/124/name/
+Book +3 of resistance
+> END STRING
+
+> BEGIN STRING
+抵抗の書+4
+> CONTEXT: Armors/125/name/
+Book +4 of resistance
+> END STRING
+
+> BEGIN STRING
+抵抗の書+5
+> CONTEXT: Armors/126/name/
+Book +5 of resistance
+> END STRING
+
+> BEGIN STRING
+防御の書
+> CONTEXT: Armors/131/name/
+Book of defense
+> END STRING
+
+> BEGIN STRING
+防御の書+1
+> CONTEXT: Armors/132/name/
+Book +1 of defenses
+> END STRING
+
+> BEGIN STRING
+防御の書+2
+> CONTEXT: Armors/133/name/
+Book +2 of defenses
+> END STRING
+
+> BEGIN STRING
+防御の書+3
+> CONTEXT: Armors/134/name/
+Book +3 of defenses
+> END STRING
+
+> BEGIN STRING
+防御の書+4
+> CONTEXT: Armors/135/name/
+Book +4 of defenses
+> END STRING
+
+> BEGIN STRING
+防御の書+5
+> CONTEXT: Armors/136/name/
+Book +5 of defenses
+> END STRING
+
+> BEGIN STRING
+運の書
+> CONTEXT: Armors/141/name/
+Book of fate
+> END STRING
+
+> BEGIN STRING
+運の書+1
+> CONTEXT: Armors/142/name/
+Book +1 of fates
+> END STRING
+
+> BEGIN STRING
+運の書+2
+> CONTEXT: Armors/143/name/
+Book +2 of fates
+> END STRING
+
+> BEGIN STRING
+運の書+3
+> CONTEXT: Armors/144/name/
+Book +3 of fates
+> END STRING
+
+> BEGIN STRING
+運の書+4
+> CONTEXT: Armors/145/name/
+Book +4 of fates
+> END STRING
+
+> BEGIN STRING
+運の書+5
+> CONTEXT: Armors/146/name/
+Book +5 of fates
+> END STRING
+
+> BEGIN STRING
+行動の書
+> CONTEXT: Armors/151/name/
+Book of action
+> END STRING
+
+> BEGIN STRING
+行動の書+1
+> CONTEXT: Armors/152/name/
+Book +1 of actions
+> END STRING
+
+> BEGIN STRING
+行動の書+2
+> CONTEXT: Armors/153/name/
+Book +2 of actions
+> END STRING
+
+> BEGIN STRING
+行動の書+3
+> CONTEXT: Armors/154/name/
+Book +3 of actions
+> END STRING
+
+> BEGIN STRING
+行動の書+4
+> CONTEXT: Armors/155/name/
+Book +4 of actions
+> END STRING
+
+> BEGIN STRING
+行動の書+5
+> CONTEXT: Armors/156/name/
+Book +5 of actions
+> END STRING
+
+> BEGIN STRING
+道具の書
+> CONTEXT: Armors/161/name/
+Book of tool
+> END STRING
+
+> BEGIN STRING
+道具の書+1
+> CONTEXT: Armors/162/name/
+Book +1 of tools
+> END STRING
+
+> BEGIN STRING
+道具の書+2
+> CONTEXT: Armors/163/name/
+Book +2 of tools
+> END STRING
+
+> BEGIN STRING
+道具の書+3
+> CONTEXT: Armors/164/name/
+Book +3 of tools
+> END STRING
+
+> BEGIN STRING
+道具の書+4
+> CONTEXT: Armors/165/name/
+Book +4 of tools
+> END STRING
+
+> BEGIN STRING
+道具の書+5
+> CONTEXT: Armors/166/name/
+Book +5 of tools
+> END STRING
+
+> BEGIN STRING
+攻撃の書
+> CONTEXT: Armors/171/name/
+Book of the attack
+> END STRING
+
+> BEGIN STRING
+攻撃の書+1
+> CONTEXT: Armors/172/name/
+Book +1 of attacks
+> END STRING
+
+> BEGIN STRING
+攻撃の書+2
+> CONTEXT: Armors/173/name/
+Book +2 of attacks
+> END STRING
+
+> BEGIN STRING
+攻撃の書+3
+> CONTEXT: Armors/174/name/
+Book +3 of attacks
+> END STRING
+
+> BEGIN STRING
+攻撃の書+4
+> CONTEXT: Armors/175/name/
+Book +4 of attacks
+> END STRING
+
+> BEGIN STRING
+攻撃の書+5
+> CONTEXT: Armors/176/name/
+Book +5 of attacks
+> END STRING
+
+> BEGIN STRING
+理性の書
+> CONTEXT: Armors/181/name/
+Book of reason
+> END STRING
+
+> BEGIN STRING
+理性の書+1
+> CONTEXT: Armors/182/name/
+Book +1 of reason
+> END STRING
+
+> BEGIN STRING
+理性の書+2
+> CONTEXT: Armors/183/name/
+Book +2 of reason
+> END STRING
+
+> BEGIN STRING
+理性の書+3
+> CONTEXT: Armors/184/name/
+Book +3 of reason
+> END STRING
+
+> BEGIN STRING
+理性の書+4
+> CONTEXT: Armors/185/name/
+Book +4 of reason
+> END STRING
+
+> BEGIN STRING
+理性の書+5
+> CONTEXT: Armors/186/name/
+Book +5 of reason
+> END STRING
+
+> BEGIN STRING
+精力の書
+> CONTEXT: Armors/191/name/
+Book of energy
+> END STRING
+
+> BEGIN STRING
+精力の書+1
+> CONTEXT: Armors/192/name/
+Book +1 of energy
+> END STRING
+
+> BEGIN STRING
+精力の書+2
+> CONTEXT: Armors/193/name/
+Book +2 of energy
+> END STRING
+
+> BEGIN STRING
+精力の書+3
+> CONTEXT: Armors/194/name/
+Book +3 of energy
+> END STRING
+
+> BEGIN STRING
+精力の書+4
+> CONTEXT: Armors/195/name/
+Book +4 of energy
+> END STRING
+
+> BEGIN STRING
+精力の書+5
+> CONTEXT: Armors/196/name/
+Book +5 of energy
+> END STRING
+
+> BEGIN STRING
+淫魔の書
+> CONTEXT: Armors/206/name/
+Succubus's book
+> END STRING
+
+> BEGIN STRING
+★下級装飾品
+> CONTEXT: Armors/209/name/
+★ Lower class adornment
+> END STRING
+
+> BEGIN STRING
+癒のカード
+> CONTEXT: Armors/211/name/
+Healing of the card
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+10 抵+0 行+0 運+0
+休息+20%　戦闘終了後に精力と理性が２０％回復する
+> CONTEXT: Armors/211/description/
+> CONTEXT: Armors/227/description/
+Energy +0 reasons +0 attacks +0 defends +0 roads + ten [**] +0 line +0 fates +0
+Energy and reason recover by 20% after the combat ends rest + of 20%.
+> END STRING
+
+> BEGIN STRING
+銀のカード
+> CONTEXT: Armors/212/name/
+Card of silver
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+0 行+0 運+5
+性感+20%　２０％でクリティカルヒットになる
+> CONTEXT: Armors/212/description/
+Energy +0 reasons +0 attacks +0 defends +0 roads +0 [**] +0 line +0 fates +5
+It becomes a critical hit by 20 sexual feeling + % 20%.
+> END STRING
+
+> BEGIN STRING
+木のカード
+> CONTEXT: Armors/213/name/
+Card of tree
+> END STRING
+
+> BEGIN STRING
+精+20 理+0 攻+0 防+5 道+0 抵+0 行+0 運+0
+忍耐+20%　精力が０以下になったとき２０％で耐える
+> CONTEXT: Armors/213/description/
+Energy +20 reasons +0 attacks +0 defends + five roads +0 [**] +0 line +0 fates +0
+When endurance +20% energy becomes 0 or less, it endures by 20%.
+> END STRING
+
+> BEGIN STRING
+水のカード
+> CONTEXT: Armors/214/name/
+Card of water
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+5 抵+5 行+0 運+0
+平常心+20%　２０％でキャンセルを無効化する
+> CONTEXT: Armors/214/description/
+Energy +0 reasons +0 attacks +0 defends +0 roads + five [**] + five line +0 fates +0
+Nullify the cancellation with 20 presence of mind + % 20%.
+> END STRING
+
+> BEGIN STRING
+土のカード
+> CONTEXT: Armors/215/name/
+Card of earth
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+15 防+0 道+0 抵+0 行+0 運+0
+警戒+20%　戦闘開始時に２０％で先手を取る
+> CONTEXT: Armors/215/description/
+Energy +0 reasons +0 attacks +15 defends +0 roads +0 [**] +0 line +0 fates +0
+Get the first move by 20% when you begin precaution + to combat by 20%.
+> END STRING
+
+> BEGIN STRING
+金のカード
+> CONTEXT: Armors/216/name/
+Card of money
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+0 行+5 運+5
+探索+20% ダンジョンでの拾得品が２０％で１増加する
+> CONTEXT: Armors/216/description/
+Energy +0 reasons +0 attacks +0 defends +0 roads +0 [**] +0 line + five fates +5
+One increase of the number of finding goods in search +20% dungeon by 20%.
+> END STRING
+
+> BEGIN STRING
+泥のカード
+> CONTEXT: Armors/217/name/
+Card of mud
+> END STRING
+
+> BEGIN STRING
+精+20 理+0 攻+0 防+0 道+5 抵+5 行+0 運+0
+尻+2　尻責めのＨｉｔ数が＋２される
+> CONTEXT: Armors/217/description/
+Energy +20 reasons +0 attacks +0 defends +0 roads + five [**] + five line +0 fates +0
+The number of Hit of hips + twitting by two hips is done and +2 is done.
+> END STRING
+
+> BEGIN STRING
+闇のカード
+> CONTEXT: Armors/218/name/
+Card of darkness
+> END STRING
+
+> BEGIN STRING
+精+0 理+10 攻+0 防+5 道+0 抵+0 行+5 運+0
+胸+2　胸責めのＨｉｔ数が＋２される
+> CONTEXT: Armors/218/description/
+> CONTEXT: Armors/233/description/
+Energy +0 reasons + ten attacks +0 defends + five roads +0 [**] +0 line + five fates +0
+The number of Hit of chest + twitting by two chests is done and +2 is done.
+> END STRING
+
+> BEGIN STRING
+海のカード
+> CONTEXT: Armors/219/name/
+Card of sea
+> END STRING
+
+> BEGIN STRING
+精+20 理+10 攻+0 防+5 道+5 抵+0 行+0 運+0
+理性-20%　性技使用時の消費理性が－２０％される
+> CONTEXT: Armors/219/description/
+Energy +20 reasons + ten attacks +0 defends + five roads + five [**] +0 line +0 fates +0
+The consumption reason when the sexcraft is used the reason -20% is done by -20%.
+> END STRING
+
+> BEGIN STRING
+氷のカード
+> CONTEXT: Armors/220/name/
+Card of ice
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+5 道+0 抵+5 行+0 運+5
+引き継ぎ+40%　Ｈｉｔ数を次の戦闘に４０％引き継ぐ
+> CONTEXT: Armors/220/description/
+Energy +0 reasons +0 attacks +0 defends + five roads +0 [**] + five line +0 fates +5
+Succeed succession + number of 40% Hit to the following combat by 40%.
+> END STRING
+
+> BEGIN STRING
+風のカード
+> CONTEXT: Armors/221/name/
+Card of wind
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+0 行+20 運+0
+追撃+20%　２０％で攻撃時にＨｉｔ数が+1される
+> CONTEXT: Armors/221/description/
+Energy +0 reasons +0 attacks +0 defends +0 roads +0 [**] +0 line +20 fates +0
+The number of Hit is done with 20 pursuit + % 20% and +1 is done.
+> END STRING
+
+> BEGIN STRING
+火のカード
+> CONTEXT: Armors/222/name/
+Card of fire
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+20 防+0 道+0 抵+0 行+0 運+0
+膣+2　膣責めのＨｉｔ数が＋２される
+> CONTEXT: Armors/222/description/
+Energy +0 reasons +0 attacks +20 defends +0 roads +0 [**] +0 line +0 fates +0
+The number of Hit of vagina + twitting by two vaginas is done and +2 is done.
+> END STRING
+
+> BEGIN STRING
+光のカード
+> CONTEXT: Armors/223/name/
+Card of light
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+5 防+10 道+0 抵+5 行+0 運+0
+唇+2　唇責めのＨｉｔ数が＋２される
+> CONTEXT: Armors/223/description/
+Energy +0 reasons +0 attacks + five defends + ten roads +0 [**] + five line +0 fates +0
+The number of Hit of lip + twitting by two lips is done and +2 is done.
+> END STRING
+
+> BEGIN STRING
+邪のカード
+> CONTEXT: Armors/224/name/
+Card of evil
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+10 防+5 道+0 抵+0 行+5 運+0
+威圧+20%　２０％で非弱点でもキャンセル効果を発動
+> CONTEXT: Armors/224/description/
+Energy +0 reasons +0 attacks + ten defends + five roads +0 [**] +0 line + five fates +0
+Non-weak point executes the effect of the cancellation by 20 overpowering + % 20%.
+> END STRING
+
+> BEGIN STRING
+忍のカード
+> CONTEXT: Armors/225/name/
+Shinobu's card
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+0 行+20 運+0
+Hit+20%　与える快感がＨｉｔ数の２０％上昇する
+> CONTEXT: Armors/225/description/
+Energy +0 reasons +0 attacks +0 defends +0 roads +0 [**] +0 line +20 fates +0
+The given Hit+20% pleasure rises by 20% about the number of Hit.
+> END STRING
+
+> BEGIN STRING
+魔のカード
+> CONTEXT: Armors/226/name/
+Demon's card
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+10 防+0 道+0 抵+0 行+10 運+0
+牽制+20%　２０％でキャンセル時に大幅に戻す
+> CONTEXT: Armors/226/description/
+Energy +0 reasons +0 attacks + ten defends +0 roads +0 [**] +0 line + ten fates +0
+Return it greatly when you cancel with 20 restraint + % 20%.
+> END STRING
+
+> BEGIN STRING
+応急処置
+> CONTEXT: Armors/227/name/
+Emergency treatment
+> END STRING
+
+> BEGIN STRING
+家庭の医学
+> CONTEXT: Armors/228/name/
+Medicine of home
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+0 道+0 抵+10 行+0 運+0
+理性-20%　性技使用時の消費理性が－２０％される
+> CONTEXT: Armors/228/description/
+Energy +0 reasons +0 attacks +0 defends +0 roads +0 [**] + ten line +0 fates +0
+The consumption reason when the sexcraft is used the reason -20% is done by -20%.
+> END STRING
+
+> BEGIN STRING
+薬草学
+> CONTEXT: Armors/229/name/
+Medical herb study
+> END STRING
+
+> BEGIN STRING
+精+0 理+10 攻+0 防+0 道+5 抵+0 行+0 運+0
+幸運+20%　戦闘終了後のＳＰが２０％上昇する
+> CONTEXT: Armors/229/description/
+Energy +0 reasons + ten attacks +0 defends +0 roads + five [**] +0 line +0 fates +0
+SP after the combat ends luck + of 20% rises by 20%.
+> END STRING
+
+> BEGIN STRING
+森の役割
+> CONTEXT: Armors/230/name/
+Role of forest
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+5 道+0 抵+5 行+0 運+0
+平常心+20%　２０％でキャンセルを無効化する
+> CONTEXT: Armors/230/description/
+Energy +0 reasons +0 attacks +0 defends + five roads +0 [**] + five line +0 fates +0
+Nullify the cancellation with 20 presence of mind + % 20%.
+> END STRING
+
+> BEGIN STRING
+山歩きの基本
+> CONTEXT: Armors/231/name/
+Basis of walking in mountain
+> END STRING
+
+> BEGIN STRING
+精+20 理+0 攻+0 防+0 道+0 抵+0 行+10 運+0
+警戒+20%　戦闘開始時に２０％で先手を取る
+> CONTEXT: Armors/231/description/
+Energy +20 reasons +0 attacks +0 defends +0 roads +0 [**] +0 line + ten fates +0
+Get the first move by 20% when you begin precaution + to combat by 20%.
+> END STRING
+
+> BEGIN STRING
+山岳の草花
+> CONTEXT: Armors/232/name/
+Flowering plant in mountains
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+5 防+0 道+10 抵+0 行+0 運+0
+探索+20% ダンジョンでの拾得品が２０％で１増加する
+> CONTEXT: Armors/232/description/
+Energy +0 reasons +0 attacks + five defends +0 roads + ten [**] +0 line +0 fates +0
+One increase of the number of finding goods in search +20% dungeon by 20%.
+> END STRING
+
+> BEGIN STRING
+闇の囁き
+> CONTEXT: Armors/233/name/
+Whispering of darkness
+> END STRING
+
+> BEGIN STRING
+下水道の冒険
+> CONTEXT: Armors/234/name/
+Adventure of drainage
+> END STRING
+
+> BEGIN STRING
+精+40 理+0 攻+0 防+0 道+0 抵+0 行+5 運+0
+尻+2　尻責めのＨｉｔ数が＋２される
+> CONTEXT: Armors/234/description/
+Energy +40 reasons +0 attacks +0 defends +0 roads +0 [**] +0 line + five fates +0
+The number of Hit of hips + twitting by two hips is done and +2 is done.
+> END STRING
+
+> BEGIN STRING
+深海の不思議
+> CONTEXT: Armors/235/name/
+Mystery in the ocean
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+10 道+0 抵+10 行+0 運+0
+引き継ぎ+40%　Ｈｉｔ数を次の戦闘に４０％引き継ぐ
+> CONTEXT: Armors/235/description/
+Energy +0 reasons +0 attacks +0 defends + ten roads +0 [**] + ten line +0 fates +0
+Succeed succession + number of 40% Hit to the following combat by 40%.
+> END STRING
+
+> BEGIN STRING
+海賊の宝
+> CONTEXT: Armors/236/name/
+Pirate's hoard
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+15 防+5 道+0 抵+0 行+0 運+0
+威圧+20%　２０％で非弱点でもキャンセル効果を発動
+> CONTEXT: Armors/236/description/
+Energy +0 reasons +0 attacks +15 defends + five roads +0 [**] +0 line +0 fates +0
+Non-weak point executes the effect of the cancellation by 20 overpowering + % 20%.
+> END STRING
+
+> BEGIN STRING
+森人の生活
+> CONTEXT: Armors/237/name/
+The forest person's life
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+10 道+0 抵+10 行+0 運+0
+追撃+20%　２０％で攻撃時にＨｉｔ数が+1される
+> CONTEXT: Armors/237/description/
+Energy +0 reasons +0 attacks +0 defends + ten roads +0 [**] + ten line +0 fates +0
+The number of Hit is done with 20 pursuit + % 20% and +1 is done.
+> END STRING
+
+> BEGIN STRING
+褐色の狩人
+> CONTEXT: Armors/238/name/
+Brown hunter
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+20 防+0 道+0 抵+0 行+0 運+0
+性感+20%　２０％でクリティカルヒットになる
+> CONTEXT: Armors/238/description/
+Energy +0 reasons +0 attacks +20 defends +0 roads +0 [**] +0 line +0 fates +0
+It becomes a critical hit by 20 sexual feeling + % 20%.
+> END STRING
+
+> BEGIN STRING
+堕落の罠
+> CONTEXT: Armors/239/name/
+Trap of degeneration
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+10 防+0 道+0 抵+0 行+0 運+5
+牽制+20%　２０％でキャンセル時に大幅に戻す
+> CONTEXT: Armors/239/description/
+Energy +0 reasons +0 attacks + ten defends +0 roads +0 [**] +0 line +0 fates +5
+Return it greatly when you cancel with 20 restraint + % 20%.
+> END STRING
+
+> BEGIN STRING
+天使の教え
+> CONTEXT: Armors/240/name/
+Angel's teaching
+> END STRING
+
+> BEGIN STRING
+精+0 理+0 攻+0 防+10 道+0 抵+10 行+0 運+0
+唇+2　唇責めのＨｉｔ数が＋２される
+> CONTEXT: Armors/240/description/
+Energy +0 reasons +0 attacks +0 defends + ten roads +0 [**] + ten line +0 fates +0
+The number of Hit of lip + twitting by two lips is done and +2 is done.
+> END STRING
+
+> BEGIN STRING
+遺失文書
+> CONTEXT: Armors/241/name/
+Loss document
+> END STRING
+
+> BEGIN STRING
+精+40 理+0 攻+0 防+0 道+10 抵+0 行+0 運+0
+吸収-40%　エナジードレインを４０％軽減する
+> CONTEXT: Armors/241/description/
+Energy +40 reasons +0 attacks +0 defends +0 roads + ten [**] +0 line +0 fates +0
+Reduce absorption -40% [enaji-dorein] by 40%.
+> END STRING
+
+> BEGIN STRING
+魔導大全
+> CONTEXT: Armors/242/name/
+Sorcery large [zen]
+> END STRING
+
+> BEGIN STRING
+精+0 理+20 攻+5 防+5 道+0 抵+0 行+0 運+0
+Hit+20%　与える快感がＨｉｔ数の２０％上昇する
+> CONTEXT: Armors/242/description/
+Energy +0 reasons +20 attacks + five defends + five roads +0 [**] +0 line +0 fates +0
+The given Hit+20% pleasure rises by 20% about the number of Hit.
+> END STRING
+
+> BEGIN STRING
+装備スキル修得の札
+> CONTEXT: Armors/249/name/
+Note of equipment skill master
+> END STRING
+
+> BEGIN STRING
+全装備スキルを修得状態にします
+
+> CONTEXT: Armors/249/description/
+> CONTEXT: Armors/276/description/
+All equipment skill is made a master condition.
+> END STRING
+
+> BEGIN STRING
+全能力封じの札 -50
+> CONTEXT: Armors/251/name/
+Tags of full capacity sealed -50
+> END STRING
+
+> BEGIN STRING
+精力と理性以外の全能力が50低下しまが、基本収得ＳＰ３０増加
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/251/description/
+Doing of overall capacity other than energy and reason and basic finding SP30 increases of 50 decrease stripes
+【It is not reflected in the improvement processing. 】
+> END STRING
+
+> BEGIN STRING
+全能力封じの札 -100
+> CONTEXT: Armors/252/name/
+Note -100 of overall capacity sealing off
+> END STRING
+
+> BEGIN STRING
+精力と理性以外の全能力が100低下しまが、基本収得ＳＰ５０増加
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/252/description/
+Doing of overall capacity other than energy and reason and basic finding SP50 increases of 100 decrease stripes
+【It is not reflected in the improvement processing. 】
+> END STRING
+
+> BEGIN STRING
+攻撃封じの札 -50
+> CONTEXT: Armors/254/name/
+Note -50 of attack sealing off
+> END STRING
+
+> BEGIN STRING
+攻撃力が50低下しますが、基本収得ＳＰ３増加
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/254/description/
+50 decreases of the offensive power but increase basic finding SP3. 
+【It is not reflected in the improvement processing. 】
+> END STRING
+
+> BEGIN STRING
+攻撃封じの札 -100
+> CONTEXT: Armors/255/name/
+Note -100 of attack sealing off
+> END STRING
+
+> BEGIN STRING
+攻撃力が100低下しますが、基本収得ＳＰ６増加
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/255/description/
+> CONTEXT: Armors/267/description/
+100 decreases of the offensive power but increase basic finding SP6. 
+【It is not reflected in the improvement processing. 】
+> END STRING
+
+> BEGIN STRING
+防御封じの札 -50
+> CONTEXT: Armors/257/name/
+Note -50 of defense sealing off
+> END STRING
+
+> BEGIN STRING
+防御力が50低下しますが、基本収得ＳＰ３増加
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/257/description/
+50 decreases of the defense power but increase basic finding SP3. 
+【It is not reflected in the improvement processing. 】
+> END STRING
+
+> BEGIN STRING
+防御封じの札 -100
+> CONTEXT: Armors/258/name/
+Note -100 of defense sealing off
+> END STRING
+
+> BEGIN STRING
+防御力が100低下しますが、基本収得ＳＰ６増加
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/258/description/
+100 decreases of the defense power but increase basic finding SP6. 
+【It is not reflected in the improvement processing. 】
+> END STRING
+
+> BEGIN STRING
+道具封じの札 -50
+> CONTEXT: Armors/260/name/
+Note -50 of tool sealing off
+> END STRING
+
+> BEGIN STRING
+道具が50低下しますが、基本収得ＳＰ３増加
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/260/description/
+50 decreases of the tool but increase basic finding SP3. 
+【It is not reflected in the improvement processing. 】
+> END STRING
+
+> BEGIN STRING
+道具封じの札 -100
+> CONTEXT: Armors/261/name/
+Note -100 of tool sealing off
+> END STRING
+
+> BEGIN STRING
+道具が100低下しますが、基本収得ＳＰ６増加
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/261/description/
+100 decreases of the tool but increase basic finding SP6. 
+【It is not reflected in the improvement processing. 】
+> END STRING
+
+> BEGIN STRING
+抵抗封じの札 -50
+> CONTEXT: Armors/263/name/
+Note -50 of resistance sealing off
+> END STRING
+
+> BEGIN STRING
+抵抗力が50低下しますが、基本収得ＳＰ３増加
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/263/description/
+50 decreases of the resistance power but increase basic finding SP3. 
+【It is not reflected in the improvement processing. 】
+> END STRING
+
+> BEGIN STRING
+抵抗封じの札 -100
+> CONTEXT: Armors/264/name/
+Note -100 of resistance sealing off
+> END STRING
+
+> BEGIN STRING
+抵抗力が100低下しますが、基本収得ＳＰ６増加
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/264/description/
+100 decreases of the resistance power but increase basic finding SP6. 
+【It is not reflected in the improvement processing. 】
+> END STRING
+
+> BEGIN STRING
+行動封じの札 -50
+> CONTEXT: Armors/266/name/
+Note -50 of action sealing off
+> END STRING
+
+> BEGIN STRING
+行動力が50低下しますが、基本収得ＳＰ３増加
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/266/description/
+50 decreases of energy but increase basic finding SP3. 
+【It is not reflected in the improvement processing. 】
+> END STRING
+
+> BEGIN STRING
+行動封じの札 -100
+> CONTEXT: Armors/267/name/
+Note -100 of action sealing off
+> END STRING
+
+> BEGIN STRING
+運封じの札 -50
+> CONTEXT: Armors/269/name/
+Note -50 of fate sealing off
+> END STRING
+
+> BEGIN STRING
+運が50低下しますが、基本収得ＳＰ１０増加
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/269/description/
+50 decreases of the fate but increase basic finding SP10. 
+【It is not reflected in the improvement processing. 】
+> END STRING
+
+> BEGIN STRING
+運封じの札 -100
+> CONTEXT: Armors/270/name/
+Note -100 of fate sealing off
+> END STRING
+
+> BEGIN STRING
+運が100低下しますが、基本収得ＳＰ２０増加
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/270/description/
+100 decreases of the fate but increase basic finding SP20. 
+【It is not reflected in the improvement processing. 】
+> END STRING
+
+> BEGIN STRING
+【未使用】スキル封じの札 Lv1
+> CONTEXT: Armors/272/name/
+【Unused】Note Lv1 of skill sealing off
+> END STRING
+
+> BEGIN STRING
+Lv1のスキルを全て封印しますが、基本収得ＳＰ１０増加
+【装備したままスキル修得を行わないこと(未修得のため)】
+> CONTEXT: Armors/272/description/
+All skills of Lv1 are sealed but increase basic finding SP10. 
+【Be not master of the skill while equipped. (For the unmaster)】
+> END STRING
+
+> BEGIN STRING
+【未使用】スキル封じの札 Lv2
+> CONTEXT: Armors/273/name/
+【Unused】Note Lv2 of skill sealing off
+> END STRING
+
+> BEGIN STRING
+Lv2のスキルを全て封印しますが、基本収得ＳＰ２０増加
+【装備したままスキル修得を行わないこと(未修得のため)】
+> CONTEXT: Armors/273/description/
+All skills of Lv2 are sealed but increase basic finding SP20. 
+【Be not master of the skill while equipped. (For the unmaster)】
+> END STRING
+
+> BEGIN STRING
+【未使用】スキル封じの札 Lv3
+> CONTEXT: Armors/274/name/
+【Unused】Note Lv3 of skill sealing off
+> END STRING
+
+> BEGIN STRING
+全スキルを封印しますが、基本収得ＳＰ３０増加
+【装備したままスキル修得を行わないこと(未修得のため)】
+> CONTEXT: Armors/274/description/
+All skills are sealed but increase basic finding SP30. 
+【Be not master of the skill while equipped. (For the unmaster)】
+> END STRING
+
+> BEGIN STRING
+予備　装備スキル修得の札
+> CONTEXT: Armors/276/name/
+Note of preliminary equipment skill master
+> END STRING
+
+> BEGIN STRING
+奴隷の首輪
+> CONTEXT: Armors/300/name/
+Slave's collar
+> END STRING
+
+> BEGIN STRING
+自動で屈服になりますが、基本収得ＳＰ５０増加
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/300/description/
+Become surrender by the automatic operation but increase basic finding SP50. 
+【It is not reflected in the improvement processing. 】
+> END STRING
+
+> BEGIN STRING
+奴隷の口枷
+> CONTEXT: Armors/302/name/
+Slave's gag
+> END STRING
+
+> BEGIN STRING
+自動でイきそうになりますが、基本収得ＳＰ１０増加
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/302/description/
+Seem to come by the automatic operation but increase basic finding SP10. 
+【It is not reflected in the improvement processing. 】
+> END STRING
+
+> BEGIN STRING
+奴隷の手枷
+> CONTEXT: Armors/304/name/
+Slave's manacle
+> END STRING
+
+> BEGIN STRING
+自動で骨抜きになりますが、基本収得ＳＰ１０増加
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/304/description/
+Become a gutlessness by the automatic operation but increase basic finding SP10. 
+【It is not reflected in the improvement processing. 】
+> END STRING
+
+> BEGIN STRING
+奴隷の足枷
+> CONTEXT: Armors/306/name/
+Slave's fetter
+> END STRING
+
+> BEGIN STRING
+自動で魅了になりますが、基本収得ＳＰ１０増加
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/306/description/
+Become a charm end by the automatic operation but increase basic finding SP10. 
+【It is not reflected in the improvement processing. 】
+> END STRING
+
+> BEGIN STRING
+基本収得ＳＰ１０増加
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/321/description/
+Basic finding SP10 increase
+【It is not reflected in the improvement processing. 】
+> END STRING
+
+> BEGIN STRING
+適格者
+> CONTEXT: Armors/323/name/
+Eligible
+> END STRING
+
+> BEGIN STRING
+基本収得ＳＰ２０増加
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/323/description/
+> CONTEXT: Armors/325/description/
+Basic finding SP20 increase
+【It is not reflected in the improvement processing. 】
+> END STRING
+
+> BEGIN STRING
+半淫魔
+> CONTEXT: Armors/325/name/
+Half Succubus
+> END STRING
+
+> BEGIN STRING
+凄腕冒険者
+> CONTEXT: Armors/341/name/
+Handedly adventurer
+> END STRING
+
+> BEGIN STRING
+基本収得ＳＰ１００増加
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/341/description/
+Basic finding SP100 increase
+【It is not reflected in the improvement processing. 】
+> END STRING
+
+> BEGIN STRING
+淫魔狩人
+> CONTEXT: Armors/343/name/
+Succubus hunter
+> END STRING
+
+> BEGIN STRING
+基本収得ＳＰ２００増加
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/343/description/
+Basic finding SP200 increase
+【It is not reflected in the improvement processing. 】
+> END STRING
+
+> BEGIN STRING
+大盗賊
+> CONTEXT: Armors/345/name/
+Large thief
+> END STRING
+
+> BEGIN STRING
+ダンジョンでの拾得品が常に１増加する
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/345/description/
+One increase of the number of finding goods in the dungeon always. 
+【It is not reflected in the improvement processing. 】
+> END STRING
+
+> BEGIN STRING
+胸マスター
+> CONTEXT: Armors/351/name/
+Breast master
+> END STRING
+
+> BEGIN STRING
+胸責めの消費理性が１／２になる
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/351/description/
+The consumption reason for the chest twitting becomes 1/2. 
+【It is not reflected in the improvement processing. 】
+> END STRING
+
+> BEGIN STRING
+尻マスター
+> CONTEXT: Armors/353/name/
+Ass master
+> END STRING
+
+> BEGIN STRING
+尻責めの消費理性が１／２になる
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/353/description/
+The consumption reason for the hips twitting becomes 1/2. 
+【It is not reflected in the improvement processing. 】
+> END STRING
+
+> BEGIN STRING
+膣マスター
+> CONTEXT: Armors/355/name/
+Vagina master
+> END STRING
+
+> BEGIN STRING
+膣責めの消費理性が１／２になる
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/355/description/
+The consumption reason for the vagina twitting becomes 1/2. 
+【It is not reflected in the improvement processing. 】
+> END STRING
+
+> BEGIN STRING
+唇マスター
+> CONTEXT: Armors/357/name/
+Lip master
+> END STRING
+
+> BEGIN STRING
+唇責めの消費理性が１／２になる
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/357/description/
+The consumption reason for the lip twitting becomes 1/2. 
+【It is not reflected in the improvement processing. 】
+> END STRING
+
+> BEGIN STRING
+防御マスター
+> CONTEXT: Armors/359/name/
+Defense master
+> END STRING
+
+> BEGIN STRING
+防御選択後のライン速度が２倍になる
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/359/description/
+The line speed after the defense is selected doubles. 
+【It is not reflected in the improvement processing. 】
+> END STRING
+
+> BEGIN STRING
+道具マスター
+> CONTEXT: Armors/361/name/
+Tool master
+> END STRING
+
+> BEGIN STRING
+道具選択後のライン速度が２倍になる
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/361/description/
+The line speed after the tool is selected doubles. 
+【It is not reflected in the improvement processing. 】
+> END STRING
+
+> BEGIN STRING
+逃走マスター
+> CONTEXT: Armors/363/name/
+Escape master
+> END STRING
+
+> BEGIN STRING
+逃走選択後のライン速度が２倍になる
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/363/description/
+The line speed after the escape is selected doubles. 
+【It is not reflected in the improvement processing. 】
+> END STRING
+
+> BEGIN STRING
+連携マスター
+> CONTEXT: Armors/365/name/
+Coordinated master
+> END STRING
+
+> BEGIN STRING
+連携、脱衣選択後のライン速度が２倍になる
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/365/description/
+The line speed after it cooperates, and undressing is selected doubles. 
+【It is not reflected in the improvement processing. 】
+> END STRING
+
+> BEGIN STRING
+屈服マスター
+> CONTEXT: Armors/367/name/
+Surrender master
+> END STRING
+
+> BEGIN STRING
+屈服選択後のライン速度が２倍になる
+【レベルアップ処理には反映されません】
+> CONTEXT: Armors/367/description/
+The line speed after surrender is selected doubles. 
+【It is not reflected in the improvement processing. 】
+> END STRING

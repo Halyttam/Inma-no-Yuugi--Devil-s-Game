@@ -1,0 +1,126 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「たくっ！　また一人だけ売れ残りやがって！」
+> CONTEXT: Map176/events/4/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「伝説のエルフというだけで、少々ふっかけ過ぎたか？
+　このまま売れ残り続けても、維持費がかさむしな。
+　仕方ない…次から少々値を下げてみるか」
+> CONTEXT: Map176/events/4/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「最悪知り合いの娼館に、
+　二束三文で売っぱらっちまうって手もあるな」
+> CONTEXT: Map176/events/4/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]魔法都市には来るのは始めてだが、
+　こんな場所があったなんてな\\C[1]」
+> CONTEXT: Map176/events/4/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「へいいらっしゃい！　冒険者の旦那！
+　奴隷を買いに来たんですかい？」
+> CONTEXT: Map176/events/4/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ですが…あいにく市は今日はもう終わって、
+　またの開催日を……って、そうだ！」
+> CONTEXT: Map176/events/4/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いやはや、旦那は運が良い！
+　実は一人だけ売れのこ……いや！
+　たった今仕入れたんですよ！」
+> CONTEXT: Map176/events/4/pages/0/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]もしかして、このエルフの女か？\\C[1]」
+> CONTEXT: Map176/events/4/pages/0/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「へい、そうです！
+　今なら旦那のために、
+　特別に二十万魔貨でお売りしますよ！」
+> CONTEXT: Map176/events/4/pages/0/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]あぁ…その前に一つ聞きたいんだが、
+　もし俺が買わなかったら、
+　エルフの奴隷はこの先どうなるんだ？\\C[1]」
+> CONTEXT: Map176/events/4/pages/0/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それは…その…言い辛いんですが、
+　何しろエルフという種族はは非常に珍しく、
+　しかも美しい容姿ですし、ろくな結末にはなりませんなぁ」
+> CONTEXT: Map176/events/4/pages/0/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「昔からエルフは金持ち連中に引き取られ、
+　性処理用として死ぬまで被虐的な扱いを受けると、
+　相場は決まっていますし」
+> CONTEXT: Map176/events/4/pages/0/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「また、それを運良く免れたとしても、
+　奴隷鉱夫として買われ、
+　死ぬまで鉱山でこき使われ続けるのは確実」
+> CONTEXT: Map176/events/4/pages/0/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「しかし旦那の男気に惚れた弱みだ！
+　ええい！　このエルフの女を、
+　特別に十万魔貨まで下げてお売りしましょう！」
+> CONTEXT: Map176/events/4/pages/0/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]十万魔貨か…確かに大金だが。
+　手持ちの魔貨と、装備や道具をほぼ全て売り払えば、
+　用意できない額じゃないか\\C[1]」
+> CONTEXT: Map176/events/4/pages/0/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]はぁ…ここで会ったのも何かの縁か。
+　今すぐ十万魔貨を工面してくるから、
+　少し待っていてくれ\\C[1]」
+> CONTEXT: Map176/events/4/pages/0/126/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]その間、絶対誰にも売るんじゃないぞ！\\C[1]」
+> CONTEXT: Map176/events/4/pages/0/143/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,29 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+領主の館　２Ｆ
+> CONTEXT: Map149/display_name/ < UNTRANSLATED
+> CONTEXT: Map114/display_name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]は館の鍵を使い、鉄格子を開けた。
+> CONTEXT: Map149/events/32/pages/0/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map149/events/33/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうやら持っている鍵では開けられないようだ。
+> CONTEXT: Map149/events/32/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+鍵のかかった鉄格子だ。
+防御魔法が何重にもかけられており、
+他の手段では開かないようだ。
+> CONTEXT: Map149/events/32/pages/0/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map149/events/33/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING

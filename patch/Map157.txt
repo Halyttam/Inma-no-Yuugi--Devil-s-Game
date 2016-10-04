@@ -1,0 +1,61 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「ふーむ…天使の奇跡の力を秘めたと言われる魔法道具。
+　まだまだ研究し足りないですよ」
+> CONTEXT: Map157/events/4/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いやぁ、調べれば調べる程興味深い。
+　私も、大聖堂で起きたと言われる、
+　天使の現界を見てみたかったなぁ！」
+> CONTEXT: Map157/events/4/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もう…家の夫ったら、いつも天使…天使って、
+　そればっかり！」
+> CONTEXT: Map157/events/5/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「確かに天使様は美しいでしょうけど、
+　陰ながら夫を支える身近な天使にも、
+　ちょっとは関心を持って欲しいわ！」
+> CONTEXT: Map157/events/5/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まっ…まぁ…今朝の料理のこっそり変えた味付け。
+　気づいてくれただけでなく、
+　美味しいって褒めてくれたのは良いけど…\\I[140]」
+> CONTEXT: Map157/events/5/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+棚の中には実験用の魔法道具が大量にしまわれている。
+> CONTEXT: Map157/events/6/pages/1/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map157/events/7/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+天使や過去の淫魔の侵攻について書かれた本が並んでいる。
+> CONTEXT: Map157/events/8/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map157/events/9/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map157/events/10/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map157/events/11/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+実験用の試薬が大量に収納されている。
+> CONTEXT: Map157/events/12/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map157/events/13/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING

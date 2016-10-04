@@ -1,0 +1,65 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+大聖堂　３Ｆ
+> CONTEXT: Map139/display_name/ < UNTRANSLATED
+> CONTEXT: Map015/display_name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何処かで何かが動く音が聞こえた…。
+> CONTEXT: Map139/events/28/pages/0/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map138/events/25/pages/0/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map137/events/19/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+天使に関する祭具がしまわれている。
+> CONTEXT: Map139/events/29/pages/1/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/29/pages/1/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+教会の役割についての本が並んでいる。
+> CONTEXT: Map139/events/31/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map139/events/32/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/31/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/32/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もっとも古い淫魔の侵攻についての本が並んでいる。
+> CONTEXT: Map139/events/33/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map139/events/34/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/33/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/34/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+天使の奇跡、人々の祈りに関する本が並んでいる。
+> CONTEXT: Map139/events/35/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map139/events/36/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/35/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/36/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+教会の祭事に関する本が並んでいる。
+> CONTEXT: Map139/events/37/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map139/events/38/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/37/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/38/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+祭事用の教本などがしまわれている。
+> CONTEXT: Map139/events/39/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/39/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING

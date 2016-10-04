@@ -1,0 +1,179 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+仲間の部屋
+> CONTEXT: Map050/display_name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]んっ…どうやら、
+　準備は整ったようだね\\C[29]」
+> CONTEXT: Map050/events/1/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+実は夢の中で天使に会った
+> CONTEXT: Map050/events/1/pages/0/12/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+依頼の内容って何だっけ？
+> CONTEXT: Map050/events/1/pages/0/12/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+特に用はない
+> CONTEXT: Map050/events/1/pages/0/12/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]エルフの長老が聞かせてくれたお伽話にも、
+　天使と淫魔が出てきたから、
+　ただの夢じゃないかも知れないね\\C[29]」
+> CONTEXT: Map050/events/1/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]えっ…？　お伽話の内容？
+　うーん…私も聞いたのはかなり昔だから、
+　あまり詳しくは覚えてないんだけど\\C[29]」
+> CONTEXT: Map050/events/1/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]人々の祈りの力で天使が呼び出されて、
+　色々あって淫魔の女王が倒された？……とかそんな感じで、
+　めでたしめでたし…だったような\\C[29]」
+> CONTEXT: Map050/events/1/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]うーん、長老に聞けばもう少し詳しくわかりそうだけど\\C[29]」
+> CONTEXT: Map050/events/1/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]そんなことより、
+　今は依頼を達成して報酬を得ることが大事だよ\\C[29]」
+> CONTEXT: Map050/events/1/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]村のはずれにある、
+　古びた鉱山跡の調査だよ\\C[29]」
+> CONTEXT: Map050/events/1/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]使われなくなった今も、
+　毎年定期的に調査だけはしてたらしいんだけど\\C[29]」
+> CONTEXT: Map050/events/1/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]数日前に坑道の奥に向かった調査団が、
+　誰一人帰って来なかったらしいんだよ\\C[29]」
+> CONTEXT: Map050/events/1/pages/0/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]魔物の巣になっている場合も考えて、
+　この辺りで腕利きの冒険者である私たちに、
+　調査及び捜索の依頼が回ってきたというわけだよ\\C[29]」
+> CONTEXT: Map050/events/1/pages/0/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]フルプレートの鎧も装備したようだし、
+　これで万一鉱山が魔物の巣になっていても、
+　撃退出来そうだね\\C[29]」
+> CONTEXT: Map050/events/1/pages/0/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]ギルドで場所は聞いてるから、
+　さっそく向かおうよ\\C[29]」
+> CONTEXT: Map050/events/1/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]はぁ…やっぱり家でのんびりするのは良いね\\C[29]」
+> CONTEXT: Map050/events/1/pages/2/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]あっ、そうそう。
+　私を加入させるかサポートを受けて淫魔と戦うと、
+　一戦闘ごとにＬｖ分のＳＰを使うから気をつけてね\\C[29]」
+> CONTEXT: Map050/events/1/pages/2/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]あと炭鉱や診療所の淫魔、
+　あと上級淫魔相手に加入やサポート中のまま戦闘を行うと、
+　強制的に離脱状態になるから、注意するんだよ\\C[29]」
+> CONTEXT: Map050/events/1/pages/2/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]私も出来れば、
+　ずっと一緒に戦いたいんだけど、
+　淫魔化の呪いって、思ったよりも厄介だね\\C[29]」
+> CONTEXT: Map050/events/1/pages/2/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[6]が数ヶ月分の依頼料を使い、購入したピアノだ。
+彼女の腕前はプロも認めるほど…らしい。
+> CONTEXT: Map050/events/10/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+俺が\\N[6]の初の依頼成功記念として、
+花屋の店員に聞いて買い与えた花だ。
+もう数年以上大切に育てている。
+> CONTEXT: Map050/events/11/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+色鮮やかな魔法薬などが、
+ラベル付きでわかりやすく並べられている。
+> CONTEXT: Map050/events/12/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔法や薬草学…その他難しそうな本が隙間なく、
+綺麗に並べられている。
+> CONTEXT: Map050/events/13/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map050/events/14/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[6]の眠っているベッドだ。
+きちんとベッドメイキングされている。
+> CONTEXT: Map050/events/17/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING

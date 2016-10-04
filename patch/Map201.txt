@@ -1,0 +1,89 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「やっぱりボク、将来は海賊になりたいな」
+> CONTEXT: Map201/events/25/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map115/events/25/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「世界中の海を冒険して、
+　新大陸を発見するんだ！」
+> CONTEXT: Map201/events/25/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map115/events/25/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「当然、悪の海賊団との戦いもはずせないよ！」
+> CONTEXT: Map201/events/25/pages/0/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map115/events/25/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「現在船内に荷運び中だから、
+　関係ない人は近寄ったら駄目だぜ」
+> CONTEXT: Map201/events/26/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map115/events/26/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふぅ…しかし最近は、
+　淫魔やら天使やらとゴタゴタしっぱなし、
+　それ関係の人や荷物の積み下ろしで、毎日大忙しだぜ」
+> CONTEXT: Map201/events/26/pages/0/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map115/events/26/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「今回の航海も無事に成功したが、
+　他の船乗りの噂では、
+　途中淫魔に襲われたらしい」
+> CONTEXT: Map201/events/27/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map115/events/27/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「海上では基本逃げ場はないからな。
+　もし俺の船で同じことが起これば、
+　たちまち乱交パーティーの始まりだぜ」
+> CONTEXT: Map201/events/27/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map115/events/27/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うぉ…いかんな。
+　想像したら、股間が立ってきやがった」
+> CONTEXT: Map201/events/27/pages/0/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map115/events/27/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「先ほど淫魔の呪いのより亡くなられた方を、
+　埋葬したところです」
+> CONTEXT: Map201/events/28/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map115/events/28/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「たとえ奴隷商人として悪の限りを尽くしたとしても、
+　死は平等に訪れます」
+> CONTEXT: Map201/events/28/pages/0/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map115/events/28/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「出来れば天使様の元に送られた彼の魂が、
+　安らかならんことを…」
+> CONTEXT: Map201/events/28/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map115/events/28/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING

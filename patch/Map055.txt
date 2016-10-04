@@ -1,0 +1,180 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+淫女王の部屋
+> CONTEXT: Map055/display_name/ < UNTRANSLATED
+> CONTEXT: Map008/display_name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]これは……置き手紙か？\\C[1]」
+> CONTEXT: Map055/events/5/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]\\N[6]ちゃんと遊ぶのも飽きたし、
+　これからちょっとした実験に、
+　付き合ってもらうことにしたよ\\C[10]」
+> CONTEXT: Map055/events/5/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]場所はこの近くに、
+　魔法使いが住んでる建物があるから、
+　そこで……ね\\C[10]」
+> CONTEXT: Map055/events/5/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]\\N[1]は\\N[6]ちゃんを助けに来ても良いし、
+　ボクの実験を止めに来ても良いよ～\\I[140]\\C[10]」
+> CONTEXT: Map055/events/5/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]まぁ遊んでくれたほうが、
+　ボクも嬉しいかな？　じゃぁね～\\I[140]\\C[10]」
+> CONTEXT: Map055/events/5/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+手紙はそこで終わっている…。
+> CONTEXT: Map055/events/5/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]確か…村の近くに腕の良い医者がいたな。
+　そいつは優秀な魔法使いでもあるらしいし、
+　\\N[6]がいるのはそこで間違いないか\\C[1]」
+> CONTEXT: Map055/events/5/pages/0/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]くそっ…何でこう厄介事が…とにかく、
+　これ以上この場にとどまっても仕方ない。
+　…転送石を使ってさっさと脱出しよう\\C[1]」
+> CONTEXT: Map055/events/5/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+鞭や首輪…おまけに人参など、
+用途不明なものが乱雑に収納されている。
+> CONTEXT: Map055/events/6/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map055/events/7/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map054/events/8/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map054/events/9/pages/1/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map054/events/10/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map054/events/11/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/8/pages/1/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/9/pages/1/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/10/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/11/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/13/pages/1/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/14/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/16/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/17/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+淫女王としての威厳を出すには、
+人間界への侵攻マニュアルなどの本が並んでいる。
+> CONTEXT: Map055/events/8/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map055/events/9/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+立派なピアノが置いてあるが、
+長い間触られた形跡が見あたらない…。
+> CONTEXT: Map055/events/10/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まだほんのりと温かく、乱れた布団から、
+甘い香りがひっきりなしに漂ってくる…。
+> CONTEXT: Map055/events/11/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+立派な赤い椅子だ。
+見たことのない木材で作られている。
+> CONTEXT: Map055/events/12/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]しっ…しまった…！
+　こんな…罠に…！\\C[1]」
+> CONTEXT: Map055/events/16/pages/0/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map054/events/16/pages/0/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map008/events/16/pages/0/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/16/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]意識が…もう…！\\C[1]」
+> CONTEXT: Map055/events/16/pages/0/30/Dialogue < UNTRANSLATED
+> CONTEXT: Map054/events/16/pages/0/29/Dialogue < UNTRANSLATED
+> CONTEXT: Map008/events/16/pages/0/30/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/16/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]あぁ…これは…きっ…気持ち良いぃ\\I[140]
+　あっ…でっ…出るぅ\\I[140]\\C[1]」
+> CONTEXT: Map055/events/16/pages/0/62/Dialogue < UNTRANSLATED
+> CONTEXT: Map054/events/16/pages/0/61/Dialogue < UNTRANSLATED
+> CONTEXT: Map008/events/16/pages/0/62/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/16/pages/0/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]きゃはは、お兄さんの子種、
+　また吸い取っちゃったよ\\C[10]」
+> CONTEXT: Map055/events/16/pages/0/75/Dialogue < UNTRANSLATED
+> CONTEXT: Map008/events/16/pages/0/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]インプの尻擦りはどうかな？
+　意識が朦朧としてるのに、
+　とっても気持ち良さそうな顔だね\\C[10]」
+> CONTEXT: Map055/events/16/pages/0/79/Dialogue < UNTRANSLATED
+> CONTEXT: Map008/events/16/pages/0/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]あぁあへへぇ…もっと…\\I[140]
+　柔らかいぃ…もっと…もっとぉ…あへへぇ\\I[140]\\C[1]」
+> CONTEXT: Map055/events/16/pages/0/84/Dialogue < UNTRANSLATED
+> CONTEXT: Map054/events/16/pages/0/83/Dialogue < UNTRANSLATED
+> CONTEXT: Map008/events/16/pages/0/84/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/16/pages/0/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]んっ…あぁ…って…俺は…ふあぁ\\I[140]
+　どっ…どうして…あひぃっ\\I[140]\\C[1]」
+> CONTEXT: Map055/events/16/pages/0/87/Dialogue < UNTRANSLATED
+> CONTEXT: Map054/events/16/pages/0/86/Dialogue < UNTRANSLATED
+> CONTEXT: Map008/events/16/pages/0/87/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/16/pages/0/86/Dialogue < UNTRANSLATED
+
+> END STRING

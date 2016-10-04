@@ -1,0 +1,220 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+封印の塔　１Ｆ
+> CONTEXT: Map162/display_name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうやら特殊な魔法で施錠及び強化がしてあるようだ。
+手持ちの装備では壊せそうにない。
+> CONTEXT: Map162/events/24/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map162/events/39/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map162/events/40/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くそっ…くそぉ…！　俺は天使に選ばれたんだぞ！
+　今まで下級淫魔相手に、ずっと勝利し続けてたんだ！」
+> CONTEXT: Map162/events/27/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それなのに、この塔の下級淫魔相手に、
+　手も足も出ずに搾り尽くされちまった！」
+> CONTEXT: Map162/events/27/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「下級だってのに何だよこの強さは…！
+　結界の中なら安全？　馬鹿な！
+　いくら弱体化した所で、普通の人間が勝てるものか！」
+> CONTEXT: Map162/events/27/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「俺たち人間は淫魔の家畜になって、
+　細々と生きていくしかねえんだよ！」
+> CONTEXT: Map162/events/27/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んっ…また餌が来たのか？
+　悪いことは言わない。早く逃げたほうが良い」
+> CONTEXT: Map162/events/32/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「俺たちはそれなりに名の知られた冒険者だったが、
+　この塔の淫魔には、全く歯がたたなかった」
+> CONTEXT: Map162/events/32/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まるで赤子の手をひねるように、
+　皆次々に絶頂させられていったよ」
+> CONTEXT: Map162/events/32/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「その中で魔力を持つ者を上の階に連れて行き、
+　そして魔力を持たない男は餌として、
+　女は淫魔にしたのち解放したんだ」
+> CONTEXT: Map162/events/32/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「だからもう一度言う。
+　早く逃げたほうが良い」
+> CONTEXT: Map162/events/32/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ちっ…ちくしょう！　話が違うじゃねえか！
+　何が魔法都市でも五本の指に入る魔法使いだ！
+　ちっとも通じねえじゃねえか！」
+> CONTEXT: Map162/events/33/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おまけに魔法だけでなく、
+　物理攻撃も全く効かねえとか…詐欺じゃねえか！」
+> CONTEXT: Map162/events/33/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「すぐに絶頂させれば淫魔は消えると聞いて、
+　皆必死に奮闘したが、
+　結局指先一つでイかされちまった」
+> CONTEXT: Map162/events/33/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「こんな相手に勝てるわけねえだろ。
+　俺たちゃ人間は皆…淫魔の家畜にされるんだ」
+> CONTEXT: Map162/events/33/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あぁ…こんな年寄りでさえ、
+　淫魔たちに見つめられるだけで、
+　若い頃のたぎりを取り戻すとはのう」
+> CONTEXT: Map162/events/34/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「天使に選ばれ、精が枯れ果てたわしならば、
+　淫魔の誘惑にも抗えると思ったのじゃが、
+　どうやら見通しが甘かったようじゃな」
+> CONTEXT: Map162/events/34/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「はぁ…しかし、本当にえがったわぃ…。
+　これならば残り少ない命を、
+　彼女たちに吸い尽くされるのも…良いかもしれぬのう」
+> CONTEXT: Map162/events/34/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うっ…うぅ…もう…出ない…やめて…くれぇ…」
+> CONTEXT: Map162/events/35/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「こんな…はずじゃぁ…なかったの…に、
+　天使に選ばれた適格者たちが、
+　封印の塔の淫魔には…上質な餌に過ぎないなんて…」
+> CONTEXT: Map162/events/35/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「実力が…違いすぎる…だが、
+　もう…どうでも良い。
+　俺は…このまま淫魔様の…家畜として…」
+> CONTEXT: Map162/events/35/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「生涯を終える…のだから…お前たちも、
+　快楽に抗うより…淫魔様に…従ったほうが…良いぞ」
+> CONTEXT: Map162/events/35/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「こんな…こんなはずじゃなかったんだ…。
+　俺が長年鍛えた剣術が…全く通用しないなんて…」
+> CONTEXT: Map162/events/36/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「しかも…淫魔たちの手管により、
+　俺の長年の剣術が…経験が…精液に変えられて…、
+　膣内に吸い取られ…あぁ…！」
+> CONTEXT: Map162/events/36/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「思い出すと、また立ってきちまう…。
+　このまま俺の長年鍛え上げた筋肉が、
+　淫魔の吸精で…脂肪の塊に変えられるのも…時間の問題だ」
+> CONTEXT: Map162/events/36/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「だがもう…そんなことは…どうでも良い…。
+　早く…淫魔たちの吸精の時間が来て欲しいと…、
+　心底待ちわびちまうんだよぉ…！」
+> CONTEXT: Map162/events/36/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「上級淫魔…いえ、
+　淫女王アニスの淫気を感じますわ！」
+> CONTEXT: Map162/events/37/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「間違いなく彼女は、この塔の最上階にいますわ！」
+> CONTEXT: Map162/events/37/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]そっか…いよいよ決着がつくんだね\\C[29]」
+> CONTEXT: Map162/events/37/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]ああ、必ずここで終わりにするぞ。
+　そのためにも、塔の最上階へ急ごう\\C[1]」
+> CONTEXT: Map162/events/37/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,1008 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+戦闘不能【この場合呪縛】
+> CONTEXT: States/1/name/
+It is not possible to combat. 【In this case, spell】
+> END STRING
+
+> BEGIN STRING
+は倒れた！
+> CONTEXT: States/1/message1/
+I fell down!
+> END STRING
+
+> BEGIN STRING
+を倒した！
+> CONTEXT: States/1/message2/
+Was defeated!
+> END STRING
+
+> BEGIN STRING
+は立ち上がった！
+> CONTEXT: States/1/message4/
+I stood up is!
+> END STRING
+
+> BEGIN STRING
+毒
+> CONTEXT: States/2/name/
+Poison
+> END STRING
+
+> BEGIN STRING
+は毒に冒された！
+> CONTEXT: States/2/message1/
+> CONTEXT: States/2/message2/
+Was poisoned!
+> END STRING
+
+> BEGIN STRING
+の毒が消えた！
+> CONTEXT: States/2/message4/
+Poison is gone!
+> END STRING
+
+> BEGIN STRING
+暗闇
+> CONTEXT: States/3/name/
+The dark
+> END STRING
+
+> BEGIN STRING
+は暗闇に閉ざされた！
+> CONTEXT: States/3/message1/
+It was shut by the dark doing. 
+> END STRING
+
+> BEGIN STRING
+を暗闇に閉ざした！
+> CONTEXT: States/3/message2/
+It was closed in the dark!
+> END STRING
+
+> BEGIN STRING
+の暗闇が消えた！
+> CONTEXT: States/3/message4/
+The dark disappeared getting on. 
+> END STRING
+
+> BEGIN STRING
+沈黙
+> CONTEXT: States/4/name/
+A silence
+> END STRING
+
+> BEGIN STRING
+は魔法を封じ込まれた！
+> CONTEXT: States/4/message1/
+Magic was imprisoned doing. 
+> END STRING
+
+> BEGIN STRING
+の魔法を封じ込めた！
+> CONTEXT: States/4/message2/
+Magic was enclosed getting on. 
+> END STRING
+
+> BEGIN STRING
+の魔法封じが解けた！
+> CONTEXT: States/4/message4/
+The magic sealing off was able to be solved getting on. 
+> END STRING
+
+> BEGIN STRING
+混乱
+> CONTEXT: States/5/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は混乱してしまった！
+> CONTEXT: States/5/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+を混乱させた！
+> CONTEXT: States/5/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は我に返った！
+> CONTEXT: States/5/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+睡眠
+> CONTEXT: States/6/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は眠ってしまった！
+> CONTEXT: States/6/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+を眠らせた！
+> CONTEXT: States/6/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は眠っている……
+> CONTEXT: States/6/message3/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は目を覚ました！
+> CONTEXT: States/6/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+麻痺
+> CONTEXT: States/7/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はしびれて動けなくなった！
+> CONTEXT: States/7/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+を麻痺させた！
+> CONTEXT: States/7/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は体がしびれて動けない！
+> CONTEXT: States/7/message3/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の麻痺が解けた！
+> CONTEXT: States/7/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スタン
+> CONTEXT: States/8/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はバランスを崩した！
+> CONTEXT: States/8/message1/ < UNTRANSLATED
+> CONTEXT: States/8/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はバランスを崩している……
+> CONTEXT: States/8/message3/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は体勢を立て直した！
+> CONTEXT: States/8/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+防御
+> CONTEXT: States/9/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+不死身【保存】
+> CONTEXT: States/10/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+かばう
+> CONTEXT: States/11/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+挑発
+> CONTEXT: States/12/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+隠れる
+> CONTEXT: States/13/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+HP再生
+> CONTEXT: States/14/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+MP再生
+> CONTEXT: States/15/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+TP再生
+> CONTEXT: States/16/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+鉄壁
+> CONTEXT: States/17/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+反撃
+> CONTEXT: States/18/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔法回避
+> CONTEXT: States/19/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔法反射
+> CONTEXT: States/20/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+炎の力
+> CONTEXT: States/21/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は炎の力を身にまとった。
+> CONTEXT: States/21/message1/ < UNTRANSLATED
+> CONTEXT: States/21/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+氷の力
+> CONTEXT: States/22/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は氷の力を身にまとった。
+> CONTEXT: States/22/message1/ < UNTRANSLATED
+> CONTEXT: States/22/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雷の力
+> CONTEXT: States/23/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は雷の力を身にまとった。
+> CONTEXT: States/23/message1/ < UNTRANSLATED
+> CONTEXT: States/23/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+★異常防止
+> CONTEXT: States/24/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+消費MP減
+> CONTEXT: States/25/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通常攻撃したよ
+> CONTEXT: States/27/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+仲魔召喚中
+> CONTEXT: States/28/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+イきそう
+> CONTEXT: States/30/name/ < UNTRANSLATED
+> CONTEXT: States/130/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はイきそうになった！
+> CONTEXT: States/30/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+のイきそうが治った！
+> CONTEXT: States/30/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+骨抜き
+> CONTEXT: States/31/name/ < UNTRANSLATED
+> CONTEXT: States/131/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は骨抜きになった！
+> CONTEXT: States/31/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の骨抜きは治った！
+> CONTEXT: States/31/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+恍惚
+> CONTEXT: States/32/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は恍惚になった！
+> CONTEXT: States/32/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の恍惚は治った！
+> CONTEXT: States/32/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+堕落
+> CONTEXT: States/33/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は堕落した！
+> CONTEXT: States/33/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の堕落は治った！
+> CONTEXT: States/33/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+脱力
+> CONTEXT: States/34/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は脱力してしまった！
+> CONTEXT: States/34/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の脱力は治った！
+> CONTEXT: States/34/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魅了
+> CONTEXT: States/35/name/ < UNTRANSLATED
+> CONTEXT: States/132/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は魅了されてしまった！
+> CONTEXT: States/35/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の魅了は治った！
+> CONTEXT: States/35/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+押さえ
+> CONTEXT: States/36/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は押さえ込まれてしまった！
+> CONTEXT: States/36/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は押さえ込みから脱出した！
+> CONTEXT: States/36/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+集中
+> CONTEXT: States/38/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+忍耐
+> CONTEXT: States/39/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神速
+> CONTEXT: States/40/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+戦闘初期　不死身
+> CONTEXT: States/45/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+主人公のターンだよ
+> CONTEXT: States/47/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵のターンだよ
+> CONTEXT: States/48/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■リミット状態変化■
+> CONTEXT: States/50/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+受ける快感軽減
+> CONTEXT: States/51/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔貨二倍
+> CONTEXT: States/52/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+能力低下無効
+> CONTEXT: States/53/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リレイズ
+> CONTEXT: States/55/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+俊敏性
+> CONTEXT: States/56/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+獣の本能
+> CONTEXT: States/57/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵必殺技使用不可
+> CONTEXT: States/59/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵恍惚
+> CONTEXT: States/60/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は恍惚としている…。
+> CONTEXT: States/60/message2/ < UNTRANSLATED
+> CONTEXT: States/60/message3/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は正気に戻った！
+> CONTEXT: States/60/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精神力
+> CONTEXT: States/61/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アイテム出現二倍
+> CONTEXT: States/62/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精力自動回復
+> CONTEXT: States/63/name/ < UNTRANSLATED
+> CONTEXT: States/109/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精力回復量
+> CONTEXT: States/64/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+胸
+> CONTEXT: States/66/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+気力自動回復
+> CONTEXT: States/67/name/ < UNTRANSLATED
+> CONTEXT: States/110/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+攻撃完全防御
+> CONTEXT: States/68/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵攻撃力低下
+> CONTEXT: States/70/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の状態は回復した！
+> CONTEXT: States/70/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+会心１００％
+> CONTEXT: States/71/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精力半減消費気力０
+> CONTEXT: States/73/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+全能力上昇
+> CONTEXT: States/74/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アイテム効果二倍
+> CONTEXT: States/75/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+状態異常無効
+> CONTEXT: States/76/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キス
+> CONTEXT: States/77/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+異常、能力５０％
+> CONTEXT: States/78/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+攻撃、防御、俊敏上昇
+> CONTEXT: States/79/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+経験値二倍
+> CONTEXT: States/80/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ＨＩＴ数
+> CONTEXT: States/81/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+タッチ
+> CONTEXT: States/82/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+反撃１００％
+> CONTEXT: States/83/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヒップ
+> CONTEXT: States/84/name/ < UNTRANSLATED
+> CONTEXT: States/90/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精力、気力徐々に回復
+> CONTEXT: States/85/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+行動１００％上昇
+> CONTEXT: States/87/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+５０％で攻撃回避
+> CONTEXT: States/88/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+戦闘終了後　全快
+> CONTEXT: States/89/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精神、抵抗、運上昇
+> CONTEXT: States/91/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+挿入
+> CONTEXT: States/92/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+不死身
+> CONTEXT: States/93/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+行動２５％上昇
+> CONTEXT: States/94/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+呪縛
+> CONTEXT: States/98/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+攻撃低下
+> CONTEXT: States/102/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+防御低下
+> CONTEXT: States/103/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔法低下
+> CONTEXT: States/104/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+抵抗低下
+> CONTEXT: States/105/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+行動低下
+> CONTEXT: States/106/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+運低下
+> CONTEXT: States/107/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+状態異常防止
+> CONTEXT: States/111/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+不意打ち判定
+> CONTEXT: States/114/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+衰弱　射精１
+> CONTEXT: States/116/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+衰弱　射精２
+> CONTEXT: States/117/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+衰弱　射精３
+> CONTEXT: States/118/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+理性崩壊
+> CONTEXT: States/129/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+294の0以下代入　呪縛
+> CONTEXT: States/133/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+314の0以下代入　淫魔化
+> CONTEXT: States/134/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バリア中古になった
+> CONTEXT: States/137/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+攻撃行動↑防御抵抗↓
+> CONTEXT: States/138/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Ｓバリア戦闘外使用
+> CONTEXT: States/139/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Ｌバリア戦闘外使用
+> CONTEXT: States/140/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+AUTOコマンド中
+> CONTEXT: States/142/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+◆ボス専用特殊
+> CONTEXT: States/150/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+胸カウンター　主に付加
+> CONTEXT: States/151/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+尻カウンター　主に付加
+> CONTEXT: States/152/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+挿入カウンター　主に付加
+> CONTEXT: States/153/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キスカウンター　主に付加
+> CONTEXT: States/154/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+性感看破　エルフ
+> CONTEXT: States/156/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+蔦の拘束　ドリアード
+> CONTEXT: States/157/name/
+Restraint driad of ivy
+> END STRING
+
+> BEGIN STRING
+野生の本能　猫又
+> CONTEXT: States/158/name/
+..wild instinct cat..
+> END STRING
+
+> BEGIN STRING
+受け流しの型　上忍
+> CONTEXT: States/159/name/
+Type Jounin of parry
+> END STRING
+
+> BEGIN STRING
+忍の丸薬　上忍
+> CONTEXT: States/160/name/
+Shinobu's pill Jounin
+> END STRING
+
+> BEGIN STRING
+氷の吐息　雪女
+> CONTEXT: States/161/name/
+Sigh snow fairy of ice
+> END STRING
+
+> BEGIN STRING
+精気吸収　雪女
+> CONTEXT: States/162/name/
+Mind and spirit absorption snow fairy
+> END STRING
+
+> BEGIN STRING
+闇の狩人　Ｄエルフ
+> CONTEXT: States/163/name/
+Hunter D Elf of darkness
+> END STRING
+
+> BEGIN STRING
+堕落の喜び　Ｄエルフ
+> CONTEXT: States/164/name/
+Pleasure D Elf of degeneration
+> END STRING
+
+> BEGIN STRING
+精気吸収　サキュバス
+> CONTEXT: States/165/name/
+Mind and spirit absorption succubus
+> END STRING
+
+> BEGIN STRING
+淫気解放　サキュバス
+> CONTEXT: States/166/name/
+Obscene atmosphere liberating succubus
+> END STRING
+
+> BEGIN STRING
+◆通常敵特殊
+> CONTEXT: States/171/name/
+◆ A normal enemy is special.
+> END STRING
+
+> BEGIN STRING
+力押しＡ　山賊
+> CONTEXT: States/172/name/
+Power pressing A bandit
+> END STRING
+
+> BEGIN STRING
+力押しＢ　山賊
+> CONTEXT: States/173/name/
+Power pressing B bandit
+> END STRING
+
+> BEGIN STRING
+盗賊の軽業Ａ　盗賊
+> CONTEXT: States/174/name/
+Thief's acrobatics A thief
+> END STRING
+
+> BEGIN STRING
+盗賊の軽業Ｂ　盗賊
+> CONTEXT: States/175/name/
+Thief's acrobatics B thief
+> END STRING
+
+> BEGIN STRING
+忍の丸薬Ａ　下忍
+> CONTEXT: States/176/name/
+It is Shinobu in case of Shinobu's pill A.
+> END STRING
+
+> BEGIN STRING
+忍の丸薬Ｂ　下忍
+> CONTEXT: States/177/name/
+It is Shinobu in case of Shinobu's pill B.
+> END STRING

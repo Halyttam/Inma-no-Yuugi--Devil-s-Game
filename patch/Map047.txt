@@ -1,0 +1,62 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+自室
+> CONTEXT: Map047/display_name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+冒険や雑学に関する本が乱雑に並んでいる。
+> CONTEXT: Map047/events/5/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/6/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+淫魔との戦闘に関する本を読みますか？
+> CONTEXT: Map047/events/5/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]と\\N[6]の名前を自由に変更することが出来る。
+変えますか？
+> CONTEXT: Map047/events/8/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/8/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]の名前を変える
+> CONTEXT: Map047/events/8/pages/0/9/Choice/0 < UNTRANSLATED
+> CONTEXT: Map001/events/8/pages/0/9/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[6]の名前を変える
+> CONTEXT: Map047/events/8/pages/0/9/Choice/1 < UNTRANSLATED
+> CONTEXT: Map001/events/8/pages/0/9/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+名前を変えない
+> CONTEXT: Map047/events/8/pages/0/9/Choice/2 < UNTRANSLATED
+> CONTEXT: Map001/events/8/pages/0/9/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+傷の治りを早くする薬や、
+毒の治療薬などが乱雑に並んでいる。
+> CONTEXT: Map047/events/9/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+荒事に必要になる予備の武器や防具が、
+乱雑に押し込められている。
+> CONTEXT: Map047/events/15/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING

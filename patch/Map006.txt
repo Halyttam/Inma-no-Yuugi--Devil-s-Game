@@ -1,0 +1,147 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+精奴隷市場
+> CONTEXT: Map006/display_name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「この先は淫女王様のお部屋よ。
+　今は先ほど連れ帰ったエルフの女と、
+　仲良く遊んでいる最中なの」
+> CONTEXT: Map006/events/11/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いくら淫女王が手を出すなと言われていても、
+　無理やり通ろうとすれば……わかるわよね？」
+> CONTEXT: Map006/events/11/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]（\\C[0]\\N[6]を今すぐ助けたいのは山々だが、
+　ここで俺が倒されては元も子もないか\\C[1]）
+> CONTEXT: Map006/events/11/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]（\\C[0]ここは、何か別の手を探すしかないか\\C[1]）
+> CONTEXT: Map006/events/11/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あら…その小瓶は、…気が利くわね。
+　丁度お腹がすいてたのよ」
+> CONTEXT: Map006/events/11/pages/1/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でもタダで貰うのも何だし、
+　貴方…奥に行っても良いわよ」
+> CONTEXT: Map006/events/11/pages/1/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そろそろ淫女王様も、
+　あのエルフとの遊びに飽きた頃でしょうしね」
+> CONTEXT: Map006/events/11/pages/1/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふーん…貴方が淫女王様のお気に入りの男ね」
+> CONTEXT: Map006/events/12/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「確かにおいしそうだわ。
+　あぁ、ちなみにアタシから襲う気はないわよ。
+　でも…もし貴方が手を出せば…うふふ」
+> CONTEXT: Map006/events/12/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まったく…捕らえた精奴隷を購入するのは良いが、
+　この場で即始めるとはな」
+> CONTEXT: Map006/events/13/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「自分の住処に連れ帰るまで、待てないのか」
+> CONTEXT: Map006/events/13/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「後片付けをするコチラの身にも、
+　なって欲しいものだ…ブツブツ」
+> CONTEXT: Map006/events/13/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ここは精奴隷を販売する、
+　淫魔専用の精奴隷市だ」
+> CONTEXT: Map006/events/14/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「種族は人間でもエルフでも獣人でも、
+　男でさえあれば、何の問題もないぞ」
+> CONTEXT: Map006/events/14/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まぁたまに売れ残った精奴隷が、
+　この場で処分されることもあるがな」
+> CONTEXT: Map006/events/14/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「一応言っておくが、
+　くれぐれも変な気は起こさないことだ」
+> CONTEXT: Map006/events/14/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「多勢に無勢と言葉は知っているだろう？
+　たとえ淫女王様直々のお言葉だろうと、
+　もし問題を起こすようなら…な」
+> CONTEXT: Map006/events/14/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あぁ、ちなみに私たちは貴方を襲う気はないわよ」
+> CONTEXT: Map006/events/15/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「淫女王様から直々に、
+　もし貴女たちの前に人間の男が現れても、
+　手を出しちゃ駄目だよ～\\I[140]と、言われてるからね」
+> CONTEXT: Map006/events/15/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もっとも貴方がその気なら、
+　こちらも全員がかりで可愛がってあげるから、
+　そのつもりでいることね」
+> CONTEXT: Map006/events/15/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING

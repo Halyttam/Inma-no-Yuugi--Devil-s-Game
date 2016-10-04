@@ -1,0 +1,93 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「私はいつの日かある程度の技術を修得したら、
+　この村から都会に引っ越す予定です」
+> CONTEXT: Map064/events/4/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map064/events/4/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そのために時々診療所に出向き、
+　医者としての勉強を続けているのです」
+> CONTEXT: Map064/events/4/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あの先生は優秀な魔法使いでもありますから、
+　周囲には常に強力な結界を張り、
+　魔物が近づけないようにしてあるという話です」
+> CONTEXT: Map064/events/4/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「また、医者としての腕も確かで、遠い国から、
+　わざわざ診察を受けに来る患者さんもいる程ですよ」
+> CONTEXT: Map064/events/4/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そのために時々診療所に出向き、
+　医者としての技術を学んでいたのですが…」
+> CONTEXT: Map064/events/4/pages/1/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まさか強力な淫魔を呼び寄せることになってしまうとは」
+> CONTEXT: Map064/events/4/pages/1/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「しかしまだ、
+　私の夢が潰えたわけではありません」
+> CONTEXT: Map064/events/4/pages/1/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いつか必ず先生のような、
+　立派な医者になってみせますよ」
+> CONTEXT: Map064/events/4/pages/1/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+多数の食器類が乱雑に詰め込まれている。
+> CONTEXT: Map064/events/5/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map064/events/6/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+医療関係の書物が、
+綺麗に並べられている。
+> CONTEXT: Map064/events/7/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map064/events/8/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+村の周囲に生息する動物の資料が、
+適当に収められている。
+> CONTEXT: Map064/events/9/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見たこともない薬品が、
+数多く収納されている。
+> CONTEXT: Map064/events/10/pages/1/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map064/events/11/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+様々な書類が乱雑に積み重なっている。
+> CONTEXT: Map064/events/12/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING

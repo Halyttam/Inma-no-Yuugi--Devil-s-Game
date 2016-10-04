@@ -1,0 +1,110 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「ここの領主様は最近代替わりしたんだが、
+　すっげー美人なんだぜ」
+> CONTEXT: Map111/events/4/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何というか、人間離れしてる美貌とは、
+　ああいうのを言うんだろうな」
+> CONTEXT: Map111/events/4/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「今度領主様の使いの人が来たら、
+　俺も働き手に立候補してみようかな」
+> CONTEXT: Map111/events/4/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「領主様の正体が淫魔だったって！
+　そいつはすげえぜ！」
+> CONTEXT: Map111/events/4/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「淫魔は人間の女とは比べ物にならない程、
+　気持ち良くイかせてくれるんだろ？」
+> CONTEXT: Map111/events/4/pages/1/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もし俺が気に入られでもしたら、
+　一生アヘアヘ言わされる生活に…！」
+> CONTEXT: Map111/events/4/pages/1/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ははっ！　想像するだけで先走りが止まらねえぜ！」
+> CONTEXT: Map111/events/4/pages/1/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「はぁ…前領主様が亡くなられてから、
+　今の領主様に代替わりしたのじゃが」
+> CONTEXT: Map111/events/5/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「結局前領主様の死因はわからぬままじゃ。
+　それなのに町の男たちは皆、現在の領主様の美貌に誑かされ、
+　微塵も疑いはせぬ」
+> CONTEXT: Map111/events/5/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「本当に困ったものじゃ。
+　毎月男の働き手を求める以外は何も要求せぬが、
+　もし領主様の正体が狡猾な淫魔じゃったら…」
+> CONTEXT: Map111/events/5/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そうかい…やはり領主様の正体は淫魔じゃったか」
+> CONTEXT: Map111/events/5/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「これに懲りて、
+　孫の目も覚めてくれると良いのじゃが、
+　望みは薄そうじゃのう」
+> CONTEXT: Map111/events/5/pages/1/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一人遊びようの様々な道具が見え隠れしている。
+> CONTEXT: Map111/events/6/pages/1/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map111/events/7/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+火の精霊石などが、厳重にしまわれている。
+> CONTEXT: Map111/events/8/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map109/events/10/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map110/events/7/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map107/events/10/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map107/events/11/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+百科事典のカバーの中に、
+女性が裸になっている本が見え隠れしている。
+> CONTEXT: Map111/events/9/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map111/events/10/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING

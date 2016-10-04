@@ -1,0 +1,97 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+戸棚の中には色々な野菜が入っている。
+> CONTEXT: Map121/events/4/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「この港から南に少し歩くと、
+　立派な大聖堂が見えて来るんですよ」
+> CONTEXT: Map121/events/5/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/5/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「大抵の町にある教会が支部だとしたら、
+　大聖堂が本部ですね」
+> CONTEXT: Map121/events/5/pages/0/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/5/pages/1/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何でも、もうすぐ天使様が見られるという噂で、
+　世界中から巡礼者が押しかけているらしいですよ」
+> CONTEXT: Map121/events/5/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私も一度で良いから、
+　現界された天使様を間近で拝みたいものですなぁ」
+> CONTEXT: Map121/events/5/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何でも、もうすぐ天使様が降臨なされるという噂で、
+　世界中から巡礼者が押しかけているらしいですよ」
+> CONTEXT: Map121/events/5/pages/1/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そして現界した天使様はとても美しくて、
+　淫らだったという噂ですよ」
+> CONTEXT: Map121/events/5/pages/1/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あぁ…私も天使様の愛に包まれたかったなぁ」
+> CONTEXT: Map121/events/5/pages/1/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もう、あの子はいつまでたっても海賊海賊って、
+　夢を見るのは良いんだけどね」
+> CONTEXT: Map121/events/6/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「少しは家の手伝いも、してもらいたいものだわ」
+> CONTEXT: Map121/events/6/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+調理器具が綺麗に整頓されている。
+> CONTEXT: Map121/events/7/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/8/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+海賊の絵本や海に関する本が並んでいる。
+> CONTEXT: Map121/events/9/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/10/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大人用と子供用の衣服が丁寧にしまわれている。
+> CONTEXT: Map121/events/11/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/12/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+真面目そうな本のカバーの中に、
+所々エッチな本が隠されている。
+> CONTEXT: Map121/events/13/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,118 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+エルフの村
+> CONTEXT: Map178/display_name/ < UNTRANSLATED
+> CONTEXT: Map130/display_name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+井戸の底から清らかな水が湧き出ている。
+> CONTEXT: Map178/events/3/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map178/events/4/pages/1/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map079/events/23/pages/1/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map079/events/24/pages/1/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+父　カイト
+母　リリナ
+ここに眠る
+> CONTEXT: Map178/events/6/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map178/events/6/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]父さんと母さんのお墓だよ。
+　二人ともエルフにしては若かったけど、病気でね\\C[29]」
+> CONTEXT: Map178/events/6/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]…そうか\\C[1]」
+> CONTEXT: Map178/events/6/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]そう言えば今まで聞かなかったけど、
+　\\N[1]の両親は？\\C[29]」
+> CONTEXT: Map178/events/6/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]んっ…？　ああ、二人とも冒険者として、
+　今も世界中を飛び回ってるんじゃないかな？\\C[1]」
+> CONTEXT: Map178/events/6/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]一時は、
+　今俺たちが住んでる山奥の一軒家で、
+　子育てしてたらしいが\\C[1]」
+> CONTEXT: Map178/events/6/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]母さんの産後の体調が元に戻ったら、
+　今度は俺も連れて三人で、
+　世界中を冒険する毎日だったよ\\C[1]」
+> CONTEXT: Map178/events/6/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]そっ…そうなの。
+　…随分個性的な両親だね\\C[29]」
+> CONTEXT: Map178/events/6/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]色々実戦形式で習ったからなぁ。
+　剣にしろ冒険にしろ…女にしろ\\C[1]」
+> CONTEXT: Map178/events/6/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]それで俺が独り立ち出来る年になったら、
+　もう俺たちが教えられることは全部教えた。
+　後はお前一人で何とかしろって、置き手紙残してな\\C[1]」
+> CONTEXT: Map178/events/6/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]多分面倒くさくなったんだろうな。
+　その後\\N[6]と出会うまで、
+　俺一人で適当に冒険者を続けてたわけだ\\C[1]」
+> CONTEXT: Map178/events/6/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]へっ…へぇ…そんなことがあったんだ。
+　うん…\\N[1]のこと、少しわかった気がするよ\\C[29]」
+> CONTEXT: Map178/events/6/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「突然目の前の結界に穴が開いたと思ったら、
+　そこから大勢の淫魔が村に雪崩れ込んで来たんだ」
+> CONTEXT: Map178/events/7/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+泉の中央から清らかな水が湧き出ている。
+> CONTEXT: Map178/events/8/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING

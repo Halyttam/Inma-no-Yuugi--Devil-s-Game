@@ -1,0 +1,41 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+花の泉　西
+> CONTEXT: Map080/display_name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\N[1]、\\N[6]ちゃん。
+　下級淫魔が相手でも、油断してはいけませんわよ」
+> CONTEXT: Map080/events/34/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]んっ…うん、
+　私にとっては初めての実戦だしね\\C[29]」
+> CONTEXT: Map080/events/34/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]ああ、危険だと思ったら無理に戦わず、
+　サポートに回ってくれれば良い。
+　頼りにしてるぞ。\\N[6]\\C[1]」
+> CONTEXT: Map080/events/34/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]大丈夫だよ！　任せて！\\C[29]」
+> CONTEXT: Map080/events/34/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それでは行きますわよ。
+　目指すは最奥の淫女王…もしくは、上級淫魔ですわ」
+> CONTEXT: Map080/events/34/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING

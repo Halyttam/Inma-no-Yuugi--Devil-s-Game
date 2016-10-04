@@ -1,0 +1,59 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+枯れ山　３合目
+> CONTEXT: Map093/display_name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「俺は商隊の護衛隊長だ。もっとも…元がつくが。
+　枯れ山を越えようとしていたところ、
+　女山賊たちに襲われてな」
+> CONTEXT: Map093/events/32/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何しろただの山賊なら何とかなるのだが、
+　淫魔になり、攻撃が効かなくなった以上、
+　為す術もなく囚われの身になってしまったんだ」
+> CONTEXT: Map093/events/32/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「アジトには俺たちの他にも、
+　数多くの男たちが囚われ、
+　女山賊たちに性的な辱めを受けていた」
+> CONTEXT: Map093/events/32/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「俺は奴らの一瞬の隙を突いて、
+　この男を連れて脱出するのが精一杯だったんだ」
+> CONTEXT: Map093/events/32/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「山賊の頭さえ倒せれば、ふもとの漁村まで引き返せるのだが、
+　今さら女山賊たちのたむろする枯れ山を越えて、
+　安全な宿場町まで行くのは、この男を連れていてはとてもな」
+> CONTEXT: Map093/events/32/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「しかし今思い出しても、あの女山賊たちには、
+　出来ればもう二度と会いたく…いや…会って…、
+　今度は直接犯してもら…はっ！　俺は何を…！」
+> CONTEXT: Map093/events/32/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うっ…うぅ…女山賊たちのカラダ…えがったぁ…\\I[140]」
+> CONTEXT: Map093/events/33/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING

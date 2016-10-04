@@ -1,0 +1,96 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+魔法都市
+> CONTEXT: Map141/display_name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+井戸の底には冷たそうな水がたまっている。
+> CONTEXT: Map141/events/29/pages/1/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/30/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/42/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「商隊一同が助けてくれたお礼をしたいからって、
+　俺…夜に呼び出されてるんだよな。
+　いったいどんなお礼かな。まぁ想像はつくが…ぐへへ\\I[140]」
+> CONTEXT: Map141/events/48/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「この間危ない所を、
+　魔法都市の衛兵さんに助けてもらったのですわ」
+> CONTEXT: Map141/events/50/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ええ、もう少しでわたくしたちは、
+　淫魔の慰み者になるところでしたの」
+> CONTEXT: Map141/events/50/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ですが、命の恩人にお支払い出来るモノは、
+　殆ど町の外に…かくなる上は、
+　このカラダぐらいしか\\I[140]」
+> CONTEXT: Map141/events/50/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あぁ…助けていただいた衛兵さんたちを見ていると、
+　何故か胸の高鳴りが…私、もう\\I[140]」
+> CONTEXT: Map141/events/51/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「これは近いうちに、
+　是が非でもカラダで返さないといけませんわ」
+> CONTEXT: Map141/events/51/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「はぁ…いくら侵入するためとはいえ、
+　並みの人間レベルにまで力を押さえるのは、
+　苦労するわ」
+> CONTEXT: Map141/events/52/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やっぱり蓮華様がいなくなったのが痛いわね。
+　あの方さえ無事なら…私たちがこんな苦労を……って！」
+> CONTEXT: Map141/events/52/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あっ…あら、私たちに何かご用でしょうか？
+　見ての通り淫魔に追われて逃げ込んだ旅の商人で、
+　冒険者の方にお売り出来るようなモノは…あいにく」
+> CONTEXT: Map141/events/52/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「さてと、何とか結界の内部に侵入したけど、
+　後は指示待ちですね……っと」
+> CONTEXT: Map141/events/53/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あら、お客様。
+　あいにく今は何も売るものが…。
+　申し訳ありませんが、本日の所は何とぞ」
+> CONTEXT: Map141/events/53/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING

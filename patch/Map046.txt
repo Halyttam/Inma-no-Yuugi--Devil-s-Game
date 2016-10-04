@@ -1,0 +1,68 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\C[29]「\\C[0]……\\N[1]。…\\N[1]！\\C[29]」
+> CONTEXT: Map046/events/2/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]うーん……こ…ここは？\\C[1]」
+> CONTEXT: Map046/events/2/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]もう\\N[1]ったら！
+　急に机に突っ伏したと思ったら、
+　それから何度呼びかけても起きないんだから！\\C[29]」
+> CONTEXT: Map046/events/2/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]大丈夫\\N[1]？
+　ちゃんと私の名前言える？\\C[29]」
+> CONTEXT: Map046/events/2/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+言える
+> CONTEXT: Map046/events/2/pages/0/30/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+言えない
+> CONTEXT: Map046/events/2/pages/0/30/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]あぁ良かった。
+　どうやら意識はしっかりしてるようね\\C[29]」
+> CONTEXT: Map046/events/2/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]えっ…嘘？
+　まさか打ちどころが悪くて\\N[1]の記憶は…。
+　とにかく、私の名前は\\N[6]よ！\\C[29]」
+> CONTEXT: Map046/events/2/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]とにかく今日は、
+　鉱山調査の依頼を済ませるんでしょう？\\C[29]」
+> CONTEXT: Map046/events/2/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]いい加減寝ぼけた頭をシャキッとして、
+　さっさと例の鉱山に向かおうよ！\\C[29]」
+> CONTEXT: Map046/events/2/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING

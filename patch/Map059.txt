@@ -1,0 +1,28 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+廃坑　中央
+> CONTEXT: Map059/display_name/ < UNTRANSLATED
+> CONTEXT: Map002/display_name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]ここにはレバーがあったはずだが。
+　…痕跡すらなくなっている\\C[1]」
+> CONTEXT: Map059/events/2/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]…おかしいな。
+　前はここに扉があったはずなのだが\\C[1]」
+> CONTEXT: Map059/events/14/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]とにかく、ここでじっとしてても時間の無駄だ。
+　今は別の場所に行こう\\C[1]」
+> CONTEXT: Map059/events/14/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING

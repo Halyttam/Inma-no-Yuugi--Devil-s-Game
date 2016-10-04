@@ -1,0 +1,318 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+転送石
+> CONTEXT: Items/50/name/
+Forwarding stone
+> END STRING
+
+> BEGIN STRING
+行ったことのある場所に一瞬で移動できる魔法の石
+【無制限】
+> CONTEXT: Items/50/description/
+Stone of magic that can be moved to place to which it has been momentarily
+【Unrestricted】
+> END STRING
+
+> BEGIN STRING
+冒険者カード【共闘】
+> CONTEXT: Items/53/name/
+Adventurer card【Joint struggle】
+> END STRING
+
+> BEGIN STRING
+冒険者ギルドに所属している証
+使用することでエルフの戦闘への加入選択を行う【無制限】
+> CONTEXT: Items/53/description/
+> CONTEXT: Items/54/description/
+> CONTEXT: Items/55/description/
+Proof that belongs to adventurer guild
+Do the joining selection to the combat of the Elf by using it. 【Unrestricted】
+> END STRING
+
+> BEGIN STRING
+冒険者カード【補助】
+> CONTEXT: Items/54/name/
+Adventurer card【Assistance】
+> END STRING
+
+> BEGIN STRING
+冒険者カード【待機】
+> CONTEXT: Items/55/name/
+Adventurer card【Standby】
+> END STRING
+
+> BEGIN STRING
+Ｈポーション
+> CONTEXT: Items/60/name/
+Pervert potion
+> END STRING
+
+> BEGIN STRING
+精力を４００回復し、状態異常も回復する薬
+> CONTEXT: Items/60/description/
+Medicine that also recovers abnormal condition by 400 recoveries of energy
+> END STRING
+
+> BEGIN STRING
+ハイＨポーション
+> CONTEXT: Items/62/name/
+High pervert potion
+> END STRING
+
+> BEGIN STRING
+精力を全回復し、状態異常も回復する薬
+> CONTEXT: Items/62/description/
+> CONTEXT: Items/66/description/
+Medicine that also recovers energy, and all recovers abnormal condition
+> END STRING
+
+> BEGIN STRING
+Ｍポーション
+> CONTEXT: Items/64/name/
+M potion
+> END STRING
+
+> BEGIN STRING
+理性を２００回復し、状態異常も回復する薬
+> CONTEXT: Items/64/description/
+Medicine that also recovers abnormal condition by 200 recoveries of reason
+> END STRING
+
+> BEGIN STRING
+ハイＭポーション
+> CONTEXT: Items/66/name/
+High M potion
+> END STRING
+
+> BEGIN STRING
+天使の涙
+> CONTEXT: Items/68/name/
+Fallen Angels
+> END STRING
+
+> BEGIN STRING
+精力と理性を５０％、呪縛と淫魔化と状態異常を全回復する羽
+
+> CONTEXT: Items/68/description/
+The wing of energy and reason that recovers an abnormal condition with 50%, casting a spell, and making to the Succubus all.
+> END STRING
+
+> BEGIN STRING
+天使の祝福
+> CONTEXT: Items/70/name/
+The angel's blessing
+> END STRING
+
+> BEGIN STRING
+精力と理性、呪縛と淫魔化と状態異常全回復する翼
+
+> CONTEXT: Items/70/description/
+Wing that recovers abnormal condition with energy, reason, casting a spell, and making to Succubus all
+> END STRING
+
+> BEGIN STRING
+興奮剤
+> CONTEXT: Items/72/name/
+Stimulant
+> END STRING
+
+> BEGIN STRING
+攻撃と行動は上昇するが、防御と抵抗は０になる薬
+> CONTEXT: Items/72/description/
+The attack and the action rise but the defense and resistance are the medicines that become 0.
+> END STRING
+
+> BEGIN STRING
+３００までの快感を遮断するバリアを張る石。
+状態異常も無効
+> CONTEXT: Items/74/description/
+Stone that puts barrier where pleasures up to 300 are intercepted. 
+An abnormal condition is also invalid.
+> END STRING
+
+> BEGIN STRING
+Ｌバリア
+> CONTEXT: Items/76/name/
+L barrier
+> END STRING
+
+> BEGIN STRING
+６００までの快感を遮断するバリアを張る石。
+状態異常も無効
+> CONTEXT: Items/76/description/
+Stone that puts barrier where pleasures up to 600 are intercepted. 
+An abnormal condition is also invalid.
+> END STRING
+
+> BEGIN STRING
+薬草
+> CONTEXT: Items/87/name/
+Medical herb
+> END STRING
+
+> BEGIN STRING
+Ｈポーションなど、精力を回復する道具の素材です。
+> CONTEXT: Items/87/description/
+The material of the tool to recover energy like a pervert potion etc. 
+> END STRING
+
+> BEGIN STRING
+星くずのハーブ
+> CONTEXT: Items/89/name/
+Herb of star rubbish
+> END STRING
+
+> BEGIN STRING
+回復系全般で必要な素材です。
+> CONTEXT: Items/89/description/
+Recovery group whole and a necessary material. 
+> END STRING
+
+> BEGIN STRING
+月の雫
+> CONTEXT: Items/91/name/
+Dripping of the moon
+> END STRING
+
+> BEGIN STRING
+Ｍポーションなど、理性を回復する道具の素材です。
+> CONTEXT: Items/91/description/
+The material of the tool to recover reason like M potion etc. 
+> END STRING
+
+> BEGIN STRING
+魔晶石
+> CONTEXT: Items/93/name/
+Mana prism
+> END STRING
+
+> BEGIN STRING
+Ｓバリアなど、特殊な効果をもつ道具の素材です。
+> CONTEXT: Items/93/description/
+The material of the tool with a special effect such as S barriers. 
+> END STRING
+
+> BEGIN STRING
+淫核Ｄ
+> CONTEXT: Items/101/name/
+Obscene clitoris D
+> END STRING
+
+> BEGIN STRING
+淫魔を倒した後に残る謎の結晶
+バリア系や天使系など強力な効果をもつ道具の素材です
+> CONTEXT: Items/101/description/
+> CONTEXT: Items/103/description/
+> CONTEXT: Items/105/description/
+> CONTEXT: Items/107/description/
+> CONTEXT: Items/109/description/
+Crystal of mystery that remains after knocking down Succubus
+The material of the tool with the potent effect such as the barrier groups and the angel groups.
+> END STRING
+
+> BEGIN STRING
+淫核Ｃ
+> CONTEXT: Items/103/name/
+Obscene clitoris C
+> END STRING
+
+> BEGIN STRING
+淫核Ｂ
+> CONTEXT: Items/105/name/
+Obscene clitoris B
+> END STRING
+
+> BEGIN STRING
+淫核Ａ
+> CONTEXT: Items/107/name/
+Obscene clitoris A
+> END STRING
+
+> BEGIN STRING
+淫核Ｓ
+> CONTEXT: Items/109/name/
+Obscene clitoris S
+> END STRING
+
+> BEGIN STRING
+バリアクズ
+> CONTEXT: Items/115/name/
+Barrier waste
+> END STRING
+
+> BEGIN STRING
+ＳバリアとＬバリアが力を失った後の石
+何の役にもたたない
+> CONTEXT: Items/115/description/
+Stone after S barrier and L barrier lose power
+It doesn't leave even for the post.
+> END STRING
+
+> BEGIN STRING
+白くベトつく何か
+> CONTEXT: Items/120/name/
+What is that is sticky in white?
+> END STRING
+
+> BEGIN STRING
+魔法の小瓶に詰められた白くベトつく液体。
+蓋をあけると微かにイカの香りがするような…。
+> CONTEXT: Items/120/description/
+Liquid that is sticky in white that it is stuffed small bottle of magic. 
+Squid's scent must not do faintly when you open the lid.... 
+> END STRING
+
+> BEGIN STRING
+縄梯子
+> CONTEXT: Items/122/name/
+Rope ladder
+> END STRING
+
+> BEGIN STRING
+ちょっとやそっとでは切れそうにない、丈夫な縄梯子。
+> CONTEXT: Items/122/description/
+Strong rope ladder that doesn't seem to cut in merely. 
+> END STRING
+
+> BEGIN STRING
+古びた鍵
+> CONTEXT: Items/124/name/
+Key that becomes antiquated
+> END STRING
+
+> BEGIN STRING
+古いながらも魔力が込められた鍵
+> CONTEXT: Items/124/description/
+Key in which it is old but magic is put
+> END STRING
+
+> BEGIN STRING
+汚れた指輪
+> CONTEXT: Items/126/name/
+Dirtied ring
+> END STRING
+
+> BEGIN STRING
+汚水により全てが汚れきっている謎の指輪
+> CONTEXT: Items/126/description/
+Ring of mystery to finish dirtied of everything by sewage
+> END STRING
+
+> BEGIN STRING
+館の鍵Ａ
+> CONTEXT: Items/128/name/
+Key A to mansion
+> END STRING
+
+> BEGIN STRING
+特殊な魔力が込められ、飾り付けられた美しい鍵
+> CONTEXT: Items/128/description/
+> CONTEXT: Items/130/description/
+Beautiful key with which special magic is put, and decorated
+> END STRING
+
+> BEGIN STRING
+館の鍵Ｂ
+> CONTEXT: Items/130/name/
+Key B to mansion
+> END STRING

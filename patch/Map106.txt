@@ -1,0 +1,34 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+雪の港町
+> CONTEXT: Map106/display_name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+外はとても寒いが、井戸の底の水は凍っていないようだ。
+> CONTEXT: Map106/events/13/pages/1/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map106/events/14/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]次は、この町で数日ほど停泊するんだっけ？\\C[29]」
+> CONTEXT: Map106/events/17/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]荷物の積み下ろしだそうだ。
+　そのついでに俺たちは、まぁいないとは思うが、
+　上級淫魔を探してみるか\\C[1]」
+> CONTEXT: Map106/events/17/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]そうだね。船上の件もあるし、
+　もしかしたらってことも考えておかなきゃね\\C[29]」
+> CONTEXT: Map106/events/17/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING

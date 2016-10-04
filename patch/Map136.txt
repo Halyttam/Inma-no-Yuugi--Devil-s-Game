@@ -1,0 +1,92 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「ふむ…次は配合比率を変えてみるか」
+> CONTEXT: Map136/events/4/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ＨポーションもＭポーションも、
+　今のままでは駄目だ」
+> CONTEXT: Map136/events/4/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やはり…もっと効果を高く。
+　なおかつ安い魔貨でも、
+　手に入るようにしなければ」
+> CONTEXT: Map136/events/4/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そうでなくては、あの恐ろしい淫魔たちに、
+　いつか必ず敗北してしまうぞ」
+> CONTEXT: Map136/events/4/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+貴重な薬品が数多く並んでいる。
+> CONTEXT: Map136/events/5/pages/1/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/6/pages/1/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/15/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/16/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「貴方たち二人の頑張っている姿を見て、
+　夫もやる気になったみたい」
+> CONTEXT: Map136/events/7/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「今こそ人間とエルフが協力し、
+　脅威を倒すんだって…そのためも、
+　何としても新薬を開発するんだって…ふふっ」
+> CONTEXT: Map136/events/7/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ここまで元気な夫は、何十年ぶりかしら。
+　今回助けてくれて、本当にありがとうね」
+> CONTEXT: Map136/events/7/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+木や土で作られた調理器具が綺麗に整頓されている。
+> CONTEXT: Map136/events/8/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/9/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map135/events/10/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map135/events/11/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map133/events/15/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map133/events/16/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自然素材で作られた色々な道具がしまわれている。
+> CONTEXT: Map136/events/10/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/11/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map133/events/5/pages/1/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map133/events/6/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔法薬を作るための調合用小道具が収納されている。
+> CONTEXT: Map136/events/12/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/13/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔法薬を作るための調合用素材が収納されている。
+> CONTEXT: Map136/events/14/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING

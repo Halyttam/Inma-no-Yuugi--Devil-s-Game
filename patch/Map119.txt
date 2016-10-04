@@ -1,0 +1,48 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「ここ数日、夫が家に帰って来ないの」
+> CONTEXT: Map119/events/4/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「自警団のお仕事で忙しいのはわかるけど、
+　私もいい加減夜の欲求不満でって……あら嫌だ！」
+> CONTEXT: Map119/events/4/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お客さんにこんなこと、
+　どうぞ…ゆっくりしていってね」
+> CONTEXT: Map119/events/4/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+干し肉や野菜が丁寧にしまわれている。
+> CONTEXT: Map119/events/7/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+観葉植物が陽の光を浴びている。
+> CONTEXT: Map119/events/8/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map089/events/7/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map089/events/8/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男物と女物の衣服が折りたたまれている。
+> CONTEXT: Map119/events/9/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map119/events/10/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちょっとした小物が色々と詰め込まれている。
+> CONTEXT: Map119/events/11/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map119/events/12/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING

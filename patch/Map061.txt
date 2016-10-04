@@ -1,0 +1,81 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+山奥の村
+> CONTEXT: Map061/display_name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おや？
+　今日はエルフの\\N[6]ちゃんは一緒じゃないのかい？」
+> CONTEXT: Map061/events/25/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「この村はいつも通りだよ。
+　見回りの必要がないぐらい、何も起きないね」
+> CONTEXT: Map061/events/25/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「最近村の外では淫魔だ何だって騒がしいけど、
+　ここには、何の影響もないだろうね」
+> CONTEXT: Map061/events/25/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やぁ\\N[6]ちゃん、今日も美人だね」
+> CONTEXT: Map061/events/25/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どうかな？　いい加減、
+　\\N[1]から私に乗り換えるというのは？」
+> CONTEXT: Map061/events/25/pages/1/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]えっと…だから私、
+　そんな気は全くないんだけど、
+　貴方も相当しつこいのね\\C[29]」
+> CONTEXT: Map061/events/25/pages/1/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「はははっ、打たれ強いのが長所だからね。
+　もし気が変わったら、いつでも告白して欲しいな」
+> CONTEXT: Map061/events/25/pages/1/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「……クゥーン……クゥーン」
+> CONTEXT: Map061/events/34/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]確かこの犬は、\\N[6]に懐いていたっけ。
+　…待ってろよ。すぐにまた、会わせてやるからな\\C[1]」
+> CONTEXT: Map061/events/34/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「キャンキャン！　キャンキャン！」
+> CONTEXT: Map061/events/34/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]はいはい、また頭撫でて欲しいの？
+　よしよ～し\\C[29]」
+> CONTEXT: Map061/events/34/pages/1/8/Dialogue < UNTRANSLATED
+
+> END STRING

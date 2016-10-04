@@ -1,0 +1,148 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+壁にレバーが付いている。
+下ろしますか？
+> CONTEXT: Map192/events/1/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map071/events/1/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/3/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+近くで扉が開く音が聞こえた…。
+> CONTEXT: Map192/events/1/pages/0/31/Dialogue < UNTRANSLATED
+> CONTEXT: Map071/events/1/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+レバーはこれ以上動かない。
+> CONTEXT: Map192/events/1/pages/1/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map071/events/1/pages/1/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/3/pages/1/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+人工淫魔研究日誌と書かれた手記が落ちている。
+読みますか？
+> CONTEXT: Map192/events/7/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map192/events/7/pages/1/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map071/events/7/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map071/events/7/pages/1/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+読む
+> CONTEXT: Map192/events/7/pages/0/10/Choice/0 < UNTRANSLATED
+> CONTEXT: Map192/events/7/pages/1/10/Choice/0 < UNTRANSLATED
+> CONTEXT: Map150/events/57/pages/0/10/Choice/0 < UNTRANSLATED
+> CONTEXT: Map150/events/65/pages/0/10/Choice/0 < UNTRANSLATED
+> CONTEXT: Map071/events/7/pages/0/10/Choice/0 < UNTRANSLATED
+> CONTEXT: Map071/events/7/pages/1/10/Choice/0 < UNTRANSLATED
+> CONTEXT: Map070/events/12/pages/0/10/Choice/0 < UNTRANSLATED
+> CONTEXT: Map047/events/5/pages/1/8/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+読まない
+> CONTEXT: Map192/events/7/pages/0/10/Choice/1 < UNTRANSLATED
+> CONTEXT: Map192/events/7/pages/1/10/Choice/1 < UNTRANSLATED
+> CONTEXT: Map150/events/57/pages/0/10/Choice/1 < UNTRANSLATED
+> CONTEXT: Map150/events/65/pages/0/10/Choice/1 < UNTRANSLATED
+> CONTEXT: Map071/events/7/pages/0/10/Choice/1 < UNTRANSLATED
+> CONTEXT: Map071/events/7/pages/1/10/Choice/1 < UNTRANSLATED
+> CONTEXT: Map070/events/12/pages/0/10/Choice/1 < UNTRANSLATED
+> CONTEXT: Map047/events/5/pages/1/8/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一体何がいけなかったのだろうか？
+素体は手術に失敗して死んだばかりの患者だったのだが。
+> CONTEXT: Map192/events/7/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map192/events/7/pages/1/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map071/events/7/pages/0/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map071/events/7/pages/1/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やはり生きた生物でなければ、
+人工的に淫魔化させることは出来ないのだろうか。
+> CONTEXT: Map192/events/7/pages/0/15/Dialogue < UNTRANSLATED
+> CONTEXT: Map192/events/7/pages/1/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+古文書を読み解いたところ、
+再び淫女王が現れるまでには、
+もうあまり時間は残されていないようだ。
+> CONTEXT: Map192/events/7/pages/0/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map192/events/7/pages/1/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map071/events/7/pages/0/19/Dialogue < UNTRANSLATED
+> CONTEXT: Map071/events/7/pages/1/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いつまでも天使をあてにしてはいられない。
+彼女の力もいつまで通用するか、
+わからないのだから。
+> CONTEXT: Map192/events/7/pages/0/22/Dialogue < UNTRANSLATED
+> CONTEXT: Map192/events/7/pages/1/22/Dialogue < UNTRANSLATED
+> CONTEXT: Map071/events/7/pages/0/23/Dialogue < UNTRANSLATED
+> CONTEXT: Map071/events/7/pages/1/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+かと言って、魔法も淫魔相手には効果が薄く、
+逆にこちらが魅了されてしまうだろう。
+> CONTEXT: Map192/events/7/pages/0/26/Dialogue < UNTRANSLATED
+> CONTEXT: Map192/events/7/pages/1/26/Dialogue < UNTRANSLATED
+> CONTEXT: Map071/events/7/pages/0/27/Dialogue < UNTRANSLATED
+> CONTEXT: Map071/events/7/pages/1/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やはり淫魔に抗うには淫魔しかない。
+人間の言うことを聞く従順な使い魔を、
+何としても完成させなければ。
+> CONTEXT: Map192/events/7/pages/0/29/Dialogue < UNTRANSLATED
+> CONTEXT: Map192/events/7/pages/1/29/Dialogue < UNTRANSLATED
+> CONTEXT: Map071/events/7/pages/0/30/Dialogue < UNTRANSLATED
+> CONTEXT: Map071/events/7/pages/1/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+たとえ後の歴史家に悪魔と罵られようとやり遂げて見せる。
+そのために魔法使いとしての地位も名誉も捨て、
+こんな山奥に隠れ住んでいるのだから。
+> CONTEXT: Map192/events/7/pages/0/33/Dialogue < UNTRANSLATED
+> CONTEXT: Map192/events/7/pages/1/33/Dialogue < UNTRANSLATED
+> CONTEXT: Map071/events/7/pages/0/34/Dialogue < UNTRANSLATED
+> CONTEXT: Map071/events/7/pages/1/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここで手記は終わっている…。
+> CONTEXT: Map192/events/7/pages/0/37/Dialogue < UNTRANSLATED
+> CONTEXT: Map192/events/7/pages/1/37/Dialogue < UNTRANSLATED
+> CONTEXT: Map071/events/7/pages/0/38/Dialogue < UNTRANSLATED
+> CONTEXT: Map071/events/7/pages/1/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ページの間に鍵が挟まっている。
+> CONTEXT: Map192/events/7/pages/0/39/Dialogue < UNTRANSLATED
+> CONTEXT: Map071/events/7/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING

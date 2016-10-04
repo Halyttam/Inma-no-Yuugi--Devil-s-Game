@@ -1,0 +1,54 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+冒険者
+> CONTEXT: Classes/1/name/
+> CONTEXT: Actors/1/nickname/
+> CONTEXT: Actors/6/nickname/
+> CONTEXT: Armors/321/name/
+Adventurer
+> END STRING
+
+> BEGIN STRING
+エルフ
+> CONTEXT: Classes/2/name/
+Elf
+> END STRING
+
+> BEGIN STRING
+基本
+> CONTEXT: Classes/3/name/
+Basic
+> END STRING
+
+> BEGIN STRING
+オール１
+> CONTEXT: Classes/5/name/
+All1
+> END STRING
+
+> BEGIN STRING
+バランス
+> CONTEXT: Classes/7/name/
+> CONTEXT: Actors/60/name/
+Balance
+> END STRING
+
+> BEGIN STRING
+ＨＰ
+> CONTEXT: Classes/8/name/
+> CONTEXT: Actors/61/name/
+ＨＰ
+> END STRING
+
+> BEGIN STRING
+行動
+> CONTEXT: Classes/10/name/
+> CONTEXT: Actors/63/name/
+Action
+> END STRING
+
+> BEGIN STRING
+デバッグ用
+> CONTEXT: Classes/20/name/
+For debugging
+> END STRING

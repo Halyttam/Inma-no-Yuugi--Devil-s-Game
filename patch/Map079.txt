@@ -1,0 +1,48 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+山間の宿場町
+> CONTEXT: Map079/display_name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+井戸の底から清らかな水が湧き出ているが、
+ふと嗅ぎ慣れた甘い香りが鼻孔をくすぐる。
+> CONTEXT: Map079/events/23/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map079/events/24/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+封印された魔法陣がある。
+どうやら、回想部屋に進むと、
+元の世界に戻ることは出来ないようだ。
+> CONTEXT: Map079/events/29/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それでも進みますか？
+※一度回想部屋に入ると、元には戻れませんので、※
+※セーブデータは別にとっておくと良いです。※
+> CONTEXT: Map079/events/29/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+※選択肢※
+> CONTEXT: Map079/events/29/pages/0/14/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はい＝後戻り不可
+> CONTEXT: Map079/events/29/pages/0/14/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いいえ
+> CONTEXT: Map079/events/29/pages/0/14/Choice/2 < UNTRANSLATED
+
+> END STRING

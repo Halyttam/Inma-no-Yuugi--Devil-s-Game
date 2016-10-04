@@ -1,0 +1,144 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+商人の家
+> CONTEXT: Map125/display_name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んっ…君たちは冒険者かね？
+　もし旅の途中に使用人用の衣服を手に入れたら、
+　この私が買い取ろう」
+> CONTEXT: Map125/events/7/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もちろん、金に糸目はつけない。
+　よろしく頼むよ」
+> CONTEXT: Map125/events/7/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もう家の娘は可愛くて、
+　何を着せても似合い過ぎですわ」
+> CONTEXT: Map125/events/8/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魔貨はまだまだありますし、
+　もっと可愛らしい衣服を着せてあげたいですわ」
+> CONTEXT: Map125/events/8/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そこの貴方たち、
+　何か似合いそうな服は持ってませんの？」
+> CONTEXT: Map125/events/8/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ご主人様と奥様は良い方には違いないのですが、
+　お嬢様に関しては、とても過保護なのです」
+> CONTEXT: Map125/events/9/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「使用人の私が口を出すことではありませんが、
+　お嬢様が独り立ちする日はいつになるやら」
+> CONTEXT: Map125/events/9/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あっ…そんなことより、仕事仕事っと」
+> CONTEXT: Map125/events/9/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ええと、寝室のお掃除はこれで完了。
+　ベッドメイキングも完璧に済ませたし」
+> CONTEXT: Map125/events/10/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「次はご主人様と奥様に命じられた、
+　散歩に行くお嬢様の監視…いえ、護衛ですね」
+> CONTEXT: Map125/events/10/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「はぁ…家のパパとママは、
+　本当に過保護すぎるわ」
+> CONTEXT: Map125/events/11/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いつまでたっても独り立ちさせてくれずに、
+　遠出するときはいつも使用人と一緒」
+> CONTEXT: Map125/events/11/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私は二人の着せ替え人形じゃないのよ…もうっ！」
+> CONTEXT: Map125/events/11/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+戸棚の中には良くわからない魔法道具がたくさん入っている
+> CONTEXT: Map125/events/12/pages/1/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map125/events/13/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夜の営み用の小道具がぎっしり詰まっている。
+> CONTEXT: Map125/events/14/pages/1/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map125/events/15/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+豪華な衣服が山のようにかけられている。
+> CONTEXT: Map125/events/16/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map125/events/17/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+効果があるのが良くわからない謎の薬が、数多く並んでいる。
+> CONTEXT: Map125/events/18/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map125/events/19/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+商売に成功する秘訣は、など自伝が並んでいる。
+> CONTEXT: Map125/events/20/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map125/events/21/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ピアノの楽譜などがしまわれている。
+> CONTEXT: Map125/events/22/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+立派なピアノだが殆ど使われた形跡はない。
+> CONTEXT: Map125/events/23/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map125/events/24/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING

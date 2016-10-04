@@ -1,0 +1,66 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+大聖堂　１Ｆ
+> CONTEXT: Map137/display_name/ < UNTRANSLATED
+> CONTEXT: Map013/display_name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+淫魔用の道具が並んでいる。
+> CONTEXT: Map137/events/20/pages/1/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map137/events/21/pages/1/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/20/pages/1/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/21/pages/1/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神聖な天使及び邪悪な淫魔に関する本が並んでいる。
+> CONTEXT: Map137/events/22/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map137/events/23/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/22/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/23/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]大聖堂にまで淫魔の気配が！
+　ここの結界も破られたっていうの！\\C[29]」
+> CONTEXT: Map137/events/27/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/27/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]こんな芸当が出来るのは、
+　上級淫魔…もしくはアニス以外いないだろう。
+　そしてナタリアとの連絡が、全く取れないことを考えると\\C[1]」
+> CONTEXT: Map137/events/27/pages/0/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/27/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]はぁ…こいつはかなり、
+　ヤバイことになってきたな\\C[1]」
+> CONTEXT: Map137/events/27/pages/0/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/27/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]うっ…うん、
+　とにかく問題の淫魔を探さないとね\\C[29]」
+> CONTEXT: Map137/events/27/pages/0/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/27/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]ああ、流石にこの状況を、
+　放置するわけにはいかないからな\\C[1]」
+> CONTEXT: Map137/events/27/pages/0/24/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/27/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING

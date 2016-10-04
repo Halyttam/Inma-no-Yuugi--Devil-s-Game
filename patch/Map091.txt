@@ -1,0 +1,34 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+枯れ山　９合目
+> CONTEXT: Map091/display_name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]はぁ、ようやく折り返しだね\\C[29]」
+> CONTEXT: Map091/events/31/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]ああ、ここから先は淫魔の気配を感じる。
+　気をつけて進むぞ\\C[1]」
+> CONTEXT: Map091/events/31/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]うん、噂の女山賊たちだね。
+　上級淫魔の仕業で間違いないのかな？\\C[29]」
+> CONTEXT: Map091/events/31/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ええ、枯れ山のふもとから、強力な淫気を感じますわ。
+　間違いなく上級淫魔が関わってますので、
+　その点は大丈夫ですわ」
+> CONTEXT: Map091/events/31/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING

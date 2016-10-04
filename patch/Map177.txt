@@ -1,0 +1,76 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\C[29]「\\C[0]はぁ…はぁ…この橋まで来れば、
+　エルフの結界の外だよ\\C[29]」
+> CONTEXT: Map177/events/7/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]これで私は本当の意味で自由になれ…あれ？\\C[29]」
+> CONTEXT: Map177/events/7/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]向こうに誰か…\\C[29]」
+> CONTEXT: Map177/events/7/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おい見ろよ。エルフがいるぜ？
+　しかも女じゃねえか！」
+> CONTEXT: Map177/events/7/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そのわりには少々若すぎる気もするが、
+　それでも奴隷にすれば、人間の女とは比較にならない程、
+　高く売れるだろうな」
+> CONTEXT: Map177/events/7/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ここはもうエルフの結界が及ばない場所。
+　さて、どうやって捕らえましょうかねぇ…ヒヒヒ！」
+> CONTEXT: Map177/events/7/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]そっ…そうだ！
+　また結界の内に逃げ込めば…！\\C[29]」
+> CONTEXT: Map177/events/7/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]あっ…あぁ…そんな！\\C[29]」
+> CONTEXT: Map177/events/7/pages/0/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「というわけだお嬢さん。
+　観念してもらおうか」
+> CONTEXT: Map177/events/7/pages/0/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いやぁ…私ら奴隷商人としては、
+　大切な商品…何よりエルフに、
+　傷をつけたくないのですよ」
+> CONTEXT: Map177/events/7/pages/0/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「だから…大人しくしてくれますよね？
+　大丈夫ですよ。優しく扱いますから…ね？」
+> CONTEXT: Map177/events/7/pages/0/91/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,199 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+花の泉　最奥
+> CONTEXT: Map090/display_name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\N[1]！　この女が、問題の上級淫魔で間違いありませんわ！」
+> CONTEXT: Map090/events/5/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]まさか本当に来るとは、思わなかったな\\C[10]」
+> CONTEXT: Map090/events/5/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]…お前は？\\C[1]」
+> CONTEXT: Map090/events/5/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]…一応名乗ってやるか。ボクの名はレティ。
+　しかし人間とエルフだけかと思ったら、
+　天使まで連れてたなんてな\\C[10]」
+> CONTEXT: Map090/events/5/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]ここで一体何をしているのよ！
+　町の人を誑かそうなんて、私たちが許さないよ！\\C[29]」
+> CONTEXT: Map090/events/5/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]あははっ！
+　淫魔化の呪いの影響で直接戦えないくせに、
+　口だけは達者なエルフだな！\\C[10]」
+> CONTEXT: Map090/events/5/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]まぁその度胸にめんじて、
+　教えてやるよ\\C[10]」
+> CONTEXT: Map090/events/5/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]泉の水を淫気で汚染し、
+　それが関わるモノ全てを、淫らに変えること\\C[10]」
+> CONTEXT: Map090/events/5/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]そうすれば、
+　全ての生き物はボクたち淫魔と交わることもなく、
+　楽に同族に…そして精奴隷になってくれるからな\\C[10]」
+> CONTEXT: Map090/events/5/pages/0/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]それが淫女王アニス様から、
+　ボクに与えられた命令だ\\C[10]」
+> CONTEXT: Map090/events/5/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]ああそうだ。それとお前たちのように、
+　計画を邪魔しに来る者たちの排除も、
+　命令されてたっけ！\\C[10]」
+> CONTEXT: Map090/events/5/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「呪いの抑制が追いつかない以上、
+　\\N[6]ちゃんとは共闘させられませんわ！」
+> CONTEXT: Map090/events/5/pages/0/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「サポート的な役割は可能とはいえ、
+　\\N[1]とレティの一対一になってしまいますから、
+　気をつけて戦うのですわよ！」
+> CONTEXT: Map090/events/5/pages/0/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]お前たちを速攻でアへらせて、
+　ボクの操り人形にしてやるよ\\I[140]\\C[10]」
+> CONTEXT: Map090/events/5/pages/0/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]ん…？　ナタリア、
+　姿を現して平気なのか？\\C[1]」
+> CONTEXT: Map090/events/5/pages/1/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ええ、\\N[1]がレティを倒し、
+　周囲の淫気が薄まったおかげで、
+　ようやく半実体化が可能になりましたの」
+> CONTEXT: Map090/events/5/pages/1/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「本当にありがとうですわ。
+　貴方たちの活躍により、
+　町の方々もいずれ、元に戻るでしょう」
+> CONTEXT: Map090/events/5/pages/1/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]まぁ…私はあまり役に立てなかったけどね\\C[29]」
+> CONTEXT: Map090/events/5/pages/1/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「コホンっ！　とっ…とにかく、
+　この大陸に残る上級淫魔は一体のみですわ」
+> CONTEXT: Map090/events/5/pages/1/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]それで、そいつは何処にいるんだ？\\C[1]」
+> CONTEXT: Map090/events/5/pages/1/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ええと、貴方たち人間が、
+　枯れ山と呼んでいる場所のようですわよ」
+> CONTEXT: Map090/events/5/pages/1/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]ということは、宿場町の南だね。
+　枯れ山では最近女山賊たちが現れたって噂だから、
+　…ひょっとしたら\\C[29]」
+> CONTEXT: Map090/events/5/pages/1/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]どのみち別大陸に行くためには、
+　枯れ山を越えた先で、
+　船に乗らなければいけないんだ\\C[1]」
+> CONTEXT: Map090/events/5/pages/1/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どうやら、決まったようですわね」
+> CONTEXT: Map090/events/5/pages/1/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それでは私はこれで、
+　またしばらくは力を蓄えないといけませんし、
+　何かありましたら呼んでくださいませ」
+> CONTEXT: Map090/events/5/pages/1/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]うん、色々ありがとうね。
+　ナタリアさん\\C[29]」
+> CONTEXT: Map090/events/5/pages/1/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]じゃぁ\\N[1]、
+　次は山賊退治だよ！　一緒に頑張ろうね！\\C[29]」
+> CONTEXT: Map090/events/5/pages/1/59/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,76 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\N[1]のリセット＝初期ステータス、レベル１に戻します
+\\N[6]のリセット＝初期ステータス、レベル１に戻します
+> CONTEXT: Map001/events/2/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]のリセット
+> CONTEXT: Map001/events/2/pages/0/9/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[6]のリセット
+> CONTEXT: Map001/events/2/pages/0/9/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+レベルリセットはしない
+> CONTEXT: Map001/events/2/pages/0/9/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]のレベルが１になりました。
+> CONTEXT: Map001/events/2/pages/0/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[6]のレベルが１になりました。
+> CONTEXT: Map001/events/2/pages/0/140/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+二周目特典としては、
+魔貨１００万とＳＰ１０万、消費アイテム各10個ずつ、
+全非強化装備を各1個ずつ、全称号を追加で入手済みです。
+それ以外の特典は一切ありませんので、ご注意を。
+> CONTEXT: Map001/events/3/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+二周目を始める
+> CONTEXT: Map001/events/3/pages/0/11/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+止める
+> CONTEXT: Map001/events/3/pages/0/11/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔貨とＳＰを何度でも、増やせます。
+> CONTEXT: Map001/events/9/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔貨とＳＰを増やす
+> CONTEXT: Map001/events/9/pages/0/8/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+増やさない
+> CONTEXT: Map001/events/9/pages/0/8/Choice/1 < UNTRANSLATED
+
+> END STRING

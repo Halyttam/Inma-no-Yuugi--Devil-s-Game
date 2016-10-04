@@ -1,0 +1,68 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+保存食などが隙間なく詰め込まれている。
+> CONTEXT: Map085/events/4/pages/1/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map085/events/5/pages/1/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+作業着から寝間着まで、綺麗に折りたたまれてしまわれている。
+> CONTEXT: Map085/events/6/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map085/events/7/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私は木や水の属性魔法が得意だ。
+　そのために、
+　この町にわざわざ引っ越してきたのだが」
+> CONTEXT: Map085/events/8/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「残念なことに、
+　属性魔法の触媒となるカードが、
+　尽きてしまった」
+> CONTEXT: Map085/events/8/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もちろんそのままでも魔法は発動するが、
+　やはりカードのあるなしでは、雲泥の差だな」
+> CONTEXT: Map085/events/8/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+とれたての野菜が雑多に並んでいる。
+> CONTEXT: Map085/events/9/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+綺麗な色の水晶が台の上にのっている。
+> CONTEXT: Map085/events/10/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+可愛らしい花が花瓶にいけてある。
+> CONTEXT: Map085/events/11/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+年代物のワインがしまわれている。
+> CONTEXT: Map085/events/12/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔法使い用の法衣がしまわれている。
+> CONTEXT: Map085/events/13/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map085/events/14/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING

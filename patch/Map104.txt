@@ -1,0 +1,42 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+下水道　最下層
+> CONTEXT: Map104/display_name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]指輪…に、見えなくもないか？\\C[1]」
+> CONTEXT: Map104/events/1/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]\\N[1]、
+　もうここ以上の下層はなさそうだよ？\\C[29]」
+> CONTEXT: Map104/events/1/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]…そうだな。
+　もしこれが目的の物でないとしても、
+　最下層まで探したんだ\\C[1]」
+> CONTEXT: Map104/events/1/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]じゃぁこの指輪を依頼人に確認してもらえば、
+　依頼終了ということで、良いのかな？\\C[29]」
+> CONTEXT: Map104/events/1/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]そうと決まれば、
+　いつまでもこんな汚水や淫魔だらけの場所にいたくないし、
+　さっさと脱出するよ！\\C[29]」
+> CONTEXT: Map104/events/1/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,34 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+封印の塔　９Ｆ
+> CONTEXT: Map171/display_name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どうやら、ここが最上階のようですわね」
+> CONTEXT: Map171/events/8/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私の天使の力で、
+　転送石にこのポイントを登録しておきましたので、
+　準備不足だと思ったら、即座に離脱するのですわよ」
+> CONTEXT: Map171/events/8/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「不完全な今の身では、
+　このようなことしか出来なくて、
+　申し訳ありませんわ」
+> CONTEXT: Map171/events/8/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それでは…健闘を祈ってますわよ」
+> CONTEXT: Map171/events/8/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING

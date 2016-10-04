@@ -1,0 +1,70 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+大森林　境界の橋
+> CONTEXT: Map128/display_name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]…あれ？　おかしいなぁ\\C[29]」
+> CONTEXT: Map128/events/7/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]どうしたんだ？　\\N[6]\\C[1]」
+> CONTEXT: Map128/events/7/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]この先にはエルフの村を外界から隠すための、
+　強力な結界が張ってあるはずなんだけど\\C[29]」
+> CONTEXT: Map128/events/7/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]何というか…今はその魔力を、
+　全く感じないの\\C[29]」
+> CONTEXT: Map128/events/7/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\N[6]ちゃんが帰って来るのを察知して、
+　結界を解除してくれたのではありませんの？」
+> CONTEXT: Map128/events/7/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]それはないと思うけどなぁ。
+　だって私、村の皆に嫌われてたし…\\C[29]」
+> CONTEXT: Map128/events/7/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]それに人間や魔物は問答無用で弾かれるけど、
+　エルフの私なら解除しなくても、
+　難なく素通り出来るしね\\C[29]」
+> CONTEXT: Map128/events/7/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「なるほど…どちらにせよ、
+　こうなったら直接エルフの村に行き、
+　確認するしかありませんわね」
+> CONTEXT: Map128/events/7/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]…そうだな。
+　とにかく今は褐色の淫魔に追いつき、倒すのが先だ。
+　考えるのは後回しにしよう\\C[1]」
+> CONTEXT: Map128/events/7/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING

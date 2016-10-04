@@ -1,0 +1,237 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+客室　２Ｆ
+> CONTEXT: Map150/display_name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+宿泊した人たちの荷物がしまわれている。
+> CONTEXT: Map150/events/21/pages/1/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map150/events/22/pages/1/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map150/events/23/pages/1/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map150/events/24/pages/1/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+用途不明の薬品が多数収納されている。
+> CONTEXT: Map150/events/25/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map150/events/26/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map150/events/27/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map150/events/28/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map150/events/29/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map150/events/30/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map150/events/31/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map150/events/32/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+館の使用人が書き残したと思われる日記がある、
+読みますか？
+> CONTEXT: Map150/events/57/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一日目
+領主様の使いという人に誘われ、
+今日からこの館で働くことになった。
+> CONTEXT: Map150/events/57/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今日は初日ということで、
+館の色々な部屋を案内されて終わった。
+かなりの広さのわりに、僕以外の男手がいないようだ。
+> CONTEXT: Map150/events/57/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+二日目
+僕の役目は館の中と外の清掃だ。
+昨日一日かけて館の構造はわかったので、特に問題はない。
+> CONTEXT: Map150/events/57/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+掃除に関しても、
+館のお嬢様たちが丁寧に教えてくれる。
+しかし少しスキンシップが激しすぎる気がする。
+> CONTEXT: Map150/events/57/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+三日目
+本日も館の清掃を行う。
+何故か昨日よりも、お嬢様方の密着度合いが高くなっている。
+> CONTEXT: Map150/events/57/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ことあるごとに僕のカラダの隅々を、
+優しく撫で回してくるのだ。
+あぁ…そんなトコロまで…駄目ですお嬢様…！
+> CONTEXT: Map150/events/57/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+四日目
+早くも僕の理性が欲望に負けようとしている。
+館の清掃中もエッチなことばかり考えてしまう。
+> CONTEXT: Map150/events/57/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そんな僕に領主様がお声をかけてくれた。
+内容は当り障りのない話だったが、
+たったそれだけで僕のモノは…もう。
+> CONTEXT: Map150/events/57/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+五日目
+アレから悶々とした夜を過ごし、
+必死に静めようとしても駄目だった。
+> CONTEXT: Map150/events/57/pages/0/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今日の仕事中もずっと勃起したままで、
+いつお嬢様方にバレないかビクビクしている。
+幸いなことに指摘されるようなことはなかったけど。
+> CONTEXT: Map150/events/57/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+六日目
+日に日に自分の性欲を押さえられず、
+いつお嬢様方に襲いかかってしまうか、心配になってきた。
+> CONTEXT: Map150/events/57/pages/0/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そんな僕の様子を見かねたのか、
+領主様が相談に乗ってくれることになり、
+明日自分の部屋に来るようにとのことだ。
+> CONTEXT: Map150/events/57/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+優しくて美しい領主様で良かったなぁ。
+領主様のことを考えると…僕…僕…！
+> CONTEXT: Map150/events/57/pages/0/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここで日記は終わっている…。
+> CONTEXT: Map150/events/57/pages/0/64/Dialogue < UNTRANSLATED
+> CONTEXT: Map150/events/65/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+館を訪れた男が書き残したと思われる日記がある、
+読みますか？
+> CONTEXT: Map150/events/65/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+本当はこんなことを書いている状況ではないのだが、
+万一俺が失敗したときのために、
+他の冒険者にこれを残すことにする。
+> CONTEXT: Map150/events/65/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今の女領主に代替わりしてから、
+魔物と淫魔による島での被害がピタリと止んだらしい。
+明らかに怪しいと感じた。俺以外にも多くの人がそう思うだろう。
+> CONTEXT: Map150/events/65/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今の領主に得体の知れなさを感じているだろう。
+もっとも、島人にとっては万々歳なのだが、
+やはり最悪の可能性も捨てきれない。
+> CONTEXT: Map150/events/65/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そう…領主本人が淫魔だという可能性だ。
+月に一度の男限定の求人が、良い証拠だ。
+> CONTEXT: Map150/events/65/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+密かに冒険者ギルドの援助を受けて、
+領主の館に客人として潜り込んだのは良いが…。
+> CONTEXT: Map150/events/65/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この館は思った以上にヤバイ。
+食事や風呂など歓迎を受けるのは良いが、
+そのたびに女が数人、奉仕係として付いてくるのだ。
+> CONTEXT: Map150/events/65/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+領主として突然降って湧いた客人を歓迎、
+または警戒する気持ちはわからなくもないが…。
+> CONTEXT: Map150/events/65/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何よりヤバイのは付き人たちの動作一つ一つに、
+俺は目は奪われっぱなしで、
+彼女たちに身も心も犯されたい…そればかりしか考えられなくなる。
+> CONTEXT: Map150/events/65/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もう俺の理性は限界寸前だ。
+相手が淫魔だと気づいたときには、
+既に手遅れということだ。
+> CONTEXT: Map150/events/65/pages/0/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔性の女たちが今日も俺の耳元で囁く。
+こちらの知っている情報を全て話せば、
+領主自ら桃源郷を見せてくれると。
+> CONTEXT: Map150/events/65/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+心もカラダも腑抜けにされた以上、何処にも逃げられない。
+これから女領主に、
+俺が侵入した目的を洗いざらい話してしまおう。
+> CONTEXT: Map150/events/65/pages/0/50/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,242 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「ふんふんふ～ん…これでお目々をつけて、
+　雪だるまの完成だよ！」
+> CONTEXT: Map202/events/11/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map106/events/11/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「次は何して遊ぼうかなぁ？」
+> CONTEXT: Map202/events/11/pages/0/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map106/events/11/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「雪だるまの次はっと…今度は、
+　雪うさぎに挑戦しようかな～」
+> CONTEXT: Map202/events/11/pages/1/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map106/events/11/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「しばらくの間、荷物の積み下ろしのために、
+　この町に停泊するからな」
+> CONTEXT: Map202/events/12/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map106/events/12/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まぁ遅くとも数日の辛抱だ。
+　それさえ終われば、またすぐ出港出来るからよ」
+> CONTEXT: Map202/events/12/pages/0/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map106/events/12/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おっと…お二人さん。
+　こっちの準備はばっちりだ」
+> CONTEXT: Map202/events/12/pages/1/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map106/events/12/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いつでも出港出来るぜ。
+　それで、もう乗るのかい？」
+> CONTEXT: Map202/events/12/pages/1/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map106/events/12/pages/1/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+乗る
+> CONTEXT: Map202/events/12/pages/1/12/Choice/0 < UNTRANSLATED
+> CONTEXT: Map203/events/21/pages/3/8/Choice/0 < UNTRANSLATED
+> CONTEXT: Map106/events/12/pages/1/12/Choice/0 < UNTRANSLATED
+> CONTEXT: Map096/events/21/pages/3/8/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+乗らない
+> CONTEXT: Map202/events/12/pages/1/12/Choice/1 < UNTRANSLATED
+> CONTEXT: Map203/events/21/pages/3/8/Choice/1 < UNTRANSLATED
+> CONTEXT: Map106/events/12/pages/1/12/Choice/1 < UNTRANSLATED
+> CONTEXT: Map096/events/21/pages/3/8/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それじゃお二人さん！
+　快適な船旅を楽しんでくれよな！」
+> CONTEXT: Map202/events/12/pages/1/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map203/events/21/pages/3/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map106/events/12/pages/1/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map096/events/21/pages/3/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そうだな。別に積み込みが終わったからといって、
+　すぐ出港するわけでもねえし」
+> CONTEXT: Map202/events/12/pages/1/30/Dialogue < UNTRANSLATED
+> CONTEXT: Map203/events/21/pages/3/24/Dialogue < UNTRANSLATED
+> CONTEXT: Map106/events/12/pages/1/30/Dialogue < UNTRANSLATED
+> CONTEXT: Map096/events/21/pages/3/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「今はお二人さんの気の済むまで、
+　荷造りすることだな」
+> CONTEXT: Map202/events/12/pages/1/33/Dialogue < UNTRANSLATED
+> CONTEXT: Map203/events/21/pages/3/27/Dialogue < UNTRANSLATED
+> CONTEXT: Map106/events/12/pages/1/33/Dialogue < UNTRANSLATED
+> CONTEXT: Map096/events/21/pages/3/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おっと…お二人さん久しぶりだな。
+　どうだい？　元気でやってるかい？」
+> CONTEXT: Map202/events/12/pages/2/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map203/events/21/pages/5/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map201/events/22/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map115/events/22/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map106/events/12/pages/2/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map096/events/21/pages/5/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「こっちはいつも通りヒーヒーこき使われてるが、
+　ようやく亡き妻の思いを、乗り越えられそうだぜ」
+> CONTEXT: Map202/events/12/pages/2/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map203/events/21/pages/5/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map201/events/22/pages/0/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map115/events/22/pages/0/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map106/events/12/pages/2/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map096/events/21/pages/5/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「本当にありがとな！　感謝してるぜ！」
+> CONTEXT: Map202/events/12/pages/2/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map203/events/21/pages/5/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map201/events/22/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map115/events/22/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map106/events/12/pages/2/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map096/events/21/pages/5/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ここは魔物や淫魔の、
+　犠牲になった人たちが眠る墓です」
+> CONTEXT: Map202/events/15/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map106/events/15/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「しかし不思議なことに、
+　今の領主様に代替わりした日から、
+　これらの被害がピタリと止んだのです」
+> CONTEXT: Map202/events/15/pages/0/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map106/events/15/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「不思議なこともあるものですね」
+> CONTEXT: Map202/events/15/pages/0/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map106/events/15/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ここは淫魔や魔物の、
+　犠牲になった人たちが眠る墓です」
+> CONTEXT: Map202/events/15/pages/1/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map106/events/15/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やはり領主様が、裏で糸を引いていたのですね」
+> CONTEXT: Map202/events/15/pages/1/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map106/events/15/pages/1/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「貴方たちはもしや、天使様の代理なのでは？
+　もしそうでなくとも、
+　少し…祈らせていただけませんか？」
+> CONTEXT: Map202/events/15/pages/1/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map106/events/15/pages/1/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ほほほっ、冒険者の方かのう？
+　寒い中良く来なすった。
+　何もない町じゃが、ゆっくりしていくと良いぞ」
+> CONTEXT: Map202/events/16/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map106/events/16/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ああそうそう、今の領主様は素晴らしく美人じゃから、
+　一度会いに行くのも良いぞ」
+> CONTEXT: Map202/events/16/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map106/events/16/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何しろワシのように諦めていた股間のモノが、
+　会った瞬間に元気を取り戻したのじゃからな」
+> CONTEXT: Map202/events/16/pages/0/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map106/events/16/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「はぁ…ありゃぁ本当に眼福じゃったわ」
+> CONTEXT: Map202/events/16/pages/0/16/Dialogue < UNTRANSLATED
+> CONTEXT: Map106/events/16/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何と…領主様がのう…。
+　道理でワシの股間がヒクつくわけじゃ」
+> CONTEXT: Map202/events/16/pages/1/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map106/events/16/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「しかし、人間の女では全く反応せぬのに、
+　淫魔というのは…本当に魔性の存在よのう」
+> CONTEXT: Map202/events/16/pages/1/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map106/events/16/pages/1/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「この畑は春になれば新しく芽吹くが、
+　ワシのモノはもう…それだけが残念じゃのう」
+> CONTEXT: Map202/events/16/pages/1/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map106/events/16/pages/1/12/Dialogue < UNTRANSLATED
+
+> END STRING

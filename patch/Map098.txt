@@ -1,0 +1,136 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+娼館
+> CONTEXT: Map098/display_name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「アタシも元は娼婦として、
+　男に貢いでもらってたんだけどね」
+> CONTEXT: Map098/events/4/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「炭鉱が封鎖されてからは、
+　殆ど見向きもされなくなったのよ」
+> CONTEXT: Map098/events/4/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おかげで今はしがない受付嬢…だけど…そうね。
+　たまに船乗りの人に貢いでもらうのがせいぜいだわ」
+> CONTEXT: Map098/events/4/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やっぱり魔法の発達は良し悪しよね。
+　おかげでこの娼館は潰れはしないものの、
+　年々お客さんは減る一方よ」
+> CONTEXT: Map098/events/5/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「せめて、当時娼館一番人気のあの娘がいれば、
+　違ったかもしれないけど」
+> CONTEXT: Map098/events/5/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でも、もう十年以上前に店に来た船乗りの男に、
+　熱烈なアプローチを受けて、
+　その日のうちに身請けされちゃったのよね」
+> CONTEXT: Map098/events/5/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あぁ…私も、一度で良いから、
+　燃えるような恋がしてみたいわ」
+> CONTEXT: Map098/events/5/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おっ…お客さんですか！
+　まさに、すっ…数ヶ月ぶりのお客さんですか！」
+> CONTEXT: Map098/events/6/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「今娼婦が出払っておりまして、
+　もうしばらくすれば帰って来ますので、
+　それまでどうかお待ちを…」
+> CONTEXT: Map098/events/6/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そうですね…もう一時間…いや、
+　一日…一ヶ月…一年…そのぐらい待っていただけば、
+　たっ…多分」
+> CONTEXT: Map098/events/6/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もっ申し訳ございません。
+　炭鉱が開かれていた頃には、
+　娼婦も引く手あまたでしたが…今はご覧の有様で」
+> CONTEXT: Map098/events/6/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「今まで働いてくれていた娼婦たちも、
+　他店に売りに出さなければ…とてもとても」
+> CONTEXT: Map098/events/6/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どうですか？　そこのエルフのお嬢さんなら、
+　娼婦としてたちまち人気になれますよ？」
+> CONTEXT: Map098/events/6/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「エルフの純白の肌と美しい容姿！
+　未発達なカラダは…まぁその手の方に！
+　ナンバーワン娼婦として我が店の経営も軌道に…！」
+> CONTEXT: Map098/events/6/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]むぅ～…！　お断りするよ！\\C[29]」
+> CONTEXT: Map098/events/6/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「はぁ、そうですか。それは残念です。
+　やはり…最近流行りの山賊プレイで、一山当てるしか！」
+> CONTEXT: Map098/events/6/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+扉には鍵がかかっている。
+> CONTEXT: Map098/events/7/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map098/events/8/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+観葉植物がきちんと手入れされている。
+> CONTEXT: Map098/events/9/pages/1/7/Dialogue < UNTRANSLATED
+
+> END STRING

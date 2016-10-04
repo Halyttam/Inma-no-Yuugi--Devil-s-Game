@@ -1,0 +1,224 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+山賊の頭の小屋
+> CONTEXT: Map095/display_name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「並みの淫気とは明らかに違いますわ！
+　間違いありません…上級淫魔ですわ！」
+> CONTEXT: Map095/events/4/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]にゃは？　お前たちは誰にゃ？\\C[10]」
+> CONTEXT: Map095/events/4/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]にゃぁ…人間の男とエルフの女…。
+　もしかして、お前たちが\\N[1]と\\N[6]かにゃ？\\C[10]」
+> CONTEXT: Map095/events/4/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]まっ…また私たちのこと、
+　どうして知ってるの？\\C[29]」
+> CONTEXT: Map095/events/4/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]にゃははっ、やっぱりそうかにゃ！
+　淫女王様に聞いた通りだにゃ\\C[10]」
+> CONTEXT: Map095/events/4/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]アタイは猫又の沙耶香にゃ\\C[10]」
+> CONTEXT: Map095/events/4/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]\\N[1]たちのことは、
+　淫魔の中で噂になってるにゃ\\C[10]」
+> CONTEXT: Map095/events/4/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]噂だと？　…どういうことだ\\C[1]」
+> CONTEXT: Map095/events/4/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]淫魔を狩れるだけの力を持った、
+　人間とエルフがいるってにゃ\\C[10]」
+> CONTEXT: Map095/events/4/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]そんな\\N[1]たちを屈服させるのが、
+　今淫魔たちの中では最大の名誉だにゃ\\I[140]\\C[10]」
+> CONTEXT: Map095/events/4/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]だから山賊たちを率いて、
+　手当たり次第に旅人を犯してれば、
+　向こうから来てくれると思ってたにゃ\\C[10]」
+> CONTEXT: Map095/events/4/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]あうぅ…じゃぁ…私たちはまんまと罠に…！\\C[29]」
+> CONTEXT: Map095/events/4/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]にゃははっ！　そういうことだにゃ\\I[140]\\C[10]」
+> CONTEXT: Map095/events/4/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]\\N[1]たちがどれだけ強いかは知らにゃいけど、
+　まさか上級淫魔に勝てるはずもないにゃ\\I[140]\\C[10]」
+> CONTEXT: Map095/events/4/pages/0/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]さぁ行くにゃよ！
+　すぐアへらせてやるにゃ！\\C[10]」
+> CONTEXT: Map095/events/4/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「なっ…何とかなって良かったですわね」
+> CONTEXT: Map095/events/4/pages/1/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]うん…沙耶香が油断していたおかげか、
+　辛うじて勝てた…のかな？\\C[29]」
+> CONTEXT: Map095/events/4/pages/1/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]そうだな。だがこれからはもう、
+　上級淫魔でも油断はしてくれないだろうな\\C[1]」
+> CONTEXT: Map095/events/4/pages/1/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ええ、上級淫魔を一度倒しただけなら、
+　まだ運が良かった程度で油断してくれますが、
+　流石に二度続けば…もう」
+> CONTEXT: Map095/events/4/pages/1/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「これからは淫魔たちは本腰を入れて、
+　貴方たちを堕としに来るでしょう」
+> CONTEXT: Map095/events/4/pages/1/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ともかく、お疲れ様ですわ。
+　もうこの大陸には上級淫魔の淫気は感じませんので、
+　しばらくはゆっくりすると良いですわ」
+> CONTEXT: Map095/events/4/pages/1/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]そっか…今の上級淫魔で最後だったんだ。
+　それで、次は何処に行けば良いの？\\C[29]」
+> CONTEXT: Map095/events/4/pages/1/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ええと、そうですわね。
+　今の状況ですと一番近いとはいえ、
+　まだ距離が離れ過ぎていて正確ではありませんが…」
+> CONTEXT: Map095/events/4/pages/1/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ここから南の方角…そう、海の向こうに、
+　上級淫魔の反応がありますわ」
+> CONTEXT: Map095/events/4/pages/1/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]そうか。次は南か。
+　ともかく、次の大陸に着くまでの間は、
+　ゆっくり出来そうだな\\C[1]」
+> CONTEXT: Map095/events/4/pages/1/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]でも…南には…私、あんまり良い思い出が…\\C[29]」
+> CONTEXT: Map095/events/4/pages/1/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「南に何かありますの？
+　ええと…確か南の大陸にはエルフの村と魔法都市、
+　…そして私が祀られている、大聖堂が有名でしたわね」
+> CONTEXT: Map095/events/4/pages/1/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]ああうん、あまり話すことでもないが、
+　\\N[6]はそっちで色々あってな\\C[1]」
+> CONTEXT: Map095/events/4/pages/1/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「これは、天使として配慮が足りませんでしたわ。
+　\\N[6]ちゃん…傷ついてしまったのでしたら、
+　申し訳ありません。この通り、謝罪いたしますわ」
+> CONTEXT: Map095/events/4/pages/1/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]うっ…うん、別に気にしてないよ。
+　もうかなり昔のことだしね！
+　とにかく次の目的地も決まったことだし！\\C[29]」
+> CONTEXT: Map095/events/4/pages/1/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]元気出して行くよ！
+　えいえいおー！\\C[29]」
+> CONTEXT: Map095/events/4/pages/1/67/Dialogue < UNTRANSLATED
+
+> END STRING

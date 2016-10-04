@@ -1,0 +1,192 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+B1 治療室
+> CONTEXT: Map070/display_name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+底が暗くて良く見えないが、とてもおりられそうにない。
+良く見たら縄梯子の取り付け箇所がある。
+施設内の何処かに、しまわれているのかもしれない。
+> CONTEXT: Map070/events/1/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]…良し、
+　これなら下の階におりられそうだな\\C[1]」
+> CONTEXT: Map070/events/1/pages/1/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何に使うか良くわからない道具がしまってある。
+> CONTEXT: Map070/events/8/pages/1/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map070/events/9/pages/1/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map070/events/10/pages/1/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map070/events/11/pages/1/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+医者の日誌がしまわれている。
+読みますか？
+> CONTEXT: Map070/events/12/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+○月△日　午後６時
+気を失っているエルフの娘が、結界の外に倒れているのを、
+見回り中の警備員が発見する。
+> CONTEXT: Map070/events/12/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+○月△日　午後７時
+すぐさま診療所に運び込み検査をするが、
+どうやら気を失っている以外に、
+身体的な異常は見られないことがわかった。
+> CONTEXT: Map070/events/12/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+○月△日　午後８時
+消灯時間も近づいてきたため、
+今日の所は病室のベッドに寝かせ、
+目覚めるまで様子を見ることにする。
+> CONTEXT: Map070/events/12/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+○月△日　午後９時
+何やら診療所の内部が妙に騒がしい。
+既に消灯時間に入ったため、
+病室外への出入りは禁止しているはずなのだが。
+> CONTEXT: Map070/events/12/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+○月△日　午後１０時
+騒ぎが始まってから一時間が経過したが、
+院内の騒ぎ声は大きくなる一方だ。
+ナースたちは何をしているのだろうか。
+> CONTEXT: Map070/events/12/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+○月△日　午後１１時
+ようやく本日の仕事が終わったため、
+私も院内の様子を見に行くことにする。
+騒ぎを収められない職員には、たっぷりと説教をしなければ…。
+> CONTEXT: Map070/events/12/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここで日誌は終わっている。
+> CONTEXT: Map070/events/12/pages/0/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+手術用の刃物類が丁寧にしまわれている。
+> CONTEXT: Map070/events/14/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map070/events/15/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+治癒魔法に関する書物が収められている。
+> CONTEXT: Map070/events/16/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+人体の構造についての書物が収められている。
+> CONTEXT: Map070/events/17/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くそぉっ！　また淫魔が来たのか！
+　誰が来ようとこの扉は絶対に開けないぞ！」
+> CONTEXT: Map070/events/18/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]落ち着け、俺は人間だ！
+　助けに来たんだ！\\C[1]」
+> CONTEXT: Map070/events/18/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「嘘だ！　そうやって扉を開けたら、
+　隠れている淫魔が寄ってたかって、
+　俺たちを吸い尽くすに決まっている！」
+> CONTEXT: Map070/events/18/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]違う！　俺は人間だ！
+　淫魔なんかじゃない！\\C[1]」
+> CONTEXT: Map070/events/18/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「俺はな…この診療所で何人もの男たちが、
+　淫魔化したナースや女患者たちに、
+　搾り尽くされるのを見てきたんだよ！」
+> CONTEXT: Map070/events/18/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「美女の誘いだとホイホイついていったら最後、
+　アヘ顔になるまで犯された挙句、
+　そのまま天国逝きだ…一人の例外もなくな！」
+> CONTEXT: Map070/events/18/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「さぁ…わかったら帰ってくれ！
+　お前が誰かは知らないが、周囲が安全になるまで、
+　俺たちはこの部屋から出るわけにはいかないんだ！」
+> CONTEXT: Map070/events/18/pages/0/30/Dialogue < UNTRANSLATED
+> CONTEXT: Map070/events/18/pages/1/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]（\\C[0]どうやらいくら説得しても、
+　ここから出てくる気はなさそうだな\\C[1]）
+> CONTEXT: Map070/events/18/pages/1/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]（\\C[0]ギルドが本腰を入れて動かない以上、
+　耳を貸してくれないか。
+　それなら、俺だけこの場に留まっても仕方ないか\\C[1]）
+> CONTEXT: Map070/events/18/pages/1/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+箱のなかには何も入っていない。
+> CONTEXT: Map070/events/22/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map070/events/23/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map070/events/24/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING

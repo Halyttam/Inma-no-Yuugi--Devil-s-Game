@@ -1,0 +1,40 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「ふぅ…これは年のせいかねぇ。
+　このところ、朝の寒さがやけに堪えるよ」
+> CONTEXT: Map107/events/4/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「かと言って、家の中にずっといるわけにもいかないし、
+　困ったものだね」
+> CONTEXT: Map107/events/4/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うーん…この本も、
+　そしてあの本も…もう読んじゃったしなぁ」
+> CONTEXT: Map107/events/5/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何処かに僕がまだ読んでなくて、
+　怖い本はないのかなー？」
+> CONTEXT: Map107/events/5/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+怪談や伝記など、オドロオドロしい本が並んでいる。
+> CONTEXT: Map107/events/6/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+良くわからない道具などが雑多にしまわれている。
+> CONTEXT: Map107/events/7/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING

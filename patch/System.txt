@@ -1,0 +1,282 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+通常攻撃
+> CONTEXT: System/elements/1/
+> CONTEXT: States/100/name/
+Normal attack
+> END STRING
+
+> BEGIN STRING
+最大精力
+> CONTEXT: System/terms/params/0/
+> CONTEXT: States/58/name/
+The maximum energy
+> END STRING
+
+> BEGIN STRING
+最大理性
+> CONTEXT: System/terms/params/1/
+The maximum reason
+> END STRING
+
+> BEGIN STRING
+攻撃力
+> CONTEXT: System/terms/params/2/
+> CONTEXT: States/86/name/
+Offensive power
+> END STRING
+
+> BEGIN STRING
+防御力
+> CONTEXT: System/terms/params/3/
+> CONTEXT: States/65/name/
+Defense power
+> END STRING
+
+> BEGIN STRING
+道具回数
+> CONTEXT: System/terms/params/4/
+Frequency of tool
+> END STRING
+
+> BEGIN STRING
+抵抗力
+> CONTEXT: System/terms/params/5/
+> CONTEXT: States/72/name/
+Resistance power
+> END STRING
+
+> BEGIN STRING
+行動力
+> CONTEXT: System/terms/params/6/
+Energy
+> END STRING
+
+> BEGIN STRING
+運
+> CONTEXT: System/terms/params/7/
+> CONTEXT: States/54/name/
+Fate
+> END STRING
+
+> BEGIN STRING
+服
+> CONTEXT: System/terms/etypes/0/
+> CONTEXT: System/terms/commands/12/
+Clothes
+> END STRING
+
+> BEGIN STRING
+メインスロット
+> CONTEXT: System/terms/etypes/1/
+The main slot
+> END STRING
+
+> BEGIN STRING
+サブスロット
+> CONTEXT: System/terms/etypes/2/
+Sub slot
+> END STRING
+
+> BEGIN STRING
+札
+> CONTEXT: System/terms/etypes/3/
+Note
+> END STRING
+
+> BEGIN STRING
+枷
+> CONTEXT: System/terms/etypes/4/
+Shackles
+> END STRING
+
+> BEGIN STRING
+戦う
+> CONTEXT: System/terms/commands/0/
+It fights.
+> END STRING
+
+> BEGIN STRING
+逃げる
+> CONTEXT: System/terms/commands/1/
+It runs away.
+> END STRING
+
+> BEGIN STRING
+攻撃
+> CONTEXT: System/terms/commands/2/
+> CONTEXT: Classes/9/name/
+> CONTEXT: Actors/62/name/
+Attack
+> END STRING
+
+> BEGIN STRING
+耐える
+> CONTEXT: System/terms/commands/3/
+It endures.
+> END STRING
+
+> BEGIN STRING
+アイテム
+> CONTEXT: System/terms/commands/4/
+Item
+> END STRING
+
+> BEGIN STRING
+特技
+> CONTEXT: System/terms/commands/5/
+> CONTEXT: System/skill_types/2/
+Special skill
+> END STRING
+
+> BEGIN STRING
+装備
+> CONTEXT: System/terms/commands/6/
+Equipment
+> END STRING
+
+> BEGIN STRING
+ステータス
+> CONTEXT: System/terms/commands/7/
+Status
+> END STRING
+
+> BEGIN STRING
+並び替え
+> CONTEXT: System/terms/commands/8/
+Row substitution
+> END STRING
+
+> BEGIN STRING
+セーブ
+> CONTEXT: System/terms/commands/9/
+Save
+> END STRING
+
+> BEGIN STRING
+ゲーム終了
+> CONTEXT: System/terms/commands/10/
+Game end
+> END STRING
+
+> BEGIN STRING
+装飾品
+> CONTEXT: System/terms/commands/13/
+Adornment
+> END STRING
+
+> BEGIN STRING
+素材
+> CONTEXT: System/terms/commands/14/
+Material
+> END STRING
+
+> BEGIN STRING
+装備変更
+> CONTEXT: System/terms/commands/15/
+Equipment change
+> END STRING
+
+> BEGIN STRING
+ニューゲーム
+> CONTEXT: System/terms/commands/18/
+New game
+> END STRING
+
+> BEGIN STRING
+コンティニュー
+> CONTEXT: System/terms/commands/19/
+Continue
+> END STRING
+
+> BEGIN STRING
+シャットダウン
+> CONTEXT: System/terms/commands/20/
+Shutdown
+> END STRING
+
+> BEGIN STRING
+タイトルへ
+> CONTEXT: System/terms/commands/21/
+To the title
+> END STRING
+
+> BEGIN STRING
+やめる
+> CONTEXT: System/terms/commands/22/
+Stop it.
+> END STRING
+
+> BEGIN STRING
+レベル
+> CONTEXT: System/terms/basic/0/
+Level
+> END STRING
+
+> BEGIN STRING
+Lv
+> CONTEXT: System/terms/basic/1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精力
+> CONTEXT: System/terms/basic/2/
+Energy
+> END STRING
+
+> BEGIN STRING
+精
+> CONTEXT: System/terms/basic/3/
+Energy
+> END STRING
+
+> BEGIN STRING
+理性
+> CONTEXT: System/terms/basic/4/
+Reason
+> END STRING
+
+> BEGIN STRING
+理
+> CONTEXT: System/terms/basic/5/
+Reason
+> END STRING
+
+> BEGIN STRING
+ＴＰ
+> CONTEXT: System/terms/basic/6/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+TP
+> CONTEXT: System/terms/basic/7/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+主人公専用
+> CONTEXT: System/weapon_types/1/
+> CONTEXT: System/armor_types/1/
+Protagonist exclusive use
+> END STRING
+
+> BEGIN STRING
+エルフ専用
+> CONTEXT: System/weapon_types/2/
+> CONTEXT: System/armor_types/2/
+Elf exclusive use
+> END STRING
+
+> BEGIN STRING
+スキル【共通】
+> CONTEXT: System/armor_types/3/
+Skill【Commonness】
+> END STRING
+
+> BEGIN STRING
+魔貨
+> CONTEXT: System/currency_unit/
+Ma貨
+> END STRING

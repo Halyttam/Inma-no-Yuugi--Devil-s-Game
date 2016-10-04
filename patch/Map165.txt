@@ -1,0 +1,32 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+封印の塔　３Ｆ
+> CONTEXT: Map165/display_name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふぁ…もう…魔力が…尽きそうなのよぉ…\\I[140]」
+> CONTEXT: Map165/events/21/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でも…これでようやく…解放される…\\I[140]
+　私も…淫女王様の…仲魔にぃ…\\I[140]」
+> CONTEXT: Map165/events/21/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あぁ…淫女王様…俺は…幸せですぅ…\\I[140]」
+> CONTEXT: Map165/events/22/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ですから…俺の魔力の全て…捧げましゅぅ…\\I[140]
+　あっあぁ…堕ちて…いくぅ\\I[140]」
+> CONTEXT: Map165/events/22/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING

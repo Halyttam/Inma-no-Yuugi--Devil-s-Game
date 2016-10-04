@@ -1,0 +1,182 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+冒険者ギルド
+> CONTEXT: Map140/display_name/ < UNTRANSLATED
+> CONTEXT: Map131/display_name/ < UNTRANSLATED
+> CONTEXT: Map117/display_name/ < UNTRANSLATED
+> CONTEXT: Map108/display_name/ < UNTRANSLATED
+> CONTEXT: Map100/display_name/ < UNTRANSLATED
+> CONTEXT: Map081/display_name/ < UNTRANSLATED
+> CONTEXT: Map069/display_name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「冒険者ギルドに何か用か？
+　依頼の斡旋からここ最近の情報や宿泊まで、
+　うちは幅広くやってるよ」現在 \\V[1] 魔貨
+> CONTEXT: Map140/events/1/pages/0/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map131/events/1/pages/0/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map117/events/1/pages/0/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map108/events/1/pages/0/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map100/events/1/pages/0/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map081/events/1/pages/0/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map069/events/1/pages/0/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map044/events/1/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+依頼を受けたい
+> CONTEXT: Map140/events/1/pages/0/21/Choice/0 < UNTRANSLATED
+> CONTEXT: Map131/events/1/pages/0/21/Choice/0 < UNTRANSLATED
+> CONTEXT: Map117/events/1/pages/0/21/Choice/0 < UNTRANSLATED
+> CONTEXT: Map108/events/1/pages/0/21/Choice/0 < UNTRANSLATED
+> CONTEXT: Map100/events/1/pages/0/21/Choice/0 < UNTRANSLATED
+> CONTEXT: Map081/events/1/pages/0/21/Choice/0 < UNTRANSLATED
+> CONTEXT: Map069/events/1/pages/0/21/Choice/0 < UNTRANSLATED
+> CONTEXT: Map044/events/1/pages/0/21/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+情報を聞きたい
+> CONTEXT: Map140/events/1/pages/0/21/Choice/1 < UNTRANSLATED
+> CONTEXT: Map131/events/1/pages/0/21/Choice/1 < UNTRANSLATED
+> CONTEXT: Map117/events/1/pages/0/21/Choice/1 < UNTRANSLATED
+> CONTEXT: Map108/events/1/pages/0/21/Choice/1 < UNTRANSLATED
+> CONTEXT: Map100/events/1/pages/0/21/Choice/1 < UNTRANSLATED
+> CONTEXT: Map081/events/1/pages/0/21/Choice/1 < UNTRANSLATED
+> CONTEXT: Map069/events/1/pages/0/21/Choice/1 < UNTRANSLATED
+> CONTEXT: Map044/events/1/pages/0/21/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+泊まる　\\V[2]魔貨※宝復活
+> CONTEXT: Map140/events/1/pages/0/21/Choice/2 < UNTRANSLATED
+> CONTEXT: Map131/events/1/pages/0/21/Choice/2 < UNTRANSLATED
+> CONTEXT: Map117/events/1/pages/0/21/Choice/2 < UNTRANSLATED
+> CONTEXT: Map108/events/1/pages/0/21/Choice/2 < UNTRANSLATED
+> CONTEXT: Map100/events/1/pages/0/21/Choice/2 < UNTRANSLATED
+> CONTEXT: Map081/events/1/pages/0/21/Choice/2 < UNTRANSLATED
+> CONTEXT: Map069/events/1/pages/0/21/Choice/2 < UNTRANSLATED
+> CONTEXT: Map044/events/1/pages/0/21/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「酒場にいた冒険者の連中は皆、
+　西に建つ封印の塔に行ったよ」
+> CONTEXT: Map140/events/1/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何でも淫女王を倒して、一山当てるとか何とか。
+　おこぼれ狙いの連中も、かなりの数いたね」
+> CONTEXT: Map140/events/1/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まぁ天啓を受けてない冒険者が殆どだったけど、
+　あれだけの人数が淫女王の討伐に向かったんだ。
+　もう片付いてるんじゃないかな？」
+> CONTEXT: Map140/events/1/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ところでお二人さんは何か飲んでいくかい？
+　ちなみにうちは、宿泊もやってるよ」
+> CONTEXT: Map140/events/1/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「残念だが、魔貨が足りないよ」
+> CONTEXT: Map140/events/1/pages/0/48/Dialogue < UNTRANSLATED
+> CONTEXT: Map131/events/1/pages/0/41/Dialogue < UNTRANSLATED
+> CONTEXT: Map117/events/1/pages/0/83/Dialogue < UNTRANSLATED
+> CONTEXT: Map108/events/1/pages/0/66/Dialogue < UNTRANSLATED
+> CONTEXT: Map100/events/1/pages/0/59/Dialogue < UNTRANSLATED
+> CONTEXT: Map081/events/1/pages/0/76/Dialogue < UNTRANSLATED
+> CONTEXT: Map069/events/1/pages/0/57/Dialogue < UNTRANSLATED
+> CONTEXT: Map044/events/1/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それじゃ、ゆっくり休んでいきな」
+> CONTEXT: Map140/events/1/pages/0/56/Dialogue < UNTRANSLATED
+> CONTEXT: Map131/events/1/pages/0/49/Dialogue < UNTRANSLATED
+> CONTEXT: Map117/events/1/pages/0/91/Dialogue < UNTRANSLATED
+> CONTEXT: Map108/events/1/pages/0/74/Dialogue < UNTRANSLATED
+> CONTEXT: Map100/events/1/pages/0/67/Dialogue < UNTRANSLATED
+> CONTEXT: Map081/events/1/pages/0/84/Dialogue < UNTRANSLATED
+> CONTEXT: Map069/events/1/pages/0/65/Dialogue < UNTRANSLATED
+> CONTEXT: Map044/events/1/pages/0/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まぁ、ゆっくりしていきな」
+> CONTEXT: Map140/events/1/pages/0/75/Dialogue < UNTRANSLATED
+> CONTEXT: Map131/events/1/pages/0/68/Dialogue < UNTRANSLATED
+> CONTEXT: Map117/events/1/pages/0/110/Dialogue < UNTRANSLATED
+> CONTEXT: Map108/events/1/pages/0/93/Dialogue < UNTRANSLATED
+> CONTEXT: Map100/events/1/pages/0/86/Dialogue < UNTRANSLATED
+> CONTEXT: Map081/events/1/pages/0/103/Dialogue < UNTRANSLATED
+> CONTEXT: Map069/events/1/pages/0/84/Dialogue < UNTRANSLATED
+> CONTEXT: Map044/events/1/pages/0/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふむ、君の受けられるような依頼は……今はないな」
+> CONTEXT: Map140/events/1/pages/2/344/Dialogue < UNTRANSLATED
+> CONTEXT: Map131/events/1/pages/2/344/Dialogue < UNTRANSLATED
+> CONTEXT: Map117/events/1/pages/2/344/Dialogue < UNTRANSLATED
+> CONTEXT: Map108/events/1/pages/2/344/Dialogue < UNTRANSLATED
+> CONTEXT: Map100/events/1/pages/2/344/Dialogue < UNTRANSLATED
+> CONTEXT: Map081/events/1/pages/2/344/Dialogue < UNTRANSLATED
+> CONTEXT: Map069/events/1/pages/2/346/Dialogue < UNTRANSLATED
+> CONTEXT: Map044/events/1/pages/2/344/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+高級そうなワインが綺麗に収納されている。
+> CONTEXT: Map140/events/10/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map140/events/11/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map140/events/18/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+美しい花が陽の光を浴びている。
+> CONTEXT: Map140/events/12/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+鉢植えの植物が陽の光を浴びている。
+> CONTEXT: Map140/events/13/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map140/events/14/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔法に関する入門書がずらりと並んでいる。
+> CONTEXT: Map140/events/15/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map140/events/16/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map140/events/17/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+古いピアノだが、頻繁に手入れされているようだ。
+> CONTEXT: Map140/events/19/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,39 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+下水道　上層
+> CONTEXT: Map101/display_name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]それにしても、薄暗くて…汚いところだね\\C[29]」
+> CONTEXT: Map101/events/19/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]そりゃ下水道だからな。
+　しかもどうやら、先客がいるようだな\\C[1]」
+> CONTEXT: Map101/events/19/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]でも、上級淫魔はいないんでしょう？\\C[29]」
+> CONTEXT: Map101/events/19/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ええ、感じるのは下級淫魔だけですわ。
+　ですので、その点は安心ですわね」
+> CONTEXT: Map101/events/19/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]そっかぁ、それじゃ早く、目的の指輪を探そうよ。
+　暗くてジメジメしてる所に留まるのは、嫌だよぉ\\C[29]」
+> CONTEXT: Map101/events/19/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING

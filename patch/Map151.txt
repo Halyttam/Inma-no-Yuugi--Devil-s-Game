@@ -1,0 +1,329 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\C[1]「\\C[0]これで…戻ると良いのだが\\C[1]」
+> CONTEXT: Map151/events/1/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]そっそんな…私…何てことを…うぁ…\\C[29]」
+> CONTEXT: Map151/events/1/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]\\N[6]が気に病む必要はない。
+　全てはアニスに操られてやったこと、
+　…そうだろ？\\C[1]」
+> CONTEXT: Map151/events/1/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]えっとっ…それは…一部…だけ…かな…でっでも、
+　\\N[1]…気をつかってくれてありがとう。
+　そうだね…私もこのままじゃ終われないよ！\\C[29]」
+> CONTEXT: Map151/events/1/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]絶対に、アニスの計画を止めて見せるから！\\C[29]」
+> CONTEXT: Map151/events/1/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…二人とも、私の声が聞こえます？」
+> CONTEXT: Map151/events/1/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]この声は…ナタリアか！\\C[1]」
+> CONTEXT: Map151/events/1/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]私も聞こえるよ！\\C[29]」
+> CONTEXT: Map151/events/1/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それは良かったですわ。
+　あまり時間もありませんし、手短に伝えますわ」
+> CONTEXT: Map151/events/1/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まず\\N[6]ちゃんにはまだ、
+　淫魔化の呪いがかかっていますわ」
+> CONTEXT: Map151/events/1/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]そっ…そんなぁ…でも今、
+　元に戻って…\\C[29]」
+> CONTEXT: Map151/events/1/pages/0/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「残念ながら今の絶頂により、
+　一時的に沈静化しているだけで、
+　根本的な解決にはなっていませんわ」
+> CONTEXT: Map151/events/1/pages/0/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「今のままでは、
+　\\N[6]ちゃんは再び淫気に触れるだけで、
+　簡単に淫魔化してしまいますわ」
+> CONTEXT: Map151/events/1/pages/0/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]何とかならないのか？
+　そうだ！　天使の力なら…\\C[1]」
+> CONTEXT: Map151/events/1/pages/0/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「確かに天使の力なら、
+　ある程度は押さえることは可能ですわ」
+> CONTEXT: Map151/events/1/pages/0/95/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でも完全に解呪するには、
+　呪いをかけた本人…アニスを倒す以外存在しませんわ」
+> CONTEXT: Map151/events/1/pages/0/98/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]淫女王を…倒す…か\\C[1]」
+> CONTEXT: Map151/events/1/pages/0/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もちろん淫女王アニスは、
+　私が責任をもって再び浄化しますので」
+> CONTEXT: Map151/events/1/pages/0/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\N[1]たちは、
+　普段通りに過ごしていただいて構いませんわ」
+> CONTEXT: Map151/events/1/pages/0/118/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ただその際に、\\N[6]ちゃんはなるべく淫魔には、
+　近づかないようにと…今回はそれを伝えに来ましたの」
+> CONTEXT: Map151/events/1/pages/0/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]あの…その淫女王を倒すの、
+　私も協力させてもらえませんか？\\C[29]」
+> CONTEXT: Map151/events/1/pages/0/132/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「理由を、…聞かせてくれますわよね？」
+> CONTEXT: Map151/events/1/pages/0/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]私…やっぱりやられっぱなしというのは、
+　性に合わないよ\\C[29]」
+> CONTEXT: Map151/events/1/pages/0/149/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]そりゃこんな状態の私が、
+　淫魔相手に何が出来るかわからないけど、
+　最悪何も出来ないかもしれない…ね\\C[29]」
+> CONTEXT: Map151/events/1/pages/0/152/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]それでも、やれるだけのことは、
+　やりたいんです！　黙って泣き寝入りなんて絶対に嫌！\\C[29]」
+> CONTEXT: Map151/events/1/pages/0/157/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…決意は固いようですわね。
+　わかりましたわ。淫魔化の呪いなら、
+　今の私の力でも、ある程度は押さえられますし」
+> CONTEXT: Map151/events/1/pages/0/166/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「流石に上級淫魔や淫女王の淫気を打ち消すのは無理ですが、
+　補助的な役目ぐらいは十分に出来ますよ。
+　それで…\\N[1]はどうしますの？」
+> CONTEXT: Map151/events/1/pages/0/170/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]まぁ俺も…仲間の\\N[6]を好き勝手されて、
+　黙って見ていられる程、人間出来てないからな\\C[1]」
+> CONTEXT: Map151/events/1/pages/0/181/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どうやら、決まりのようですわね」
+> CONTEXT: Map151/events/1/pages/0/190/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「わかりましたわ。これからは私が、
+　貴方たち二人を導く天使となりますわ」
+> CONTEXT: Map151/events/1/pages/0/192/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]それは…どういう？\\C[1]」
+> CONTEXT: Map151/events/1/pages/0/203/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「強力な淫魔の気配を察知したり、
+　\\N[6]ちゃんの呪いを押さえたりを行いますわ」
+> CONTEXT: Map151/events/1/pages/0/211/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もっとも、実体化は出来ませんので、
+　ＳＰを使用してもやれることには限りがありますが」
+> CONTEXT: Map151/events/1/pages/0/214/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そうですわね…この感じなら、
+　次の目的地はここから少し南にある、山間の宿場町ですわ」
+> CONTEXT: Map151/events/1/pages/0/217/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]もしかして、そこに淫女王がいるの？\\C[29]」
+> CONTEXT: Map151/events/1/pages/0/226/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そうかもしれませんし、そうじゃないかもしれませんわ。
+　強力な淫気には間違いありませんが、
+　今の私の力は、そこまで万能ではありませんしね」
+> CONTEXT: Map151/events/1/pages/0/234/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]どちらにせよ、そこに上級淫魔がいるなら、
+　アニスの痕跡ぐらい辿れるはず…か\\C[1]」
+> CONTEXT: Map151/events/1/pages/0/244/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そういうことですわ。
+　何より淫魔の暴挙を黙ってみていることなど、出来ませんわ。
+　では善は急げと言いますし、早速出発しますわよ」
+> CONTEXT: Map151/events/1/pages/0/253/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そうそう、これからはアイテムの冒険者カードを使えば、
+　いつでも私と会話したり、
+　\\N[6]ちゃんのパーティー編成が行えますわ」
+> CONTEXT: Map151/events/1/pages/0/257/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「これから長い付き合いになりますし、
+　お二人とも、よろしくお願いしますわね」
+> CONTEXT: Map151/events/1/pages/0/262/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]こう見えてボクは淫女王だし、
+　色々忙しいんだよ\\C[10]」
+> CONTEXT: Map151/events/2/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]じゃぁね。
+　\\N[1]はここで死ぬまで\\N[6]ちゃん相手に、
+　ヘコヘコ腰を振ってると良いよ\\I[140]\\C[10]」
+> CONTEXT: Map151/events/2/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+声は聞こえなくなった…。
+> CONTEXT: Map151/events/2/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map007/events/7/pages/0/133/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]あはぁ…久し振りだね。\\N[1]\\C[29]」
+> CONTEXT: Map151/events/2/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]…\\N[6]。こっ…この感じは、
+　お前…まさか本当に淫魔に！\\C[1]」
+> CONTEXT: Map151/events/2/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]そんな悲しそうな顔をしないでよ。
+　淫女王様の力で立派な淫魔にしてもらって、
+　私…生まれ変わった気分なんだから\\I[140]\\C[29]」
+> CONTEXT: Map151/events/2/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]だから\\N[1]も、
+　私と同じように身も心も堕ちちゃってよ\\I[140]\\C[29]」
+> CONTEXT: Map151/events/2/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING

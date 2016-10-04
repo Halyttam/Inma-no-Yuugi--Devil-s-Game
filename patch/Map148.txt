@@ -1,0 +1,277 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+調教部屋　１Ｆ
+> CONTEXT: Map148/display_name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+用途不明の薬品がぎっしりと詰め込まれている。
+> CONTEXT: Map148/events/4/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map148/events/5/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map148/events/10/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map148/events/11/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+棚の中には殆ど空になった瓶が転がっている。
+> CONTEXT: Map148/events/6/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map148/events/7/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map148/events/8/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map148/events/9/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「う…あぁ…もう…出ないぃ…\\I[140]」
+> CONTEXT: Map148/events/16/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「領主さみゃぁ…駄目でしゅぅ…イっちゃいましゅぅ…\\I[140]」
+> CONTEXT: Map148/events/16/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やめてぇ……いやぁ…やっぱりやめない…でぇ…\\I[140]」
+> CONTEXT: Map148/events/16/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もう……知ってる情報…全て…しゃべりましゅたぁ…\\I[140]」
+> CONTEXT: Map148/events/16/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…この強烈な淫気は！
+　姿だけは限りなく人間に近いですが、
+　上級淫魔に間違いありませんわ！」
+> CONTEXT: Map148/events/16/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]全く…騒がしい客人じゃのう。
+　妾…領主鈴菜に何か用かのう？\\C[10]」
+> CONTEXT: Map148/events/16/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]貴女がこの島の領主ね！
+　その人たちを、今すぐ解放してよ！\\C[29]」
+> CONTEXT: Map148/events/16/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]ほほほ、解放しろじゃと？
+　お主ら…何か勘違いしておらぬか？\\C[10]」
+> CONTEXT: Map148/events/16/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]えっ…勘違い？
+　でも…そこにいる人たちは、
+　皆淫魔に搾り取られて…\\C[29]」
+> CONTEXT: Map148/events/16/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]こ奴らは全員望んでこの館に来た。
+　そして、妾に自分の子種を差し出すから、
+　一生飼い殺して欲しいと要求してきたのじゃぞ？\\C[10]」
+> CONTEXT: Map148/events/16/pages/0/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]もちろん、
+　館の女たちを使い、多少の奉仕はしたが、
+　それでもカラダまでは重ねておらぬぞ？\\C[10]」
+> CONTEXT: Map148/events/16/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]それに妾が今の領主になった後、
+　魔物と淫魔の被害は目に見えて減っておる。
+　どうじゃ？　それでも妾に罪があると思うのか？\\C[10]」
+> CONTEXT: Map148/events/16/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]あうぅ…そっ…それは…その…\\C[29]」
+> CONTEXT: Map148/events/16/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「二人とも…騙されてはいけませんわ！
+　この館に充満する強烈な淫気…並みの人間なら、
+　ただその場にいるだけで、快楽に蝕まれてしまいますわ！」
+> CONTEXT: Map148/events/16/pages/0/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そう…たとえ直接手をくださなくとも…ですわ！
+　それに月に一度の町の男の勧誘行為、
+　貴女、今までいったい何人の男を吸い尽くしましたの！」
+> CONTEXT: Map148/events/16/pages/0/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]むっ…天使がおったのか。
+　これでは妾がいくら口先で丸め込んでも、
+　無駄かもしれぬのう\\C[10]」
+> CONTEXT: Map148/events/16/pages/0/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]いや…待て…。
+　人間の男にエルフの女…それに天使の加護…これは\\C[10]」
+> CONTEXT: Map148/events/16/pages/0/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]ほほほほっ！
+　待ち望んでおった獲物が、
+　向こうから来おったわ！\\C[10]」
+> CONTEXT: Map148/events/16/pages/0/95/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]人間の領主の真似事も、
+　そろそろ飽きてきたところじゃ\\C[10]」
+> CONTEXT: Map148/events/16/pages/0/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]それに必要な情報も、
+　あらかた聞き出せたしのう。
+　これ以上は、質の悪い餌にしかならぬわ\\C[10]」
+> CONTEXT: Map148/events/16/pages/0/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]何より噂のお主たちを堕とせば、
+　淫女王様も、さぞお喜びになることじゃろう！\\C[10]」
+> CONTEXT: Map148/events/16/pages/0/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]館の下級淫魔共では相手にはならぬようじゃが、
+　妾なら…どうかのう！\\C[10]」
+> CONTEXT: Map148/events/16/pages/0/113/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「やりましたわね。\\N[1]。
+　これで快楽漬けにされていた人たちも、
+　ようやく解放されますわ」
+> CONTEXT: Map148/events/16/pages/1/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もっとも、既に吸い殺された方々もいますし、
+　ここまで堕とされて元の状態に戻るかまでは…」
+> CONTEXT: Map148/events/16/pages/1/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「とにかく、お二人とも良く頑張りましたわね。
+　あとの処理は教会関係者に引き継がせますわ」
+> CONTEXT: Map148/events/16/pages/1/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]そっか…いよいよ、
+　私の故郷に帰るんだね\\C[29]」
+> CONTEXT: Map148/events/16/pages/1/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]\\N[6]、大丈夫だって。
+　俺も、そしてナタリアも一緒なんだ\\C[1]」
+> CONTEXT: Map148/events/16/pages/1/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]きゃはっ、\\N[1]、
+　心配してくれて…ありがとう\\C[29]」
+> CONTEXT: Map148/events/16/pages/1/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]おっおぅ、わかってるなる…良いけどよ\\C[1]」
+> CONTEXT: Map148/events/16/pages/1/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]そういえば南の大陸には、
+　大聖堂があったね。確か教会の本部だっけ？\\C[29]」
+> CONTEXT: Map148/events/16/pages/1/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ええ、今まで通った村や町の教会は支部ですので。
+　ですので、もし私が現界するとしたら、
+　本部である大聖堂に間違いありませんわ」
+> CONTEXT: Map148/events/16/pages/1/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「その時こそ、お二人は本当の意味で、
+　役目から解放されるでしょうね」
+> CONTEXT: Map148/events/16/pages/1/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]でも…淫魔の脅威がなくなるのは良いけど、
+　もうすぐお別れだと思うと、何だか少し寂しいね\\C[29]」
+> CONTEXT: Map148/events/16/pages/1/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ええ、私もお二人と別れるのは…ですわ。
+　ですが、まだ現界まではもう少し時間が必要ですし、
+　最後まで頑張りますわよ」
+> CONTEXT: Map148/events/16/pages/1/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]そうだな。
+　そろそろ船も出られるだろうし、
+　遅れないうちに、船着場に向かうとするか\\C[1]」
+> CONTEXT: Map148/events/16/pages/1/58/Dialogue < UNTRANSLATED
+
+> END STRING

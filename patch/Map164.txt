@@ -1,0 +1,39 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+封印の塔　２Ｆ
+> CONTEXT: Map164/display_name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ひゃっ…ひゃいぃ…わかりましゅた…淫女王しゃまぁ\\I[140]」
+> CONTEXT: Map164/events/21/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「淫女王しゃまのためにぃ…\\I[140]
+　僕…いっぱい…いっぱい魔力送りましゅぅ\\I[140]」
+> CONTEXT: Map164/events/21/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「だからぁ…もっと気持ち良くしてくだしゃぁい\\I[140]
+　人間の裏切りしぇっくしゅ…気持ち良いのおおん\\I[140]」
+> CONTEXT: Map164/events/21/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「イっ…イかせてぇ…もう…アタシも淫魔にしてぇ\\I[140]」
+> CONTEXT: Map164/events/22/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「魔力を送るためだけにぃ…\\I[140]
+　なっ…生殺しは…嫌ぁ…\\I[140]」
+> CONTEXT: Map164/events/22/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING

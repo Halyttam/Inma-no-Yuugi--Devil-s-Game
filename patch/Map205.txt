@@ -1,0 +1,101 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「あーぁ…オイラもカード欲しいなぁ」
+> CONTEXT: Map205/events/22/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/22/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「外から遊びに来る友達、皆持ってるんだぜ？
+　オイラも欲しいよ」
+> CONTEXT: Map205/events/22/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/22/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「人気ないのでも良いから、
+　誰か譲ってくれないかなぁ」
+> CONTEXT: Map205/events/22/pages/0/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/22/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うーん…妻のメイド姿はそそるが、
+　いい加減マンネリ気味なんだよな」
+> CONTEXT: Map205/events/23/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map205/events/23/pages/1/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/23/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/23/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そういえば…この間検診を受けに行った時に、
+　診療所で見たナースは可愛かったなぁ」
+> CONTEXT: Map205/events/23/pages/0/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map205/events/23/pages/1/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/23/pages/0/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/23/pages/1/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふむ…妻と大人のお医者さんごっこ……アリだな！」
+> CONTEXT: Map205/events/23/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/23/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「っていかんいかん！
+　今は畑仕事に精を出さなければ！」
+> CONTEXT: Map205/events/23/pages/0/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map205/events/23/pages/1/15/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/23/pages/0/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/23/pages/1/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふむ…妻と大人のお医者さんごっこ。
+　さらにオプションとして淫魔化プレイ……アリだな！」
+> CONTEXT: Map205/events/23/pages/1/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/23/pages/1/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おっと\\N[1]じゃないか。
+　山奥の村にようこそ…って、今さら言うことでもないか」
+> CONTEXT: Map205/events/24/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/24/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「最近新しい魔物…淫魔が現れたとか、
+　そういう噂もあるけど、
+　この村はいつも通り平和そのものだよ」
+> CONTEXT: Map205/events/24/pages/0/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/24/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「冒険者ギルドで依頼を受けるなり、
+　教会でお祈りをするなり、
+　\\N[1]の自由に行動すると良いよ」
+> CONTEXT: Map205/events/24/pages/0/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/24/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「しかしこうも暇だと……あくびが…ふあぁ～」
+> CONTEXT: Map205/events/24/pages/0/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/24/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING

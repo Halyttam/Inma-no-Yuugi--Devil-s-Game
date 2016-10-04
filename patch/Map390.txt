@@ -1,0 +1,466 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+天界の門
+> CONTEXT: Map390/display_name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どうやら、貴方で最後のようですわね。
+　今から私が言う質問に、正直に答えるのですわ」
+> CONTEXT: Map390/events/1/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それでは、最初の質問。
+　貴方の名前を教えて欲しいのですわ」
+> CONTEXT: Map390/events/1/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「なるほど、貴方の名前は\\N[1]ですのね？」
+> CONTEXT: Map390/events/1/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そう
+> CONTEXT: Map390/events/1/pages/0/35/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+違う
+> CONTEXT: Map390/events/1/pages/0/35/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「正直に答えてくれて、ありがとうですわ。
+　それでは、次の質問に入りますわよ」
+> CONTEXT: Map390/events/1/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「えっ？　ああもう、また書き直しですわ！
+　それでは、本当の名前は何ですの？」
+> CONTEXT: Map390/events/1/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\N[1]は、それなりに名の知れた、
+　ベテラン冒険者ですわ」
+> CONTEXT: Map390/events/1/pages/0/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ある日町の近くで、野盗の集団に襲われましたわ。
+　多勢に無勢、まともに戦っても勝てそうにありませんの。
+　そんな状況で\\N[1]はどうやって切り抜けますの？」
+> CONTEXT: Map390/events/1/pages/0/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+助けを呼び、守りに徹する
+> CONTEXT: Map390/events/1/pages/0/92/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+様々な道具を使い撹乱して戦う
+> CONTEXT: Map390/events/1/pages/0/92/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+旅の仲間と協力し戦う
+> CONTEXT: Map390/events/1/pages/0/92/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+とても敵わないので逃げる
+> CONTEXT: Map390/events/1/pages/0/92/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「確かに町から近いですし、
+　援軍が駆けつけないほうが、おかしいですわ。
+　時には守りに徹するのは、賢い戦い方ですわね」
+> CONTEXT: Map390/events/1/pages/0/94/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「確かに冒険者は危険と隣り合わせですわ。
+　それ用の道具は持っていて当然ですわね」
+> CONTEXT: Map390/events/1/pages/0/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「煙幕で撹乱するか、体力が減っても回復薬で補えば、
+　たとえ数では不利だとしても、十分に勝利出来ますわね」
+> CONTEXT: Map390/events/1/pages/0/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「確かに一人旅だとは言っていませんし、
+　仲間がいれば連携次第で、数の不利を克服出来ますわ」
+> CONTEXT: Map390/events/1/pages/0/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「賢い冒険者でしたら、時には逃げることも必要ですわね。
+　命あっての物種ですわ」
+> CONTEXT: Map390/events/1/pages/0/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それでは、次の質問ですわ」
+> CONTEXT: Map390/events/1/pages/0/122/Dialogue < UNTRANSLATED
+> CONTEXT: Map390/events/1/pages/0/153/Dialogue < UNTRANSLATED
+> CONTEXT: Map390/events/1/pages/0/184/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\N[1]は成り行きで美しい娼婦と、
+　カラダを交わらせることになりましたの。
+　最初の一手はどのようにしますの？」
+> CONTEXT: Map390/events/1/pages/0/128/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+胸をじっくり揉む
+> CONTEXT: Map390/events/1/pages/0/132/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+尻を優しく撫でる
+> CONTEXT: Map390/events/1/pages/0/132/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+膣にゆっくり挿入
+> CONTEXT: Map390/events/1/pages/0/132/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+唇を素早く奪う
+> CONTEXT: Map390/events/1/pages/0/132/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「なるほど…\\N[1]が女性のカラダで何処を見ているか、
+　少しわかったような気がしますわ」
+> CONTEXT: Map390/events/1/pages/0/150/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「では、今日は差し迫った依頼もなく、
+　久しぶりの一日休みですわ。
+　\\N[1]はどのように過ごしますの？」
+> CONTEXT: Map390/events/1/pages/0/159/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何処かに遊びに行く
+> CONTEXT: Map390/events/1/pages/0/163/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+本を読んでゆっくりする
+> CONTEXT: Map390/events/1/pages/0/163/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「なるほど…\\N[1]は積極的に、
+　カラダを動かすのが好きなようですわね」
+> CONTEXT: Map390/events/1/pages/0/165/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「なるほど…一日休みということで、
+　あえて行動は起こさず、
+　日頃の疲れを取ることも必要ですわよね」
+> CONTEXT: Map390/events/1/pages/0/174/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\N[1]が自分でこれは！という、
+　長所はありますか？」
+> CONTEXT: Map390/events/1/pages/0/189/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どんな時でも冷静
+> CONTEXT: Map390/events/1/pages/0/192/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+とても忍耐強い
+> CONTEXT: Map390/events/1/pages/0/192/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+かなり疲れにくい
+> CONTEXT: Map390/events/1/pages/0/192/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+思いつかない
+> CONTEXT: Map390/events/1/pages/0/192/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「なるほど…それでは、最後の質問ですわ」
+> CONTEXT: Map390/events/1/pages/0/194/Dialogue < UNTRANSLATED
+> CONTEXT: Map390/events/1/pages/0/199/Dialogue < UNTRANSLATED
+> CONTEXT: Map390/events/1/pages/0/204/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ええと、必ず何かありますので、
+　どうか気を落とさないでくださいね。
+　そっ…それでは、最後の質問ですわ」
+> CONTEXT: Map390/events/1/pages/0/210/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もし\\N[1]が一人の冒険者として、
+　私…いえ、天使に祈る機会がありましたら、
+　どんなことを願いますの？」
+> CONTEXT: Map390/events/1/pages/0/221/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+強敵への勝利
+> CONTEXT: Map390/events/1/pages/0/225/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+仲間の身の安全
+> CONTEXT: Map390/events/1/pages/0/225/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+とにかく生きのびる
+> CONTEXT: Map390/events/1/pages/0/225/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+より多くの利益
+> CONTEXT: Map390/events/1/pages/0/225/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「確かに、強力な魔物への勝利なくして、
+　冒険者は語れませんわね」
+> CONTEXT: Map390/events/1/pages/0/227/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「確かに、パーティーを組んでいるのなら、
+　仲間と自分…常に両方に気を配るべきですわね」
+> CONTEXT: Map390/events/1/pages/0/233/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「危険な依頼を受けて、
+　万一失敗するのは仕方ないといえ、
+　命まで失っては再挑戦すら出来ませんからね」
+> CONTEXT: Map390/events/1/pages/0/239/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「一度の依頼でより多くの利益を得たいのは、
+　冒険者として当たり前のことですわね」
+> CONTEXT: Map390/events/1/pages/0/246/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「以上で、質問は終わりですわ。
+　\\N[1]のこと…少しわかったような気がしますわね」
+> CONTEXT: Map390/events/1/pages/0/252/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ちなみに今の答えで、間違いはありませんわよね？」
+> CONTEXT: Map390/events/1/pages/0/255/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+間違いない
+> CONTEXT: Map390/events/1/pages/0/257/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+間違えた
+> CONTEXT: Map390/events/1/pages/0/257/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ほっ…それは良かったですわ」
+> CONTEXT: Map390/events/1/pages/0/260/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「えっ？　ああもう、また記入し直しですわ！
+　そっ…それでは、もう一度質問を繰り返しますわよ」
+> CONTEXT: Map390/events/1/pages/0/266/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ふぅ…ようやく質問が全て終わりましたわ」
+> CONTEXT: Map390/events/1/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それで\\N[1]は、どうして私がこのような質問をしたのか、
+　気になりますわよね？」
+> CONTEXT: Map390/events/1/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+気になる
+> CONTEXT: Map390/events/1/pages/1/7/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+気にならない
+> CONTEXT: Map390/events/1/pages/1/7/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そっ…そうですの？　それはともかくとして…！」
+> CONTEXT: Map390/events/1/pages/1/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もうすぐ人間界に、
+　二百年前と同じように大きな災厄が訪れますわ。
+　それで私は、力ある人間たちに警告を伝えてきましたの」
+> CONTEXT: Map390/events/1/pages/1/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「災厄の名は【\\C[10]淫女王アニス\\C[0]】」
+> CONTEXT: Map390/events/1/pages/1/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「彼女の率いる淫魔という種族は、
+　人間の命を性行為によって吸い取り、
+　あらゆる攻撃を無効化する、厄介な存在ですわ」
+> CONTEXT: Map390/events/1/pages/1/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「淫魔を倒すには、
+　性的絶頂以外の手段は存在しませんわ」
+> CONTEXT: Map390/events/1/pages/1/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「しかしもし淫魔との戦いに敗れたのが男なら、
+　呪縛により身動きを封じられたまま、
+　最悪吸い殺されてしまい」
+> CONTEXT: Map390/events/1/pages/1/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「女なら新たな淫魔に変えられてしまうのですわ。
+　しかし双方とも処置が早ければ、
+　元に戻すことは十分に可能ですわ」
+> CONTEXT: Map390/events/1/pages/1/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\N[1]の役目は出来るだけ淫魔の活動を牽制し、
+　時間を稼ぐことですわ。そうすればもう一度私が…」
+> CONTEXT: Map390/events/1/pages/1/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ん…どうやらここまでのようですわね。
+　時間がありませんので、…これを」
+> CONTEXT: Map390/events/1/pages/1/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「淫魔との戦いに有効な、
+　アイテムの詰め合わせですわ。
+　もっとも…あまり数は用意出来ませんでしたが」
+> CONTEXT: Map390/events/1/pages/1/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それでは\\N[1]、淫魔の誘惑には、
+　くれぐれも気をつけるのですわよ」
+> CONTEXT: Map390/events/1/pages/1/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私はいつでも、迷える子羊たちを見守っていますわ」
+> CONTEXT: Map390/events/1/pages/1/66/Dialogue < UNTRANSLATED
+
+> END STRING

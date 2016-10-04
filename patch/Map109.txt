@@ -1,0 +1,74 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「そう言えばアイツらは今、
+　何処でどうしているやら」
+> CONTEXT: Map109/events/4/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「俺と別れてから全く連絡がとれないが、
+　無事でやっていれば良いが」
+> CONTEXT: Map109/events/4/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「風のうわさでは淫魔に襲われたと聞いたが、
+　まさか…アイツらに限って…な」
+> CONTEXT: Map109/events/4/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「このところ、夫は何かに悩んでいるようで、
+　私が声をかけても上の空で…」
+> CONTEXT: Map109/events/5/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それが朝や昼だけなら良いのですが、
+　夜にまで影響すると…正直…その」
+> CONTEXT: Map109/events/5/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ええもう、私…性的欲求不満が溜まって、
+　ベッドの上に無理やり押し倒してしまおうかと、
+　毎夜悶々としちゃうのですよ！」
+> CONTEXT: Map109/events/5/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「はぁ…もう、どうやって夫の気を惹こうかしら？」
+> CONTEXT: Map109/events/5/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+航海に必要な道具が、色々としまわれている。
+> CONTEXT: Map109/events/6/pages/1/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map109/events/7/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+防寒性の高い服がしまわれている。
+> CONTEXT: Map109/events/8/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map109/events/9/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map107/events/8/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map107/events/9/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+料理器具などが綺麗に並べられている。
+> CONTEXT: Map109/events/11/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map109/events/12/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map107/events/12/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map107/events/13/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING

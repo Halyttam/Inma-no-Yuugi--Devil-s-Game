@@ -1,0 +1,91 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「さぁさぁ！　寄ってらっしゃい見てらっしゃい！」
+> CONTEXT: Map175/events/8/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「本日の目玉商品は、何とあの伝説に登場するエルフだ！
+　しかも女だよ！」
+> CONTEXT: Map175/events/8/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「その美貌と白く柔らかな肌触りは！
+　まさに物語の中から飛び出してきたかのようだ！」
+> CONTEXT: Map175/events/8/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まぁ多少若すぎて非力なのは、ご愛嬌というこった！」
+> CONTEXT: Map175/events/8/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どうだい！　誰がエルフのご主人様になるのかい！
+　さぁさぁ！　まずは十万魔貨からだ！」
+> CONTEXT: Map175/events/8/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どうする？　エルフだぜ？　ここは買うか？」
+> CONTEXT: Map175/events/8/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ははっ！　冗談だろ？
+　いくらエルフと言っても、まだガキじゃねえか。
+　こんなのいくら高かろうが、一万魔貨が良いとこだぜ！」
+> CONTEXT: Map175/events/8/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あの奴隷商人の奴…ふっかけやがって…」
+> CONTEXT: Map175/events/8/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あんな小柄なカラダでは、
+　労働力としては期待出来ないか。
+　それに娼婦として扱うにも不向き…ふむ」
+> CONTEXT: Map175/events/8/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「エルフは人間と比べて成長が遅いんですよ？
+　重労働が可能な体格になるまで、
+　いったい何年かかるやら」
+> CONTEXT: Map175/events/8/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「息子の夜伽の練習相手に使うにしても、
+　少々穴がキツすぎるのう」
+> CONTEXT: Map175/events/8/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何より、エルフという種族は皆、
+　我々人間を憎んでいますからね」
+> CONTEXT: Map175/events/8/pages/0/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いくら裸になったとはいえ、いつ王子の寝首をかくか。
+　恐らく奴隷として扱うには、
+　もっとも不向きな種族でしょう」
+> CONTEXT: Map175/events/8/pages/0/61/Dialogue < UNTRANSLATED
+
+> END STRING

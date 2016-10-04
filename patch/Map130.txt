@@ -1,0 +1,178 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\C[29]「\\C[0]そんな…！　私の故郷が…！\\C[29]」
+> CONTEXT: Map130/events/23/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ぐぬぬ…流石に年かのう。結界の維持は堪えるわい！
+　しかし、ここを突破されるわけには…！」
+> CONTEXT: Map130/events/23/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]どうした？
+　ここを破られれば、もう後がないぞ？
+　エルフの誇りとはこの程度か？\\C[10]」
+> CONTEXT: Map130/events/23/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「マリーダ…何故じゃ…何故お主のような優秀な魔法使いが！
+　エルフの村を…故郷を滅ぼそうとする！」
+> CONTEXT: Map130/events/23/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]それは貴様も知って……んっ？\\C[10]」
+> CONTEXT: Map130/events/23/pages/0/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]人間とエルフの冒険者か。
+　ふむ…なるほど…お前たちがそうか\\C[10]」
+> CONTEXT: Map130/events/23/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]そうだな。少し昔話をしてやろう。
+　そこのエルフ…\\N[6]も、
+　あながち無関係ではないことだしな\\C[10]」
+> CONTEXT: Map130/events/23/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]あれは、二百年程昔になるか。
+　その頃のアタシは、
+　村の中では並ぶ者のいない魔法使いだった\\C[10]」
+> CONTEXT: Map130/events/23/pages/0/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]それじゃ、森の入口の奴隷商人たちはやっぱり…！\\C[29]」
+> CONTEXT: Map130/events/23/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]そうだ。アタシが吸い殺した。
+　たとえ別人だとしても奴隷商人には違いない。
+　それに、\\N[6]にも縁のある人間たちだろう？\\C[10]」
+> CONTEXT: Map130/events/23/pages/1/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]どうして！　私の過去を…そんなに詳しく…！\\C[29]」
+> CONTEXT: Map130/events/23/pages/1/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]淫女王様の障害となり得る唯一の存在、
+　それが\\N[1]と\\N[6]だからな\\C[10]」
+> CONTEXT: Map130/events/23/pages/1/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]さて\\N[1]、
+　貴様が相手なら、結界を破るまでの、
+　良い退屈しのぎになりそうだ\\C[10]」
+> CONTEXT: Map130/events/23/pages/1/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]「\\C[0]せいぜい楽しませてもらうぞ！\\C[10]」
+> CONTEXT: Map130/events/23/pages/1/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「\\N[6]…本当に良く帰ってきてくれたのう」
+> CONTEXT: Map130/events/23/pages/2/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]…おじいちゃん\\C[29]」
+> CONTEXT: Map130/events/23/pages/2/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それにそこの方も、
+　エルフの村を助けてくださり…ありがとうございますじゃ。
+　これからも、\\N[6]と仲良くしてあげてくだされ」
+> CONTEXT: Map130/events/23/pages/2/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]あっ…あぁ、もちろんだ\\C[1]」
+> CONTEXT: Map130/events/23/pages/2/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それでは二人とも、
+　わしらは今回の後処理があるので、
+　これで失礼させてもらうよ」
+> CONTEXT: Map130/events/23/pages/2/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「結界も張り直さねばならぬしのう。
+　もちろん、お主たちは問題なく通れるように取り計らうが、
+　今はこの状況じゃ、あまり歓迎してやれず、すまぬのう」
+> CONTEXT: Map130/events/23/pages/2/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それでは、何もない村じゃが、
+　ゆっくりしていくと良い」
+> CONTEXT: Map130/events/23/pages/2/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]…そう言えば、
+　今回はナタリアがやけに静かだったな\\C[1]」
+> CONTEXT: Map130/events/23/pages/2/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]ひょっとしたら、
+　今までのような精神体ではなくて、
+　もう現界したのかもしれないね\\C[29]」
+> CONTEXT: Map130/events/23/pages/2/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]ふむ、しかしマリーダの言葉が気になるな。
+　何故唯一の障害が俺たち二人なんだ？
+　現界したナタリアのほうが、ずっと厄介なはずだが\\C[1]」
+> CONTEXT: Map130/events/23/pages/2/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]う～ん…とにかく、
+　私にかけられてる加護は消えてないようだし、
+　一度大聖堂に様子を見に行ってみようよ\\C[29]」
+> CONTEXT: Map130/events/23/pages/2/66/Dialogue < UNTRANSLATED
+
+> END STRING

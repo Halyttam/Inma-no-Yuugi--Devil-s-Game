@@ -1,0 +1,12 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+調理室　１Ｆ
+> CONTEXT: Map145/display_name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+様々な調味料に混じって、得体の知れない薬が見える。
+> CONTEXT: Map145/events/9/pages/1/7/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,103 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「最近水を飲むたびに、
+　カラダが火照ってしょうがないのよね」
+> CONTEXT: Map087/events/5/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map087/events/5/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「町の皆も口には出さないけど、
+　アタシと同じような気持ちになったって言うし、
+　一体どうしちゃったのかしら？」
+> CONTEXT: Map087/events/5/pages/0/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map087/events/5/pages/1/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「えっ？　宿場町の水の源流は何処か？
+　確か…【花の泉】からだけど」
+> CONTEXT: Map087/events/5/pages/0/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map087/events/5/pages/1/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「東に一年中花が咲き乱れる、綺麗な森が広がってるの。
+　少し前までは、
+　町の外からの観光客が大勢訪れてたんだけどね」
+> CONTEXT: Map087/events/5/pages/0/16/Dialogue < UNTRANSLATED
+> CONTEXT: Map087/events/5/pages/1/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でも今は、そこにも淫魔が出没するようになったから、
+　観光客はもちろん、
+　町の人間も誰も近寄らなくなってるわ」
+> CONTEXT: Map087/events/5/pages/0/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map087/events/5/pages/1/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「カラダの火照りはなくなったけど、
+　この所ベッドの上の彼氏が不満気なのよね」
+> CONTEXT: Map087/events/5/pages/2/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どうやら私に責められるのが、
+　癖になっちゃったみたいよ」
+> CONTEXT: Map087/events/5/pages/2/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私もＳっ気が開花しちゃうし、
+　悪いことばかりじゃなかったってことね」
+> CONTEXT: Map087/events/5/pages/2/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+普段の生活で使用する、色々な作業着がしまわれている。
+> CONTEXT: Map087/events/6/pages/1/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map087/events/7/pages/1/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+木こりの技能書や、おいしい料理本などが並んでいる。
+> CONTEXT: Map087/events/8/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map087/events/9/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+良く手入れされている観葉植物だ。
+> CONTEXT: Map087/events/10/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+比較的新しい洋酒が収納されている。
+> CONTEXT: Map087/events/11/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+調味料やその他一式が揃っている。
+> CONTEXT: Map087/events/12/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+食器類が綺麗に収納されている。
+> CONTEXT: Map087/events/13/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map087/events/14/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING

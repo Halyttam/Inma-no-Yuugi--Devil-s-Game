@@ -1,0 +1,190 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「はいはい、今日は奴隷市は開かれてないよ。
+　次に開かれるのはある程度奴隷が集まったらだし、
+　一週間以上先じゃないかな？」
+> CONTEXT: Map199/events/32/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/32/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あと他の町じゃどうか知らないけど、
+　この魔法都市ではずっと昔から、奴隷販売は合法だよ。
+　そこの所を誤解しないでよね」
+> CONTEXT: Map199/events/32/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/32/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何しろ魔貨欲しさに、
+　親が子を売るというのもあるし、
+　孤児の売り買いなんて珍しくないからね」
+> CONTEXT: Map199/events/32/pages/0/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/32/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「町の外でどれだけ淫魔が暴れていても、
+　魔法都市にいる限りは安全です」
+> CONTEXT: Map199/events/43/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/43/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ええ、私たち魔法使いがその気になれば、
+　天使に頼らずとも、淫魔を倒すことが出来るのです」
+> CONTEXT: Map199/events/43/pages/0/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/43/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「きゃははは！　どうだー思い知ったか～。
+　魔法使い様の力の前では、
+　淫女王など敵じゃないのだ～」
+> CONTEXT: Map199/events/44/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/44/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あらあら、うちの娘ったらはしゃいじゃって…」
+> CONTEXT: Map199/events/45/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/45/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でもうちのダンナが封印の塔に向かった以上、
+　淫女王なんて倒して、すぐ帰って来るわ」
+> CONTEXT: Map199/events/45/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/45/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「二百年以上昔の淫女王なんて、
+　今の魔法使いたちの敵じゃないもの」
+> CONTEXT: Map199/events/45/pages/0/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/45/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「はぁ…今日も日差しが心地良いのう」
+> CONTEXT: Map199/events/46/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/46/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「外では凶悪な淫女王が侵攻を開始したとか聞くが、
+　この町は平和そのものじゃよ」
+> CONTEXT: Map199/events/46/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/46/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何しろ大結界がある限り淫魔たちは手も足も出せぬし、
+　この町の魔法使いは、世界屈指の使い手ばかりじゃ」
+> CONTEXT: Map199/events/46/pages/0/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/46/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「たとえ淫魔の大群が攻めてきても、
+　たちどころに殲滅出来るじゃろう」
+> CONTEXT: Map199/events/46/pages/0/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/46/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「しかも今はこの町の魔法使いだけではなく、
+　世界中の名だたる豪傑たちが、
+　封印の塔の淫女王を討ち果たすべく、戦っておるのじゃ」
+> CONTEXT: Map199/events/46/pages/0/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/46/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ほほほっ、わしら人間の勝利は、
+　もう決まったも同然じゃて」
+> CONTEXT: Map199/events/46/pages/0/21/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/46/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「敵は淫魔だけではなく、他の国の者もいますからね。
+　なので定期的に町の見回りをしています」
+> CONTEXT: Map199/events/47/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/47/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そう言えばここ最近、
+　外で淫魔に襲われたという行商人の生き残りが、
+　魔法都市に逃げ込んでくる事件が、少し多いような」
+> CONTEXT: Map199/events/47/pages/0/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/47/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「生き残ったのは何故か女子供ばかりでしたが、
+　彼女たちは目立った武器も携帯しておらず、
+　まさに着の身着のままでした」
+> CONTEXT: Map199/events/47/pages/0/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/47/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そんなか弱い彼女たちを疑うことなんて、
+　僕には…いえ、町の人たちにも出来ません！」
+> CONTEXT: Map199/events/47/pages/0/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/47/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「決して彼女たちの美しいカラダに目が眩んで、
+　鼻の下を伸ばしたからではありませんよ？」
+> CONTEXT: Map199/events/47/pages/0/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/47/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「はぁ全く…この町は、
+　行商人たちの駆け込み寺ではないというのに」
+> CONTEXT: Map199/events/48/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/48/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いくら女ばかりの商隊とはいえ、
+　そういつまでも甘い顔をして…でもあの女たち。
+　すごく美人だったなぁ」
+> CONTEXT: Map199/events/48/pages/0/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/48/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「商隊一同が助けれくれたお礼をしたいからって、
+　俺…夜に呼び出されてるんだよな。
+　いったいどんなお礼かな。まぁ想像はつくが…ぐへへ\\I[140]」
+> CONTEXT: Map199/events/48/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING

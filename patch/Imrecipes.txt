@@ -1,0 +1,131 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ハイポーション
+> CONTEXT: Imrecipes/1/name/
+> CONTEXT: Imrecipes/15/name/
+> CONTEXT: Imrecipes/16/name/
+High potion
+> END STRING
+
+> BEGIN STRING
+フルポーションＡ
+> CONTEXT: Imrecipes/2/name/
+Full potion A
+> END STRING
+
+> BEGIN STRING
+フルポーションＢ
+> CONTEXT: Imrecipes/3/name/
+Full potion B
+> END STRING
+
+> BEGIN STRING
+エリクサー
+> CONTEXT: Imrecipes/4/name/
+Elixir
+> END STRING
+
+> BEGIN STRING
+ディスペルハーブ
+> CONTEXT: Imrecipes/5/name/
+Di spell herbs
+> END STRING
+
+> BEGIN STRING
+ロングソード
+> CONTEXT: Imrecipes/6/name/
+Long sword
+> END STRING
+
+> BEGIN STRING
+ファルシオン
+> CONTEXT: Imrecipes/7/name/
+Falchion
+> END STRING
+
+> BEGIN STRING
+クロスボウ
+> CONTEXT: Imrecipes/8/name/
+Crossbow
+> END STRING
+
+> BEGIN STRING
+普段着
+> CONTEXT: Imrecipes/9/name/
+Everyday wear
+> END STRING
+
+> BEGIN STRING
+普段着をポーションをと換します。
+> CONTEXT: Imrecipes/9/description/
+And conversion and potions the everyday wear.
+> END STRING
+
+> BEGIN STRING
+バンダナ
+> CONTEXT: Imrecipes/10/name/
+Bandana
+> END STRING
+
+> BEGIN STRING
+バンダナをポーションと交換します。
+> CONTEXT: Imrecipes/10/description/
+The bandana is exchanged for the potion. 
+> END STRING
+
+> BEGIN STRING
+幸運のお守り
+> CONTEXT: Imrecipes/11/name/
+Guard of luck
+> END STRING
+
+> BEGIN STRING
+幸運のお守りをラックアップと交換します。
+> CONTEXT: Imrecipes/11/description/
+The guard of luck is exchanged for the rack improvement. 
+> END STRING
+
+> BEGIN STRING
+光のタリスマン
+> CONTEXT: Imrecipes/12/name/
+Talisman of light
+> END STRING
+
+> BEGIN STRING
+光のタリスマンをいろいろと交換します。
+> CONTEXT: Imrecipes/12/description/
+The talisman of light is variously exchanged. 
+> END STRING
+
+> BEGIN STRING
+回復セット
+> CONTEXT: Imrecipes/13/name/
+Recovery set
+> END STRING
+
+> BEGIN STRING
+ポーション、マジックウォーター、アンチドーテのセット
+> CONTEXT: Imrecipes/13/description/
+Set of potion, magic water, and [anchido-te]
+> END STRING
+
+> BEGIN STRING
+勇者セット
+> CONTEXT: Imrecipes/14/name/
+Hero set
+> END STRING
+
+> BEGIN STRING
+初めての勇者セットです。
+駆け出しの勇者さんにおすすめです。
+> CONTEXT: Imrecipes/14/description/
+The first hero set. 
+It is recommended in the hero of running off. 
+> END STRING
+
+> BEGIN STRING
+ＨＰを２５００ポイント回復する。
+> CONTEXT: Imrecipes/15/description/
+> CONTEXT: Imrecipes/16/description/
+Recover HP by 2500 points. 
+> END STRING

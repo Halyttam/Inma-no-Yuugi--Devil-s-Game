@@ -1,0 +1,36 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+マイホーム　室内
+> CONTEXT: Map051/display_name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+様々な生活用品が綺麗に収納されている。
+> CONTEXT: Map051/events/11/pages/1/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/18/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/19/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/21/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+最近収穫された野菜や果実が、
+革袋いっぱいに詰め込まれている。
+> CONTEXT: Map051/events/25/pages/1/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/26/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+調理器具や調味料などが、わかりやすく収納されている。
+> CONTEXT: Map051/events/27/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/28/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+釜戸の火は使ったばかりのようで、まだほんのり温かい。
+> CONTEXT: Map051/events/29/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING

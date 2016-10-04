@@ -1,0 +1,409 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+↑冒険者ギルド件宿屋
+ご休息、または酒、食事だけでもＯＫ
+新鮮な海の幸を食べたくなったら、我が店にぜひどうぞ
+> CONTEXT: Map203/events/7/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map096/events/7/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うちは札と道具の売り買いと、
+　バリアクズの引き取りをやってるよ。
+　それで…今日はどんな用だい？」
+> CONTEXT: Map203/events/19/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map201/events/18/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map199/events/41/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/41/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map115/events/18/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map096/events/19/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/10/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map044/events/9/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バリアクズを渡す
+> CONTEXT: Map203/events/19/pages/0/14/Choice/0 < UNTRANSLATED
+> CONTEXT: Map201/events/18/pages/0/14/Choice/0 < UNTRANSLATED
+> CONTEXT: Map199/events/41/pages/0/14/Choice/0 < UNTRANSLATED
+> CONTEXT: Map141/events/41/pages/0/14/Choice/0 < UNTRANSLATED
+> CONTEXT: Map115/events/18/pages/0/14/Choice/0 < UNTRANSLATED
+> CONTEXT: Map096/events/19/pages/0/14/Choice/0 < UNTRANSLATED
+> CONTEXT: Map001/events/10/pages/0/14/Choice/0 < UNTRANSLATED
+> CONTEXT: Map044/events/9/pages/0/14/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+道具の販売
+> CONTEXT: Map203/events/19/pages/0/14/Choice/1 < UNTRANSLATED
+> CONTEXT: Map201/events/18/pages/0/14/Choice/1 < UNTRANSLATED
+> CONTEXT: Map199/events/41/pages/0/14/Choice/1 < UNTRANSLATED
+> CONTEXT: Map141/events/41/pages/0/14/Choice/1 < UNTRANSLATED
+> CONTEXT: Map115/events/18/pages/0/14/Choice/1 < UNTRANSLATED
+> CONTEXT: Map096/events/19/pages/0/14/Choice/1 < UNTRANSLATED
+> CONTEXT: Map001/events/10/pages/0/14/Choice/1 < UNTRANSLATED
+> CONTEXT: Map044/events/9/pages/0/14/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+用はない
+> CONTEXT: Map203/events/19/pages/0/14/Choice/2 < UNTRANSLATED
+> CONTEXT: Map201/events/18/pages/0/14/Choice/2 < UNTRANSLATED
+> CONTEXT: Map199/events/41/pages/0/14/Choice/2 < UNTRANSLATED
+> CONTEXT: Map141/events/41/pages/0/14/Choice/2 < UNTRANSLATED
+> CONTEXT: Map140/events/1/pages/0/21/Choice/3 < UNTRANSLATED
+> CONTEXT: Map135/events/4/pages/0/9/Choice/2 < UNTRANSLATED
+> CONTEXT: Map131/events/1/pages/0/21/Choice/3 < UNTRANSLATED
+> CONTEXT: Map126/events/2/pages/0/12/Choice/3 < UNTRANSLATED
+> CONTEXT: Map117/events/1/pages/0/21/Choice/3 < UNTRANSLATED
+> CONTEXT: Map115/events/18/pages/0/14/Choice/2 < UNTRANSLATED
+> CONTEXT: Map108/events/1/pages/0/21/Choice/3 < UNTRANSLATED
+> CONTEXT: Map100/events/1/pages/0/21/Choice/3 < UNTRANSLATED
+> CONTEXT: Map096/events/19/pages/0/14/Choice/2 < UNTRANSLATED
+> CONTEXT: Map081/events/1/pages/0/21/Choice/3 < UNTRANSLATED
+> CONTEXT: Map069/events/1/pages/0/21/Choice/3 < UNTRANSLATED
+> CONTEXT: Map060/events/2/pages/0/12/Choice/3 < UNTRANSLATED
+> CONTEXT: Map044/events/1/pages/0/21/Choice/3 < UNTRANSLATED
+> CONTEXT: Map007/events/11/pages/0/12/Choice/3 < UNTRANSLATED
+> CONTEXT: Commonevents/36/14/Choice/2 < UNTRANSLATED
+> CONTEXT: Map001/events/10/pages/0/14/Choice/2 < UNTRANSLATED
+> CONTEXT: Map044/events/9/pages/0/14/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「今まで\\N[1]からもらったバリアクズは、\\V[660]個だな」
+> CONTEXT: Map203/events/19/pages/0/16/Dialogue < UNTRANSLATED
+> CONTEXT: Map201/events/18/pages/0/16/Dialogue < UNTRANSLATED
+> CONTEXT: Map199/events/41/pages/0/16/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/41/pages/0/16/Dialogue < UNTRANSLATED
+> CONTEXT: Map115/events/18/pages/0/16/Dialogue < UNTRANSLATED
+> CONTEXT: Map096/events/19/pages/0/16/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/10/pages/0/16/Dialogue < UNTRANSLATED
+> CONTEXT: Map044/events/9/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「何だ…新しいバリアクズを持ってないじゃないか」
+> CONTEXT: Map203/events/19/pages/0/23/Dialogue < UNTRANSLATED
+> CONTEXT: Map201/events/18/pages/0/23/Dialogue < UNTRANSLATED
+> CONTEXT: Map199/events/41/pages/0/23/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/41/pages/0/23/Dialogue < UNTRANSLATED
+> CONTEXT: Map115/events/18/pages/0/23/Dialogue < UNTRANSLATED
+> CONTEXT: Map096/events/19/pages/0/23/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/10/pages/0/23/Dialogue < UNTRANSLATED
+> CONTEXT: Map044/events/9/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「これで受け取ったバリアクズは、\\V[660]個になったぞ」
+> CONTEXT: Map203/events/19/pages/0/28/Dialogue < UNTRANSLATED
+> CONTEXT: Map201/events/18/pages/0/28/Dialogue < UNTRANSLATED
+> CONTEXT: Map199/events/41/pages/0/28/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/41/pages/0/28/Dialogue < UNTRANSLATED
+> CONTEXT: Map115/events/18/pages/0/28/Dialogue < UNTRANSLATED
+> CONTEXT: Map096/events/19/pages/0/28/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/10/pages/0/28/Dialogue < UNTRANSLATED
+> CONTEXT: Map044/events/9/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「これ以上交換出来る物はないぞ」
+> CONTEXT: Map203/events/19/pages/0/144/Dialogue < UNTRANSLATED
+> CONTEXT: Map201/events/18/pages/0/144/Dialogue < UNTRANSLATED
+> CONTEXT: Map199/events/41/pages/0/144/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/41/pages/0/144/Dialogue < UNTRANSLATED
+> CONTEXT: Map115/events/18/pages/0/144/Dialogue < UNTRANSLATED
+> CONTEXT: Map096/events/19/pages/0/144/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/10/pages/0/144/Dialogue < UNTRANSLATED
+> CONTEXT: Map044/events/9/pages/0/144/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「またどうぞ」
+> CONTEXT: Map203/events/19/pages/0/166/Dialogue < UNTRANSLATED
+> CONTEXT: Map201/events/18/pages/0/166/Dialogue < UNTRANSLATED
+> CONTEXT: Map199/events/41/pages/0/166/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/41/pages/0/166/Dialogue < UNTRANSLATED
+> CONTEXT: Map115/events/18/pages/0/166/Dialogue < UNTRANSLATED
+> CONTEXT: Map096/events/19/pages/0/166/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/10/pages/0/166/Dialogue < UNTRANSLATED
+> CONTEXT: Map044/events/9/pages/0/166/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+札屋
+特殊な札の販売、またバリアクズを引き取ります。
+バリアクズの引き取り数に応じて、
+珍しい品と交換いたします。
+> CONTEXT: Map203/events/20/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map201/events/19/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map199/events/28/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/28/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map115/events/19/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map096/events/20/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ここは定期船乗り場だ。
+　とはいえ、次の出港予定は未定だけどな」
+> CONTEXT: Map203/events/21/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map096/events/21/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いつになるか？　さぁ…何しろ今ついたばかりだからな。
+　一日二日ですぐ出るときもあるし、
+　数週間も留まるときもあるからなぁ」
+> CONTEXT: Map203/events/21/pages/0/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map096/events/21/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どちらにせよ、すぐ出港というわけにはいかないな。
+　おたくら冒険者なら、依頼でもこなしながら、
+　気長に待つほうが良いんじゃないか？」
+> CONTEXT: Map203/events/21/pages/0/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map096/events/21/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]確かにね。でも…依頼かぁ\\C[29]」
+> CONTEXT: Map203/events/21/pages/0/19/Dialogue < UNTRANSLATED
+> CONTEXT: Map096/events/21/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「おっと…今これといった依頼を受けてないんなら、
+　ぜひ俺の出す依頼を受けてくれよ」
+> CONTEXT: Map203/events/21/pages/0/21/Dialogue < UNTRANSLATED
+> CONTEXT: Map096/events/21/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]そうだな。取りあえず話を聞いて、
+　その内容次第ってことになるが、良いか？\\C[1]」
+> CONTEXT: Map203/events/21/pages/0/24/Dialogue < UNTRANSLATED
+> CONTEXT: Map096/events/21/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あいよっ！　実はこの村の東に、
+　今は使われてない下水道があるんだよ」
+> CONTEXT: Map203/events/21/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]下水道？　そんなものがあったんだぁ\\C[29]」
+> CONTEXT: Map203/events/21/pages/0/32/Dialogue < UNTRANSLATED
+> CONTEXT: Map096/events/21/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「まぁまだ魔法道具が普及していなくて、
+　炭鉱が賑わってた頃の話だからな。
+　今はもうこの町も、寂れた漁村に変わっちまったが」
+> CONTEXT: Map203/events/21/pages/0/34/Dialogue < UNTRANSLATED
+> CONTEXT: Map096/events/21/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「っと、話がそれちまったな。
+　実はその下水道に、大切な結婚指輪を落としちまってな」
+> CONTEXT: Map203/events/21/pages/0/38/Dialogue < UNTRANSLATED
+> CONTEXT: Map096/events/21/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もうだいぶ昔のことなんだが、
+　死んだ妻の形見なんでな。
+　出来れば見つけ出して欲しいんだ」
+> CONTEXT: Map203/events/21/pages/0/41/Dialogue < UNTRANSLATED
+> CONTEXT: Map096/events/21/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]その指輪が、下水道にあるのは確かなのか？\\C[1]」
+> CONTEXT: Map203/events/21/pages/0/45/Dialogue < UNTRANSLATED
+> CONTEXT: Map096/events/21/pages/0/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あぁ、下水に落としたのは確かだ。
+　とはいえ、今もまだ残っているかどうかまではな。
+　ただ探してくれるだけで良いんだ。…頼む！」
+> CONTEXT: Map203/events/21/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]私は構わないけど、
+　亡くなった奥さんの形見のようだしね。
+　出来れば見つけてあげたいよ\\C[29]」
+> CONTEXT: Map203/events/21/pages/0/53/Dialogue < UNTRANSLATED
+> CONTEXT: Map096/events/21/pages/0/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「嬢ちゃんは優しいな！
+　報酬は…そうだな。
+　定期船の一等客室でどうだ？」
+> CONTEXT: Map203/events/21/pages/0/57/Dialogue < UNTRANSLATED
+> CONTEXT: Map096/events/21/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「お二人さんが何処まで乗るか知らないが、
+　陸に上がるまでは、快適な船の旅を約束するぜ！」
+> CONTEXT: Map203/events/21/pages/0/61/Dialogue < UNTRANSLATED
+> CONTEXT: Map096/events/21/pages/0/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[29]「\\C[0]\\N[1]、なかなか良さそうだよ。
+　この依頼受けようよ！\\C[29]」
+> CONTEXT: Map203/events/21/pages/0/66/Dialogue < UNTRANSLATED
+> CONTEXT: Map096/events/21/pages/0/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]「\\C[0]そうだな…まぁ、
+　断る理由もこれといってないしな。
+　だが、見つからなくても恨むなよ？\\C[1]」
+> CONTEXT: Map203/events/21/pages/0/69/Dialogue < UNTRANSLATED
+> CONTEXT: Map096/events/21/pages/0/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ははっ！　心配しなくても、その時はいさぎよく諦めるさ！
+　それじゃ…頼んだぜ！」
+> CONTEXT: Map203/events/21/pages/0/74/Dialogue < UNTRANSLATED
+> CONTEXT: Map096/events/21/pages/0/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「昔はただの下水道だったんだが、
+　今は淫魔がはびこる危険な場所って噂だ」
+> CONTEXT: Map203/events/21/pages/1/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map096/events/21/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「くれぐれも気をつけて探してくれよ」
+> CONTEXT: Map203/events/21/pages/1/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map096/events/21/pages/1/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んっ…どうしたお二人さん。
+　もしかして、見つけてくれたのか？」
+> CONTEXT: Map203/events/21/pages/2/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map096/events/21/pages/2/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「こっ…こいつは！　大分汚れちまってるが、
+　裏に妻の名前が彫ってあるから間違いないぜ！」
+> CONTEXT: Map203/events/21/pages/2/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map096/events/21/pages/2/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「うっ…うぅ…何で、
+　俺を残して逝っちまったんだよ…」
+> CONTEXT: Map203/events/21/pages/2/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map096/events/21/pages/2/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「…おっとすまねえ。
+　最近、妙に涙もろくてな」
+> CONTEXT: Map203/events/21/pages/2/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map096/events/21/pages/2/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「とにかくお二人さんを歓迎するぜ！
+　丁度、荷物の積み込みも終わったことだし、
+　いつでも出港出来るぜ！」
+> CONTEXT: Map203/events/21/pages/2/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map096/events/21/pages/2/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それで、今すぐ乗るのかい？」
+> CONTEXT: Map203/events/21/pages/3/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map096/events/21/pages/3/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「んー…今日も海が穏やかで良い日だな」
+> CONTEXT: Map203/events/24/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map096/events/24/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「これならきっと、魚もたくさんとれそうだぜ」
+> CONTEXT: Map203/events/24/pages/0/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map096/events/24/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「はぁ…海は良いのう」
+> CONTEXT: Map203/events/25/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map096/events/25/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「たとえ村は寂れたとしても、
+　海は何も変わらず、そこにあるのじゃ」
+> CONTEXT: Map203/events/25/pages/0/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map096/events/25/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そう…この村の東の区画は寂れ、
+　建物は全て崩れ去ってしまったがのう」
+> CONTEXT: Map203/events/25/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,57 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+調味料や食材が収納されている。
+> CONTEXT: Map065/events/4/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あら…この寝間着にもほつれが。
+　繕うのにも限度があるし、
+　そろそろ新しいのを一着か二着は買い揃えるべきですね」
+> CONTEXT: Map065/events/5/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/5/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「でも行商人の人はいつ来るかわかりませんし、
+　何より売値も高いですから…困りましたね」
+> CONTEXT: Map065/events/5/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/5/pages/1/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私も昔は診療所でナースとして働いていましたが、
+　まさか…そのようなことになっていたなんて」
+> CONTEXT: Map065/events/5/pages/1/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+調味料や食材、その他薬品が綺麗に整頓されている。
+> CONTEXT: Map065/events/6/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+食器類がキチッと並べられている。
+> CONTEXT: Map065/events/7/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/8/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+色々な種類の本が、あいうえお順に並べられている。
+> CONTEXT: Map065/events/9/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/10/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+傷薬から媚薬まで幅広い薬が、収納されている。
+> CONTEXT: Map065/events/11/pages/1/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/12/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
